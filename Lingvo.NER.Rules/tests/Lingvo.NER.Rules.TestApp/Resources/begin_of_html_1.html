@@ -1,0 +1,165 @@
+﻿<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+<!--
+  <link rel="shortcut icon" type="image/png" sizes="16x16" href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEU0OkArMjhobHEoPUPFEBIu
+O0L+AAC2FBZ2JyuNICOfGx7xAwTjCAlCNTvVDA1aLzQ3COjMAAAAVUlEQVQI12NgwAaCDSA0888G
+CItjn0szWGBJTVoGSCjWs8TleQCQYV95evdxkFT8Kpe0PLDi5WfKd4LUsN5zS1sKFolt8bwAZrCa
+GqNYJAgFDEpQAAAzmxafI4vZWwAAAABJRU5ErkJggg==" />
+-->
+  <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;base64,
+AAABAAEAEBAAAAAAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAAAAAAAAAAAAAAAAA
+AAAAAAAsn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3MA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAsn3Msn3MAAAAXDwIXDwIXDwIXDwIXDwIAAAAAAAAXDwIXDwIXDwIXDwIXDwIAAAAsn3Ms
+n3MAAAAXDwIXDwIAAAAAAAAXDwIXDwIAAAAXDwIXDwIXDwIXDwIXDwIAAAAsn3Msn3MAAAAXDwIX
+DwIAAAAAAAAAAAAXDwIXDwIXDwIXDwIAAAAAAAAAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAA
+AAAXDwIXDwIXDwIXDwIXDwIXDwIAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAAAAAXDwIXDwIX
+DwIXDwIXDwIXDwIAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAAAAAXDwIXDwIXDwIXDwIAAAAA
+AAAAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAXDwIXDwIAAAAXDwIXDwIXDwIXDwIXDwIAAAAs
+n3Msn3MAAAAXDwIXDwIXDwIXDwIXDwIAAAAAAAAXDwIXDwIXDwIXDwIXDwIAAAAsn3Msn3MAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3Msn3Msn3Msn3Msn3Ms
+n3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3MAAAAAf/4AAH/+AAB//gAAf/4AAH/+AABB
+ggAATIIAAE4eAABOBgAATgYAAE4eAABMggAAQYIAAH/+AAAAAAAA">
+    <style type="text/css">
+        table { width: 100%; border-collapse: collapse; line-height: 20px; }
+        span { display: table; }
+        tr:nth-child(2n+1) { background-color: whitesmoke; }
+        th { color: white; background-color: dimgray; border: 1px black solid; white-space: nowrap;}
+        td { vertical-align: top; border: 1px silver solid; padding: 5px; }
+            th:nth-child(1), td:nth-child(1) { color: silver; font-size: x-small; }
+            td:nth-child(2) { font-size: 1.05em; }
+            th:nth-child(2), td:nth-child(2) {width: 35%;}
+            th:nth-child(3), td:nth-child(3) {width: 25%;}
+            th:nth-child(4), td:nth-child(4) {width: 40%; padding: 0;}
+        .inner td {border: none;}
+            .inner th:nth-child(2), .inner td:nth-child(2) {width: 10%;}
+            .inner th:nth-child(3), .inner td:nth-child(3) {width: 30%; } .inner td:nth-child(3){text-align: right; color: gray;font-size: small;}
+            .inner th:nth-child(4), .inner td:nth-child(4) {width: 60%; }
+        /*.inner2 td {border: none;}*/
+            .inner2 th:nth-child(2), .inner2 td:nth-child(2) {width: 10%;}
+            .inner2 th:nth-child(3), .inner2 td:nth-child(3) {width: 45%; }
+            .inner2 th:nth-child(4), .inner2 td:nth-child(4) {width: 45%; }
+        .inner3 td {border: none;}
+            .inner3 th:nth-child(1), .inner3 td:nth-child(1) {width: 10%; color: inherit; font-size: inherit;}
+            .inner3 th:nth-child(2), .inner3 td:nth-child(2) {width: 30%; } .inner3 td:nth-child(2){text-align: right; color: gray;font-size: small;}
+            .inner3 th:nth-child(3), .inner3 td:nth-child(3) {width: 60%; }
+        .b_t, .a_t { color: gray; }
+        .h_t { color: limegreen; font-weight: bold; }
+        .ok { vertical-align: middle; text-align: center; background-color: lightgreen; }
+        .descr { /*background: whitesmoke;*/ border: 1px silver dotted; color: lightgray; font-size: 0.6em; }
+        .text {  }
+
+        button { border: 1px silver solid; border-radius: 5px; cursor: pointer; padding: 1px 3px; margin-left: 3px; float: right; }
+        /*div.hide { display: none; }*/
+        h4 { margin: 0; }
+        .f_n { position: absolute; right: 0; margin-right: 40px; margin-left: 10px;
+               /* font-size: 0.7em; */
+               color: silver; max-width: 450px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    </style>
+    <style type="text/css" id="NER--css">
+        .NER {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+        }
+        .td-ner {
+            width: 100%; 
+            border-bottom: 1px solid rgb(237, 237, 237);
+            padding-bottom: 5px;
+            text-align: left;
+        }
+        .PhoneNumber {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: #c1c100; /*darkviolet;*/ /*#222;*/
+        }
+        .Url,
+        .Email {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: lightseagreen;
+        }
+        .CustomerNumber {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: darkorange;
+        }
+        .Birthday {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: darkorchid;
+        }
+        .Birthplace {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: orchid;
+        }
+        .MaritalStatus {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: darkred;
+        }
+        .Nationality {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: darkblue;
+        }
+        .CreditCard {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: cyan;
+        }
+        .PassportIdCardNumber {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: mediumvioletred;
+        }
+        .CarNumber {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: crimson;
+        }
+        .HealthInsurance {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: seagreen;
+        }
+        .DriverLicense {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: cadetblue;
+        }
+        .SocialSecurity {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: darkorchid;
+        }
+        .TaxIdentification {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: magenta;
+        }
+        .Address {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: orangered;
+        }
+        .AccountNumber {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: blueviolet;
+        }
+        .Name {
+            border-bottom: 1px dotted black;
+            font-weight: bold;
+            color: rgb(167, 40, 40);
+        }
+    </style>
+</head>
+<body>
+

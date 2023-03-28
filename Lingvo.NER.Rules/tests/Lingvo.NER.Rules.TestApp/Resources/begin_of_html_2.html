@@ -1,0 +1,149 @@
+﻿<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title></title>
+<!--
+  <link rel="shortcut icon" type="image/png" sizes="16x16" href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEU0OkArMjhobHEoPUPFEBIu
+O0L+AAC2FBZ2JyuNICOfGx7xAwTjCAlCNTvVDA1aLzQ3COjMAAAAVUlEQVQI12NgwAaCDSA0888G
+CItjn0szWGBJTVoGSCjWs8TleQCQYV95evdxkFT8Kpe0PLDi5WfKd4LUsN5zS1sKFolt8bwAZrCa
+GqNYJAgFDEpQAAAzmxafI4vZWwAAAABJRU5ErkJggg==" />
+-->
+  <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;base64,
+AAABAAEAEBAAAAAAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAAAAAAAAAAAAAAAAA
+AAAAAAAsn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3MA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAsn3Msn3MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAsn3Msn3MAAAAXDwIXDwIXDwIXDwIXDwIAAAAAAAAXDwIXDwIXDwIXDwIXDwIAAAAsn3Ms
+n3MAAAAXDwIXDwIAAAAAAAAXDwIXDwIAAAAXDwIXDwIXDwIXDwIXDwIAAAAsn3Msn3MAAAAXDwIX
+DwIAAAAAAAAAAAAXDwIXDwIXDwIXDwIAAAAAAAAAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAA
+AAAXDwIXDwIXDwIXDwIXDwIXDwIAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAAAAAXDwIXDwIX
+DwIXDwIXDwIXDwIAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAAAAAXDwIXDwIXDwIXDwIAAAAA
+AAAAAAAAAAAsn3Msn3MAAAAXDwIXDwIAAAAAAAAXDwIXDwIAAAAXDwIXDwIXDwIXDwIXDwIAAAAs
+n3Msn3MAAAAXDwIXDwIXDwIXDwIXDwIAAAAAAAAXDwIXDwIXDwIXDwIXDwIAAAAsn3Msn3MAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsn3Msn3Msn3Msn3Msn3Msn3Ms
+n3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3Msn3MAAAAAf/4AAH/+AAB//gAAf/4AAH/+AABB
+ggAATIIAAE4eAABOBgAATgYAAE4eAABMggAAQYIAAH/+AAAAAAAA">
+  <style type="text/css">
+    h4 { margin: 0; }
+    table { width: 100%; border-collapse: collapse; line-height: 20px; }
+    tr:nth-child(2n+1) { background-color: whitesmoke; }
+    th { color: white; background-color: dimgray; border: 1px black solid; white-space: nowrap;}
+    td { vertical-align: top; border: 1px silver solid; padding: 5px; }
+      th:nth-child(1), td:nth-child(1) { color: silver; font-size: x-small; }
+      th:nth-child(2), td:nth-child(2) {width: 50%;}
+      th:nth-child(3), td:nth-child(3) {width: 50%;}
+      /*th:nth-child(4), td:nth-child(4) {width: 6%; }*/
+    .ok, .mismatch { vertical-align: top; text-align: center; font-weight: bold; }
+    /*.ok span, .mismatch span { border: 1px solid black; }*/
+    .ok { background-color: lightgreen; }
+    .mismatch { background-color: lightpink; }
+    .descr { /*background: whitesmoke;*/ border: 1px silver dotted; color: lightgray; font-size: 0.6em; }
+    .summary { text-align: right; font-size: 1.2em; }
+    .summary .ok, .summary .mismatch { text-align: right; font-weight: inherit; }
+
+    .text { max-height: 450px; overflow-y: auto; }
+    /* Let's get this party started */
+    .text::-webkit-scrollbar { width: 12px; height: 7px; }
+    /* Track */
+    .text::-webkit-scrollbar-track { -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); -webkit-border-radius: 3px; border-radius: 3px; }
+    /* Handle */
+    .text::-webkit-scrollbar-thumb { -webkit-border-radius: 3px; border-radius: 3px; background: #ccc; -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); }
+      .text::-webkit-scrollbar-thumb:window-inactive { background: #eee; }
+  </style>
+  <style type="text/css" id="NER__css">
+    .NER {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+    }
+    .PhoneNumber, .phoneNumber {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: #c1c100; /*darkviolet;*/ /*#222;*/
+    }
+    .Url, .Email, .url, .email {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: lightseagreen;
+    }
+    .CustomerNumber, .customerNumber {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: darkorange;
+    }
+    .Birthday, .birthday {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: darkorchid;
+    }
+    .Birthplace, .birthplace {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: orchid;
+    }
+    .MaritalStatus, .maritalStatus {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: darkred;
+    }
+    .Nationality, .nationality {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: darkblue;
+    }
+    .CreditCard, .creditCard {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: cyan;
+    }
+    .PassportIdCardNumber, .passportIdCardNumber {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: mediumvioletred;
+    }
+    .CarNumber, .carNumber {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: crimson;
+    }
+    .HealthInsurance, .healthInsurance {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: seagreen;
+    }
+    .DriverLicense, .driverLicense {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: cadetblue;
+    }
+    .SocialSecurity, .socialSecurity {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: darkorchid;
+    }
+    .TaxIdentification, .taxIdentification {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: magenta;
+    }
+    .Address, .address {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: orangered;
+    }
+    .AccountNumber, .accountNumber {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: blueviolet;
+    }
+    .Name, .name {
+      border-bottom: 1px dotted black;
+      font-weight: bold;
+      color: rgb(167, 40, 40);
+    }
+  </style>
+</head>
+<body>
+

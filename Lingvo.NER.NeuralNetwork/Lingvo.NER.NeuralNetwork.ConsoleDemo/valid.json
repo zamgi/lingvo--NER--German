@@ -1,0 +1,15 @@
+{
+  "SentSplitterResourcesXmlFilename": "..\\[resources]\\tokenizing\\sent-splitter-resources.xml",
+  "UrlDetectorResourcesXmlFilename" : "..\\[resources]\\tokenizing\\url-detector-resources.xml",
+    
+  "ModelFilePath"           : "..\\[resources]\\models\\ner_de__em128__e6xm8_(upper).s2s",
+  "ModelUpperCase"          : true,
+  "ValidCorpusPath"         : "..\\[resources]\\valid\\valid_ner_de__3e__(num_replaced)_(upper).txt",  
+  //"ValidationOutputFileName": "valid_output_sents.txt",
+  "ShuffleType"             : "NoPadding",
+  "BatchSize"               : 10,
+  "MaxPredictSentLength"    : 110,
+  "TryRunValidateParallel"  : true,
+  "ProcessorType"           : "CPU", //"GPU", //
+  "CompilerOptions"         : "--use_fast_math --gpu-architecture=compute_60"
+}

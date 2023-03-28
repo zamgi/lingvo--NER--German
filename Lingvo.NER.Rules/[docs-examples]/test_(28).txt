@@ -1,0 +1,19 @@
+Nr.    Name    Vorname    Straße    Stadt
+1    Dorn    Erwin    Ober den Mühlgraben 9     06325 Schöllkrippen
+2    Schmidt     Helmut    Hauptstr. 22     55758 Herborn
+3    Bard    Ewald    Zur Johann-Ad.-Mühle 2     66636 Tholey
+4    Kipper    Hans    Grissackerweg 30     66440 Blieskastel
+5    Alex    Heinz    Schulstr. 31     66386 St. Ingbert
+6    Henzler    August    Herm.-Loens-Str. 7     66459 Kirkel
+7    Gehse    Heinz    Ueberhofer Str. 37d     66292 Riegelsberg
+8    Rüfer    Gerhard    Schlossstr. 1     76297 Stutensee
+9    Jung    Ulrich    Pistorstr. 10     66482 Zweibrücken
+10    Bidmon    Heinrich    Wilhelmstr. 46     66354 Reinheim
+11    Pflugk    Richard    Eichenweg 15     66916 Breitenbach
+12    Stauch    Karl-Heinz    Zweibrücker Str. 13     66497 Contwig
+13    Weber    Norbert    Hauptstr. 6     66128 Saarbrücken
+14    Pütz    Karl    Schulstr. 9     54451 Irsch
+15    Gartenhof    Peter    Mainzer Str. 101     66424 Homburg
+16    Kolp    Dieter    Eichenweg 1     66459 Kirkel
+17    Hübchen    Bernhard    Pfaffenweg 33     66709 Weiskirchen
+18    Hertl    Helmut    Brückenstr. 2    66802 Überherrn

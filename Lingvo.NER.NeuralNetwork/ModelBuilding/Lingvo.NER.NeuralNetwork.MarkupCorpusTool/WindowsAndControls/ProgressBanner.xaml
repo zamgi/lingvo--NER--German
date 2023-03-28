@@ -1,0 +1,89 @@
+﻿<UserControl x:Class="Lingvo.NER.NeuralNetwork.MarkupCorpusTool.ProgressBanner"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:self="clr-namespace:Lingvo.NER.NeuralNetwork.MarkupCorpusTool"
+             xmlns:uc="clr-namespace:System.Windows.Controls"
+             Width="450"
+             Height="250"
+             x:Name="progressBanner"
+             >
+
+  <Grid x:Name="grid">
+      
+    <Grid.RowDefinitions>
+        <RowDefinition Height="10" />
+	    <RowDefinition Height="{Binding ElementName=img_Banner,   Path=Height}" />
+	    <RowDefinition Height="{Binding ElementName=txt_Title,    Path=Height}" />
+        <RowDefinition Height="{Binding ElementName=txt_Filename, Path=Height}" />
+        <RowDefinition Height="{Binding ElementName=btn_Cancel,   Path=Height}" />
+        <RowDefinition Height="10" />
+    </Grid.RowDefinitions>
+
+    <uc:GifAnimationControl x:Name="img_Banner"
+                            Grid.Row="1" 
+                            Opacity="0.6"
+                            Source="/Resources/progress-banner.gif"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Height="113"
+                            Width="113" />
+		
+    <TextBlock x:Name="txt_Title" 
+	           Grid.Row="2" 
+	           Padding="5,5,5,5"
+	           Text="...processing..."
+	           Opacity="0.35"
+               FontFamily="Times New Roman"
+               FontSize="36"
+               TextTrimming="CharacterEllipsis"
+               TextAlignment="Center"/>
+        <TextBlock x:Name="txt_Filename" 
+	           Grid.Row="3" 
+	           Padding="5,5,5,5"
+	           Text="[file-name]"
+	           Opacity="0.35"
+               FontFamily="Times New Roman"
+               FontSize="18"
+               TextTrimming="CharacterEllipsis"
+               TextAlignment="Center"/>
+
+    <self:Button x:Name="btn_Cancel" 
+                 Grid.Row="4" 
+                 HorizontalAlignment="Center"                 
+                 Text="cancel" 
+                 FontSize="8.5" 
+                 Cursor="Hand"                                  
+                 MouseLeftButtonUp="btn_Cancel_Click"  />
+   
+</Grid>
+  
+  <UserControl.Triggers>
+      <EventTrigger RoutedEvent="UserControl.Loaded">
+          <EventTrigger.Actions>
+              <BeginStoryboard>
+                  <Storyboard>
+                      <DoubleAnimation AutoReverse="True" 
+                                       RepeatBehavior="Forever"
+                                       Storyboard.TargetName="img_Banner" 
+                                       Storyboard.TargetProperty="Opacity" 
+                                       From="0.2" 
+                                       To="1.0" 
+                                       Duration="0:0:2.0" />
+                  </Storyboard>
+              </BeginStoryboard>
+              <BeginStoryboard>
+                  <Storyboard>
+                      <DoubleAnimation AutoReverse="True" 
+                                       RepeatBehavior="Forever"
+                                       Storyboard.TargetName="txt_Title" 
+                                       Storyboard.TargetProperty="Opacity" 
+                                       From="0.7" 
+                                       To="0.2"                                        
+                                       Duration="0:0:2.0" />
+                  </Storyboard>
+              </BeginStoryboard>              
+          </EventTrigger.Actions>
+      </EventTrigger>
+  </UserControl.Triggers>
+    
+</UserControl>

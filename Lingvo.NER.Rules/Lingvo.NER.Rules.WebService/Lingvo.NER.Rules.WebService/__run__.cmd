@@ -1,0 +1,1 @@
+bin\Lingvo.NER.Rules.WebService.exe

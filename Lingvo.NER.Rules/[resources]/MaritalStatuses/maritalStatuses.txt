@@ -1,0 +1,89 @@
+﻿ledig
+verheiratet
+verlobt
+geschieden
+getrennt
+verwitwet
+in einer Lebensgemeinschaft
+eingetragene Lebenspartnerschaft
+eingetragene Lebenspartnerin/eingetragener Lebenspartner verstorben
+eingetragene Lebenspartnerin verstorben
+eingetragener Lebenspartner verstorben
+eingetragene Lebenspartnerschaft aufgehoben
+solo
+liiert
+Single
+Mingle
+Ehe
+Ehegemeinschaft
+in einer Beziehung
+in einer Beziehung lebend
+in fester Beziehung
+in fester Beziehung lebend
+in einer Wohngemeinschaft
+zusammen lebend
+zusammenlebend
+nicht zusammen lebend
+nicht zusammenlebend
+allein lebend
+alleinlebend
+keine Angabe
+es ist kompliziert
+in einer offenen Beziehung
+Wohngemeinschaft
+in fester Partnerschaft
+mit dem Lebenspartner zusammen lebend
+mit dem Lebenspartner zusammenlebend
+mit der Lebenspartnerin zusammen lebend
+mit der Lebenspartnerin zusammenlebend
+durch Tod aufgelöste Lebenspartnerschaft
+aufgehobene Lebenspartnerschaft
+durch Todeserklärung aufgelöste Lebenspartnerschaft
+nicht bekannt
+unbekannt
+LD
+VH
+VW
+GS
+EA
+LP
+LV
+LA
+LE
+NB
+Witwer
+Witwe
+Lebens- und Einstandsgemeinschaft
+Lebensgemeinschaft
+Einstandsgemeinschaft
+Bedarfsgemeinschaft
+verpartnert
+
+single
+married
+engaged
+divorced
+separated
+widowed
+in a cohabitation
+registered life partnership
+registered life partner deceased
+registered civil partnership annulled
+solo
+mingle
+in a relationship
+living in a relationship
+living in a flat share
+living together
+not living together
+not specified
+it is complicated
+in an open relationship
+in a steady partnership
+living together with the life partner
+living together with the partner
+civil partnership dissolved by death
+dissolved civil partnership
+civil partnership dissolved by declaration of death
+not known
+unknown

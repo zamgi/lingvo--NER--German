@@ -1,0 +1,63 @@
+Abrechnungszeitpunkt: 13.07.2020
+Ihre Rechnung (SSL)
+Pos. Die Leistungen im Überblick Tarif Einheiten Brutto (EUR) MwSt
+Sonstige Leistungen
+1 SSL Starter Wildcard 6,00 EUR je Monat 0,2 Mon. 1,20 19%
+25.06.2020-01.07.2020
+2 SSL Starter Wildcard 6,00 EUR je Monat 6 Mon. 35,09 16%
+01.07.2020-01.01.2021
+3 SSL Starter Wildcard 6,00 EUR je Monat 5,8 Mon. 34,80 19%
+01.01.2021-25.06.2021
+Zwischensumme (19,00%)
++ Mehrwertsteuer (19,00%)
+1,01 EUR
+0,19 EUR
+Zwischensumme (16,00%)
++ Mehrwertsteuer (16,00%)
+30,25 EUR
+4,84 EUR
+Zwischensumme (19,00%)
++ Mehrwertsteuer (19,00%)
+29,24 EUR
+5,56 EUR
+Zu zahlender Betrag 71,09 EUR
+Die deutsche Bundesregierung hat im Rahmen ihres Konjunkturpakets beschlossen, die geltende Mehrwertsteuer befristet von 19 auf 16 Prozent zu senken. Der
+reduzierte Steuersatz gilt vom 1. Juli bis zum 31. Dezember 2020. Wir haben die vorübergehende Anpassung entsprechend vorgenommen, wodurch Sie von der
+Mehrwertsteuersenkung profitieren. Den von Ihnen zu zahlenden Steuerbetrag finden Sie natürlich auf Ihrer Rechnung. Bitte beachten Sie, dass einzelne
+Beschreibungen noch den alten Steuersatz aufweisen können.
+Entsprechend Ihrem SEPA-Lastschriftmandat buchen wir den Rechnungsbetrag von 71,09 EUR am 19.07.2020 von Ihrem Konto ab.
+Die Daten Ihres SEPA-Lastschriftmandats lauten:
+IBAN: DE8XXXXXXXXXXXXXXXX469
+BIC: PBNKDEFFXXX
+Name der Bank: Postbank
+Mandatsreferenz: 0020001759416
+Gläubiger-Identifikationsnummer: DE74ZZZ00000045294
+Aus technischen Gründen kann es vorkommen, dass der oben genannte Betrag um mehrere Tage verzögert abgebucht wird.
+Unter mein.ionos.de finden Sie alle Informationen zu Ihren Abrechnungen. Antworten auf Fragen rund um Ihre Rechnungen und Verträge finden Sie zudem im
+Hilfe-Center.
+Vorstand: Dr. Christian Böing, Hüseyin Dogan, Dr. Martin Endreß, Hans-Henning Kettler, Arthur Mai, Matthias Steinberg, Achim Weiss
+Hauptsitz Montabaur, Amtsgericht Montabaur, HRB 24498 · USt-IdNr.: DE815563912
+Commerzbank AG, BLZ 200 400 00, Konto 630 148 502, IBAN DE83 2004 0000 0630 1485 02, BIC COBADEHHXXX
+Rechnungsdatum: 14.07.2020
+Rechnungsnummer: 100073902461
+Vertragsnummer: V69747615
+Kundennummer: K6398314
+Brauchen Sie Hilfe: www.ionos.de/hilfe
+Mein IONOS: mein.ionos.de/invoices
+E-Mail: rechnungsstelle@ionos.de
+Telefon: 0721 170 555
+Servicezeiten: täglich rund um die Uhr
+Bitte halten Sie für Gespräche mit unseren
+Mitarbeitern Ihre persönliche Telefon PIN zur
+schnellen und sicheren Authentifizierung bereit.
+Diese können Sie unter mein.ionos.de setzen
+und verwalten.
+Herr
+Maxim Tarassenko
+Schultenberg 54
+45470 Mülheim an der Ruhr
+Rechnung
+1&1 IONOS SE
+Elgendorfer Str. 57
+56410 Montabaur
+Kopie vom 16.08.2020

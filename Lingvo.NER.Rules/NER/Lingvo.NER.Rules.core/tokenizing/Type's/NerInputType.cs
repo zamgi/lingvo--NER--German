@@ -1,0 +1,70 @@
+﻿namespace Lingvo.NER.Rules
+{
+    /// <summary>
+    /// 
+    /// </summary>
+    public enum NerInputType : byte
+    {
+        #region [.common.]
+        Other,              // other's (другой)
+        AllCapital,         // Все заглавные буквы (больше одной) [МТС]        
+        LatinCapital,       // Только первая заглавная на латинице [Fox]
+        MixCapital,         // Смешенные заглавные и прописные буквы; 
+                               //русский   : {латиница + кириллица [СевКавГПУ]}, 
+                               //английский: {заглавные и строчные, первая буква - заглавная, между буквами может быть тире, точка: St.-Petersburg , FireFox, Google.Maps}
+        MixCapitalWithDot,  // Все заглавные буквы (больше одной) подряд с точкой (точками) [V.IV.I.PA]
+        NumCapital,         // Начинается с заглавной буквы и содержит хотябы одну цифру [МИГ-21]
+        OneCapital,         // Одна заглавная буква без точки [F]
+        OneCapitalWithDot,  // одна заглавная буква с точкой [F.]
+        FirstLowerWithUpper,// первая буква строчная; в слове нет точек; обязательно присутствует заглавная буква
+        Quote,              // кавычки ["«“”»]
+        Num,                // цифры в любой комбинации со знаками препинаний без букв [2,4 ; 10000 ; 2.456.542 ; 8:45]
+        #endregion
+
+        #region [.russian-language.]
+        LatinNum,        // Хотя бы одна римская цифра буква (без точки) [XVI] [X-XI]
+        Comma,           // запятую и точку с запятой
+        //AllLatinCapital, // все буквы заглавные и все на латинице [POP]        
+        //FirstCapital,    // Только первая заглавная на кириллице [Вася]
+        #endregion
+
+        #region [.english-language.]
+        AllCapitalWithDot, // все заглавные буквы (больше одной) с точкой (точками), без тире: [U.N.]
+        LatinFirstCapital, // только первая заглавная:  [Thatcher]
+        #endregion
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    public static partial class NerExtensions
+    {
+        public static string ToText( this NerInputType nerInputType ) => nerInputType.ToString();
+
+        public static char ToCrfChar( this NerInputType nerInputType )
+        {
+            switch ( nerInputType )    
+            {
+                case NerInputType.AllCapital:        return ('A');
+                //case NerInputType.AllLatinCapital:   return ('B');
+                case NerInputType.LatinNum:          return ('D');
+                case NerInputType.MixCapitalWithDot: return ('C');
+                case NerInputType.NumCapital:        return ('K');
+                case NerInputType.OneCapital:        return ('F');
+                case NerInputType.OneCapitalWithDot: return ('H');
+                case NerInputType.MixCapital:        return ('X');
+                case NerInputType.LatinCapital:      return ('S');
+                //case NerInputType.FirstCapital:      return ('Z');
+                case NerInputType.Quote:             return ('Q');
+                case NerInputType.FirstLowerWithUpper:             return ('L');
+                case NerInputType.Num:               return ('N');
+                case NerInputType.Comma:             return ('Y');
+                
+                case NerInputType.AllCapitalWithDot: return ('E'/*'B'*/);
+                case NerInputType.LatinFirstCapital: return ('G'/*'C'*/);
+                default: //case NerInputType.Other:  
+                         return ('O');
+            }
+        }
+    }
+}

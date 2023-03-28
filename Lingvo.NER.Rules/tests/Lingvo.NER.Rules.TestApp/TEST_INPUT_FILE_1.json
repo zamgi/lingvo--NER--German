@@ -1,0 +1,59 @@
+﻿[
+  {
+    "Description": "Names #1",
+    "Text": "Verwendete Literatur: \r\n Name in title JULIA BRUMM is now recognized, \r\n Name in title julia BRUMM is not recognized, \r\n Name in title Julia BRUMM is now recognized, \r\n Name in title Julia Brumm is now recognized,....",
+    "NerWords": [
+      {
+        "nerOutputType": "Name",
+        "Firstname": "JULIA",
+        "Surname": "BRUMM"
+        //"TextPreambleType":  ""
+      },
+      {
+        "nerOutputType": "Name",
+        "Firstname": "Julia",
+        "Surname": "BRUMM"
+      },
+      {
+        "nerOutputType": "Name",
+        "Firstname": "Julia",
+        "Surname": "Brumm"
+      }
+    ]
+  },
+  {
+    "Description": "Names #2",
+    "Text": "Verwendete Literatur: \r\n Freudenberger-Lötz, Petra und Müller-Friese, Anita: Schatztruhe Religion. Materialien für den fächerverbindenden Unterricht in der Grundschule. Teil 1. Calwer. Stuttgart. 2005 \r\n Wuckelt, Agnes und Seifert, Viola: Ich bin Naomi und wer bist du? Interreligiöses Lernen in der Grundschule",
+    "NerWords": [
+      {
+        "nerOutputType": "Name",
+        "Firstname": "Xer",
+        "Surname": "Mammin"
+      }
+    ]
+  },
+
+
+  {
+    "Description": "Email #1",
+    "Text": "Vertretungsberechtigter Geschäftsführer ist abcdefg qweruiyvqwe - Tel xxx/***** - Fax ***/xxxxxx - info@test-zahnzusatzversicherung.de – www.test-zahnzusatzversicherung.de. \r\n thorsten.wiese@rocketta.de \r\n thorsten.wiese[at]rocketta.de \r\n thorsten.wiese(at)rocketta.de",
+    "NerWords": [
+      {
+        "nerOutputType": "Email",
+        "valueOriginal": "info@test-zahnzusatzversicherung.de"
+      },
+      {
+        "nerOutputType": "Email",
+        "valueOriginal": "thorsten.wiese@rocketta.de"
+      },
+      {
+        "nerOutputType": "Email",
+        "valueOriginal": "thorsten.wiese[at]rocketta.de"
+      },
+      {
+        "nerOutputType": "Email",
+        "valueOriginal": "thorsten.wiese(at)rocketta.de"
+      }
+    ]
+  }
+]

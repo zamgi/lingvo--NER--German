@@ -1,0 +1,58 @@
+﻿LG Chem Europe GmbH 	 	 	 	 	 	 	August 2016 
+Lyoner Straße 15 
+60528 Frankfurt 
+ 
+Zusatzblatt für die neue RESU 3.3/6.5/10: Wie stelle ich die Dreh- und Dippschalter an der RESU ein, um Kommunikation zum Batteriewechselrichter aufzunehmen? 
+ 
+Sehr geehrte Damen und Herren 
+Die Parameter der LG Chem Batterie und des Batterie-Wechselrichters sind so aufeinander abgestimmt worden, dass Sie die Kommunikationseinstellungen direkt an der Batterie vornehmen können und dabei ein normales Patchkabel verwenden können, ohne einen extra beiliegenden Kabeladapter anschließen zu müssen. 
+Die Einstellungen für die Geräte SMA Sunny Island 3.0M/4.4M/6.0H und SolaX X-Hybrid SU3000E & SU5000E sehen wie folgt aus: 
+ 
+Drehschalter und DIP-Schalter einstellen 
+ 
+Die Schalterabdeckung nach oben ziehen und entfernen. Es gibt drei DIP-Schalter und drei Drehschalter. 
+
+Schalter-Nummer Typ Bezeichnung Standard 1 DIP SW select 00002 2 DIP Cell select 002 3 Dreh CAN_H 4 4 Dreh CAN_L 5 5 Dreh GND 2 6 DIP Term Res 112 
+
+1. Die Kommunikationsschnittstelle einstellen 
+ 
+Mit den SW select Dip-Schaltern die Kommunikationsschnittstelle so ein- stellen, dass sie den Anforderungen des Wechselrichters entspricht. Dieser Schalter ist anfangs eingestellt auf 00002. 
+Andere Einstellungen als die, welche in der folgenden Tabelle gezeigt werden, sind unzulässig.  
+Typ Wert Einstellung  	 
+LGC Solo 
+00012   
+LGC Multi 
+00102 
+  
+LGC Smart 
+00112 
+
+ 
+2. Einstellung für Akkuzellen-Typ 
+ 
+3. Einstellungen bei CAN-Bus-Stiften 
+ 
+Mit dem CAN_H Drehschalter festlegen, welcher Stift vom Wechselrichter für das Signal CAN hoher Pegel benutzt wird. Dieser Schalter ist anfangs eingestellt auf 4. 
+Mit dem CAN_L Drehschalter festlegen, welcher Stift vom Wechselrichter für das Signal CAN niedriger Pegel benutzt wird. Dieser Schalter ist anfangs eingestellt auf 5. 
+Mit dem GND Drehschalter festlegen, welcher Stift vom Wechselrichter für Masse benutzt wird. Dieser Schalter ist anfangs eingestellt auf 2. 
+ 
+	CAN_H 	CAN_L 	GND 	Einstellung 
+
+4. Einstellung für Endwiderstände 
+
+Bei weiteren Fragen steht Ihnen der ESS Service & Support der LG Chem Europe GmbH gern zur Verfügung. Vielen Dank. 
+ 
+Alexander Burkert 
+Service Engineer ESS Europe aburkert@lgchem.com  
+  
+LG Chem Europe GmbH 
+Otto-Volger Str. 7C 
+65843 Sulzbach (Taunus) 
+ 
+Mobile : +49-162 2970918 
+Tel : +49-61-965719-609 
+Fax : +49-61-965719-709 
+ 
+Germany:  www.lgesspartner.com/de 
+Great Britain: www.lgesspartner.com/uk 
+

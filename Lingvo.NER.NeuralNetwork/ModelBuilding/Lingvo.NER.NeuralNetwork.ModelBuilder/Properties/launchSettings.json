@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "train__em128": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath train__em128.json",
+      "workingDirectory": ".\\"
+    },
+
+    "train__em256": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath train__em256.json",
+      "workingDirectory": ".\\"
+    },
+    "train": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath train.json",
+      "workingDirectory": ".\\"
+    }
+  }
+}

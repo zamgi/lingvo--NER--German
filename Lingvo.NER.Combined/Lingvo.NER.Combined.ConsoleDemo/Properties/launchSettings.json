@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Lingvo.NER.Combined.console.demo": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath ner_de.json",
+      "workingDirectory": ".\\"
+    }
+  }
+}

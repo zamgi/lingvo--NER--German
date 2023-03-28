@@ -1,0 +1,47 @@
+Jahresabrechnung___________________________________ für den Zeitraum vom 01.07.2013 - 30.06.2014
+Anwesen : WEG Königsb. Allee 122 / Zieglerstr. 65a erstellt: 21.10.2014
+Königsberger Allee 122 / Zieglerstr. 65 a
+47058 Duisburg Absender: WEG Königsb. Allee 122 / Zieglerstr. 65a
+Einheit : KA 122 - WE 07 - 3.0G li c/o Kruse Hausverwaltungs GmbH
+Debitoren Nr.: 122008 Sternbuschweg 190
+47057 Duisburg
+Bank: Deutsche Bank PGK Duisburg
+Elena Arkhipova BIC: DEUTDEDB350
+Maxim Tarassenko IBAN: DE71350700240470683400
+Schultenberg 54 Inhaber: WEG Königsb. Allee 122/Zi
+45470 Mülheim
+H au saeld (oh n e In stan d h altu n asrü cklaae)
+Ausgaben
+Umlage Umlage Ges.-Betrag Betrag ant.
+Kostenkonto Umlageart gesamt anteilig (EUR) (EUR)
+Allgemeinstrom Gesamtobjekt MEA Kö-Allee + 2000,000 103,000 476,90 24,56 (*)
+Gartenpflege (gem. II. BV) MEA Kö-Allee + 2000,000 103,000 2.238,42 115,28 (*)
+Gebäudeversicherung Königsberger MEA Königsberger 1000,000 103,000 1.757,60 181,03 (*)
+Gebäudeversicherung Zieglerstraße 65a MEA Zieglerstraße 1000,000 0,000 1.876,05 0,00 (*)
+Haftpflichtversicherung Gesamtobjekt MEA Kö-Allee + 2000,000 103,000 191,28 9,85 (*)
+Heizung u. Warmwasser (gem. II. BV) BRUNATA 18354,430 1769,230 18.354,43 1.769,23 (*)
+Kleinreparaturen Königsberger Allee 122 MEA Königsberger 1000,000 103,000 446,12 45,95
+Kleinreparaturen Zieglerstraße 65a MEA Zieglerstraße 1000,000 0,000 61,53 0,00
+Kontoführungsgebühren Wohnungseinheiten 17,000 1,000 61,80 3,64
+Müllabfuhr Königsberger Allee 122 MEA Königsberger 1000,000 103,000 1.443,00 148,63 (*)
+Müllabfuhr Zieglerstraße 65a MEA Zieglerstraße 1000,000 0,000 1.345,06 0,00 (*)
+Niederschiagswasser Kö-Allee/Ziegler MEA Kö-Allee + 2000,000 103,000 387,10 19,94 (*)
+Nutzungsrecht SAT Wohnungseinheiten 17,000 1,000 142,78 8,40 (*)
+Schornsteinfegerkosten Königsberger MEA Königsberger 1000,000 103,000 184,76 19,03 (*)
+Straßenreinigung Königsberger Allee 122 MEA Königsberger 1000,000 103,000 315,60 32,51 (*)
+Straßenreinigung Zieglerstraße 65a MEA Zieglerstraße 1000,000 0,000 210,40 0,00 o
+Treppenhausreinigung Zieglerstr. Einheiten Ziegler 7,000 0,000 677,98 0,00 (*)
+Verwaltungskosten - Garagen Garageneinheiten 3,000 0,000 44,16 0,00
+Verwaltungskosten - Wohnungen Wohnungseinheiten 17,000 1,000 4.182,72 246,04
+Verwaltungsnebenkosten Miteigentumsanteil 2000,000 103,000 50,00 2,58
+Wasser/Kanal Königsberger Allee 122 MEA Königsberger 1000,000 103,000 2.717,32 279,88 (*)
+Wasser/Kanal Zieglerstraße 65a MEA Zieglerstraße 1000,000 0,000 2.273,69 0,00 (*)
+Winterdienst Kö-Allee 122 MEA Königsberger 1000,000 103,000 403,79 41,59 (*)
+Winterdienst Zieglerstr. 65a MEA Zieglerstraße 1000,000 0,000 447,06 0,00 (*)
+Summe umlagefähiger Kosten (*) 35.443,22 2.649,93
+Summe nicht umlagefähiger Kosten 4.846,33 298,21
+Gesamtsumme 40.289,55 2.948,14
+Einnahm en Umlage Umlage Ges.-Betrag Betrag ant.
+Einnahmekonto Umlageart gesamt anteilig (EUR) (EUR)
+Vorauszahlungen auf Kosten und Lasten tatsächlich gezahlt 41.252,00 1.468,92
+Gesamtsumme 41.252,00 1.468,92

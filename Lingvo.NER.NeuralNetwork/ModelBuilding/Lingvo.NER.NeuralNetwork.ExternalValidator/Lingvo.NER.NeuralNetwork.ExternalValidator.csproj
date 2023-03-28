@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+    <!--<RetainVMGarbageCollection>true</RetainVMGarbageCollection>-->
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove=".gitignore" />
+    <None Remove="*.tmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\Common\PipeIPC.cs" Link="PipeIPC.cs" />
+    <Compile Include="..\..\Common\ReadInputOptions.cs" Link="ReadInputOptions.cs" />
+  </ItemGroup>
+ 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\..\NNER\Lingvo.NER.NeuralNetwork.Tokenizing\Lingvo.NER.NeuralNetwork.Tokenizing.csproj" />
+    <ProjectReference Include="..\..\NNER\Lingvo.NER.NeuralNetwork.Utils\Lingvo.NER.NeuralNetwork.Utils.csproj" />
+    <ProjectReference Include="..\..\NNER\Lingvo.NER.NeuralNetwork\Lingvo.NER.NeuralNetwork.csproj" />
+  </ItemGroup>
+
+</Project>

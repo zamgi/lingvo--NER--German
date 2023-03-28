@@ -1,0 +1,303 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputPath>bin\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;DEBUG;</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>TRACE;</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Algorithms\**" />
+    <EmbeddedResource Remove="Algorithms\**" />
+    <None Remove="Algorithms\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)'=='net4.8.1'">
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lingvo.NER.Rules.core\Lingvo.NER.Rules.core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Algorithms\_NerPostMerging_4_Crf\NerPostMerger_4_Crf.cs" />
+    <Compile Include="Algorithms\_NerPostMerging_4_Crf\Searcher.cs" />
+    
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Address\AddressModel.cs">
+      <Link>Algorithms\Address\AddressModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Address\AddressRecognizer.cs">
+      <Link>Algorithms\Address\AddressRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Address\AddressWord.cs">
+      <Link>Algorithms\Address\AddressWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Address\CityZipCodeSearcher.cs">
+      <Link>Algorithms\Address\CityZipCodeSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Address\MultiWordSearcher.cs">
+      <Link>Algorithms\Address\MultiWordSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Address\StreetHouseNumberSearcher.cs">
+      <Link>Algorithms\Address\StreetHouseNumberSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BankAccounts\BankAccountsModel.cs">
+      <Link>Algorithms\BankAccounts\BankAccountsModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BankAccounts\BankAccountsRecognizer.cs">
+      <Link>Algorithms\BankAccounts\BankAccountsRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BankAccounts\BankAccountsSearcher_ByTextPreamble.cs">
+      <Link>Algorithms\BankAccounts\BankAccountsSearcher_ByTextPreamble.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BankAccounts\BankAccountValuesMerger.cs">
+      <Link>Algorithms\BankAccounts\BankAccountValuesMerger.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BankAccounts\BankAccountWord.cs">
+      <Link>Algorithms\BankAccounts\BankAccountWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BankAccounts\IBANSearcher.cs">
+      <Link>Algorithms\BankAccounts\IBANSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthdays\BirthdaysRecognizer.cs">
+      <Link>Algorithms\Birthdays\BirthdaysRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthdays\BirthdayWord.cs">
+      <Link>Algorithms\Birthdays\BirthdayWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthplaces\BirthplacesModel.cs">
+      <Link>Algorithms\Birthplaces\BirthplacesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthplaces\BirthplacesRecognizer.cs">
+      <Link>Algorithms\Birthplaces\BirthplacesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthplaces\BirthplacesSearcher.cs">
+      <Link>Algorithms\Birthplaces\BirthplacesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthplaces\BirthplaceWord.cs">
+      <Link>Algorithms\Birthplaces\BirthplaceWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Birthdays\DatesSearcher.cs">
+      <Link>Algorithms\Birthdays\DatesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\BracketBalancer.cs">
+      <Link>Algorithms\BracketBalancer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CarNumbers\CarNumbersRecognizer.cs">
+      <Link>Algorithms\CarNumbers\CarNumbersRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CarNumbers\CarNumbersSearcher.cs">
+      <Link>Algorithms\CarNumbers\CarNumbersSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CarNumbers\CarNumberWord.cs">
+      <Link>Algorithms\CarNumbers\CarNumberWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CustomerNumbers\CustomerNumbersRecognizer.cs">
+      <Link>Algorithms\CustomerNumbers\CustomerNumbersRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CustomerNumbers\CustomerNumbersSearcher_ByTextPreamble.cs">
+      <Link>Algorithms\CustomerNumbers\CustomerNumbersSearcher_ByTextPreamble.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CustomerNumbers\CustomerNumbersValuesMerger.cs">
+      <Link>Algorithms\CustomerNumbers\CustomerNumbersValuesMerger.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CustomerNumbers\CustomerNumberWord.cs">
+      <Link>Algorithms\CustomerNumbers\CustomerNumberWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\DriverLicenses\DriverLicensesModel.cs">
+      <Link>Algorithms\DriverLicenses\DriverLicensesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\DriverLicenses\DriverLicensesRecognizer.cs">
+      <Link>Algorithms\DriverLicenses\DriverLicensesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\HealthInsurances\HealthInsurancesRecognizer.cs">
+      <Link>Algorithms\HealthInsurances\HealthInsurancesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\HealthInsurances\HealthInsuranceWord.cs">
+      <Link>Algorithms\HealthInsurances\HealthInsuranceWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Names\NameSearcher.cs">
+      <Link>Algorithms\Names\NameSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Names\NamesModel.cs">
+      <Link>Algorithms\Names\NamesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Names\NamesRecognizer.cs">
+      <Link>Algorithms\Names\NamesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Names\NamesSearcher_ByTextPreamble.cs">
+      <Link>Algorithms\Names\NamesSearcher_ByTextPreamble.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Names\NameWord.cs">
+      <Link>Algorithms\Names\NameWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\MaritalStatuses\MaritalStatusesModel.cs">
+      <Link>Algorithms\MaritalStatuses\MaritalStatusesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\MaritalStatuses\MaritalStatusesRecognizer.cs">
+      <Link>Algorithms\MaritalStatuses\MaritalStatusesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\MaritalStatuses\MaritalStatusesSearcher.cs">
+      <Link>Algorithms\MaritalStatuses\MaritalStatusesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\MaritalStatuses\MaritalStatusWord.cs">
+      <Link>Algorithms\MaritalStatuses\MaritalStatusWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\MaritalStatuses\MaritalStatusesSearcher_ByTextPreamble.cs">
+      <Link>Algorithms\MaritalStatuses\MaritalStatusesSearcher_ByTextPreamble.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Nationalities\NationalitiesModel.cs">
+      <Link>Algorithms\Nationalities\NationalitiesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Nationalities\NationalitiesRecognizer.cs">
+      <Link>Algorithms\Nationalities\NationalitiesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Nationalities\NationalitiesSearcher.cs">
+      <Link>Algorithms\Nationalities\NationalitiesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Nationalities\NationalityWord.cs">
+      <Link>Algorithms\Nationalities\NationalityWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\PassportIdCardNumbers\PassportIdCardNumbersModel.cs">
+      <Link>Algorithms\PassportIdCardNumbers\PassportIdCardNumbersModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\PassportIdCardNumbers\PassportIdCardNumbersRecognizer.cs">
+      <Link>Algorithms\PassportIdCardNumbers\PassportIdCardNumbersRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\PassportIdCardNumbers\PassportIdCardNumberWord.cs">
+      <Link>Algorithms\PassportIdCardNumbers\PassportIdCardNumberWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CreditCards\CreditCardsRecognizer.cs">
+      <Link>Algorithms\CreditCards\CreditCardsRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CreditCards\CreditCardsSearcher.cs">
+      <Link>Algorithms\CreditCards\CreditCardsSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\PhoneNumbers\PhoneNumbersModel.cs">
+      <Link>Algorithms\PhoneNumbers\PhoneNumbersModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\PhoneNumbers\PhoneNumbersRecognizer.cs">
+      <Link>Algorithms\PhoneNumbers\PhoneNumbersRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\PhoneNumbers\PhoneNumberWord.cs">
+      <Link>Algorithms\PhoneNumbers\PhoneNumberWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\SocialSecurities\SocialSecuritiesModel.cs">
+      <Link>Algorithms\SocialSecurities\SocialSecuritiesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\SocialSecurities\SocialSecuritiesRecognizer.cs">
+      <Link>Algorithms\SocialSecurities\SocialSecuritiesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\SocialSecurities\SocialSecuritiesSearcher.cs">
+      <Link>Algorithms\SocialSecurities\SocialSecuritiesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\TaxIdentifications\Old\TaxIdentificationsSearcher_ByTextPreamble_Old.cs">
+      <Link>Algorithms\TaxIdentifications\Old\TaxIdentificationsSearcher_ByTextPreamble_Old.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\TaxIdentifications\TaxIdentificationsRecognizer.cs">
+      <Link>Algorithms\TaxIdentifications\TaxIdentificationsRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\TaxIdentifications\TaxIdentificationsSearcher_ByTextPreamble.cs">
+      <Link>Algorithms\TaxIdentifications\TaxIdentificationsSearcher_ByTextPreamble.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Urls\EmailWord.cs">
+      <Link>Algorithms\Urls\EmailWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Urls\UrlAndEmailMerger.cs">
+      <Link>Algorithms\Urls\UrlAndEmailMerger.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Urls\_UrlOrEmailWordBase.cs">
+      <Link>Algorithms\Urls\_UrlOrEmailWordBase.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\_NerPostMerging\NerPostMerger.cs">
+      <Link>Algorithms\_NerPostMerging\NerPostMerger.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\_NerPostMerging\NerUnitedEntity.cs">
+      <Link>Algorithms\_NerPostMerging\NerUnitedEntity.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\_NerPostMerging\Searcher.cs">
+      <Link>Algorithms\_NerPostMerging\Searcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\CompaniesModel.cs">
+      <Link>Algorithms\Companies\CompaniesModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\CompanyWord.cs">
+      <Link>Algorithms\Companies\CompanyWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\CompaniesRecognizer.cs">
+      <Link>Algorithms\Companies\CompaniesRecognizer.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\ByPrefixesSearcher.cs">
+      <Link>Algorithms\Companies\ByPrefixesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\BySuffixesSearcher.cs">
+      <Link>Algorithms\Companies\BySuffixesSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\ByVocabSearcher.cs">
+      <Link>Algorithms\Companies\ByVocabSearcher.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Companies\_Common.cs">
+      <Link>Algorithms\Companies\_Common.cs</Link>
+    </Compile>    
+
+    <Compile Include="..\Lingvo.NER.Rules-rules\Infrastructure\CultureInfoData.cs">
+      <Link>Infrastructure\CultureInfoData.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Infrastructure\Extensions.cs">
+      <Link>Infrastructure\Extensions.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\NerProcessor.cs">
+      <Link>NerProcessor.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\NerProcessorConfig.cs">
+      <Link>NerProcessorConfig.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\Urls\UrlWord.cs">
+      <Link>Algorithms\Urls\UrlWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CreditCards\CreditCardWord.cs">
+      <Link>Algorithms\CreditCards\CreditCardWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\CarNumbers\CarNumbersModel.cs">
+      <Link>Algorithms\CarNumbers\CarNumbersModel.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\DriverLicenses\DriverLicenseWord.cs">
+      <Link>Algorithms\DriverLicenses\DriverLicenseWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\SocialSecurities\SocialSecurityWord.cs">
+      <Link>Algorithms\SocialSecurities\SocialSecurityWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\TaxIdentifications\TaxIdentificationWord.cs">
+      <Link>Algorithms\TaxIdentifications\TaxIdentificationWord.cs</Link>
+    </Compile>
+    <Compile Include="..\Lingvo.NER.Rules-rules\Algorithms\TaxIdentifications\Old\TaxIdentificationsModel.cs">
+      <Link>Algorithms\TaxIdentifications\Old\TaxIdentificationsModel.cs</Link>
+    </Compile>
+  </ItemGroup>
+
+</Project>

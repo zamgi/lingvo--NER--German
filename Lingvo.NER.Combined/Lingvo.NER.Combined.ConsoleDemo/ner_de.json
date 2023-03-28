@@ -1,0 +1,12 @@
+{
+  "SentSplitterResourcesXmlFilename": "..\\..\\Lingvo.NER.NeuralNetwork\\[resources]\\tokenizing\\sent-splitter-resources.xml",
+  "UrlDetectorResourcesXmlFilename" : "..\\..\\Lingvo.NER.NeuralNetwork\\[resources]\\tokenizing\\url-detector-resources.xml",
+  
+  "ModelFilePath"    : "..\\..\\Lingvo.NER.NeuralNetwork\\[resources]\\models\\ner_de__em128__e6xm8_[union]_(upper).s2s",
+  "ModelUpperCase"   : true,
+  "MaxTestSentLength": 110, //512,
+  "ProcessorType"    : "CPU"
+  
+  //"ProcessorType"    : "GPU",
+  //"CompilerOptions"  : "--use_fast_math --gpu-architecture=compute_60"
+}

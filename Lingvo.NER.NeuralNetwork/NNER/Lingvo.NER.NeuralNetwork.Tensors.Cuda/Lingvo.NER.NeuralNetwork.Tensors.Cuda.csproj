@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>    
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <LangVersion>latest</LangVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="ManagedCuda-11" Version="11.4.47" />
+    <PackageReference Include="ManagedCuda-CUBLAS" Version="12.0.48" />
+    <PackageReference Include="ManagedCuda-CURAND" Version="12.0.48" />
+    <PackageReference Include="ManagedCuda-NVRTC" Version="12.0.48" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Lingvo.NER.NeuralNetwork.Tensors\Lingvo.NER.NeuralNetwork.Tensors.csproj" />
+    <ProjectReference Include="..\Lingvo.NER.NeuralNetwork.Utils\Lingvo.NER.NeuralNetwork.Utils.csproj" />
+  </ItemGroup>
+</Project>

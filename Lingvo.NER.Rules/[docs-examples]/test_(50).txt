@@ -1,0 +1,6482 @@
+GUTACHTEN  UNSER ZEICHEN  xxx-2013-G-He AKTENZEICHEN  XX - O yyy/zz AUFTRAGGEBER  Landgericht .
+Postplatz .. ... ..
+AUFTRAG  Auftrag vom 0..0..2013 gemäß Beschluss vom 0..0..2013 PARTEIEN  Partei  ./.
+Partei    OBJEKT /  STANDORT  PV-Anlage am Objekt Sonnenstrasse 25, ... ...
+SACHVERSTÄNDIGER  Björn Hemmann ERSTELLDATUM  0..0..2014 UMFANG  71 Seiten gesamt 47 Seiten Gutachten 24 Seiten Anhang AUSFERTIGUNGEN  5 Exemplare          Solare
+
+Dienstleistungen
+
+GbR
+
+ Fürther
+
+Straße
+
+246c
+
+ 90429
+
+Nürnberg
+
+
+
+
+
+ Eine
+
+Initiative
+
+der
+
+ DGS
+
+LV
+
+Franken
+
+e.
+V.
+
+
+
+ Deutsche
+
+Gesellschaft
+
+
+
+ für
+
+Sonnenenergie
+
+(DGS)
+
+ Landesverband
+
+Franken
+
+e.
+V.
+
+
+
+
+
+ Sachverständiger
+
+Dipl.---Ing.
+
+Björn
+
+Hemmann
+
+ Von
+
+der
+
+Industrie---
+
+und
+
+Handels--- kammer
+
+öffentlich
+
+bestellter
+
+und
+
+ vereidigter
+
+Sachverständiger
+
+für
+
+ Photovoltaische
+
+Anlagentechnik
+
+
+
+
+
+ Zuständige
+
+Aufsichtsbehörde:
+
+ IHK
+
+Nürnberg
+
+für
+
+Mittelfranken
+
+
+
+
+
+ Kontakt
+
+ Tel
+
+
+
+ 0911
+
+/
+
+376
+
+516
+
+30
+
+ Fax
+
+
+
+ 0911
+
+/
+
+376
+
+516
+
+31
+
+ Mail
+
+hemmann@dgs---franken.de
+
+ Internet
+
+www.dgs---franken.de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Gesellschafter
+
+Dipl.---Ing.
+
+Björn
+
+Hemmann
+
+Dipl.---Päd.
+
+Stefan
+
+Seufert
+
+Dipl.---Kfm.
+
+Michael
+
+Vogtmann
+
+ MBT
+
+(RDF)
+
+Oskar
+
+Wolf
+
+
+
+ Bankverbindung
+
+ Sparkasse
+
+Nürnberg
+
+ Konto
+
+ 116
+
+
+
+249
+
+
+
+05
+
+ BLZ
+
+ 760
+
+
+
+501
+
+
+
+01
+
+ BIC
+
+ SSKNDE77
+
+ IBAN
+
+ DE
+
+16
+
+760
+
+501
+
+01
+
+
+
+ 00
+
+116
+
+249
+
+05
+
+
+
+ Steuernummer
+
+ 240
+
+/
+
+162
+
+/
+
+28105
+
+ USt---IdNr:
+
+DE
+
+28
+
+35
+
+65
+
+171
+
+ Finanzamt
+
+Nürnberg---Süd
+
+ SACHVERSTÄNDIGENBÜRO
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+2
+
+von
+
+71
+
+ Inhaltsverzeichnis 1
+
+Auftragsinhalt und Auftragsumfang ................................................................................... 3
+
+ 2
+
+Unterlagen, Grundlagen, Zweck des Gutachtens ............................................................. 4
+
+ 3
+
+Ortstermine / Messgeräte .................................................................................................. 6
+
+ 4
+
+Kurzbeschreibung ............................................................................................................. 7
+
+ 5
+
+Beschluss 0..0..2013: Stränge, Herstellervorgaben ........................................................ 13
+
+ 6
+
+Beschluss 0..0..2013: Verschaltungen fachgerecht ........................................................ 20
+
+ 7
+
+Beschluss 0..0..2013: Kabelwiderstände ........................................................................ 20
+
+ 8
+
+Beschluss 0..0..2013: Mängelbeseitigung, Kostenaufwand ............................................ 21
+
+ 9
+
+Beschluss 0..0..2013: Drehmechanismus, Zustand ........................................................ 21
+
+ 10
+
+Beschluss 0..0..2013: Gutachten Xxxx ........................................................................... 23
+
+ 11
+
+Beschluss 0..0..2013: Allgemeines ................................................................................. 24
+
+ 12
+
+Beschluss 0..0..2013: 1.1 Leitungseinführung in Verteilung ........................................... 25
+
+ 13
+
+Beschluss 0..0..2013: 1.2 Berührungsschutz .................................................................. 26
+
+ 14
+
+Beschluss 0..0..2013: 1.3 Trennklemmen ....................................................................... 28
+
+ 15
+
+Beschluss 0..0..2013: 1.4 Abdeckstreifen ....................................................................... 28
+
+ 16
+
+Beschluss 0..0..2013: 1.5 Querschnittsreduzierung ........................................................ 30
+
+ 17
+
+Beschluss 0..0..2013: 1.6 Leitungseinführung in Verteilung ........................................... 32
+
+ 18
+
+Beschluss 0..0..2013: 1.7 Leitungsverlegung ................................................................. 35
+
+ 19
+
+Beschluss 0..0..2013: 1.8 Übergang "massiv" zu "flexibel" ............................................. 38
+
+ 20
+
+Beschluss 0..0..2013: 1.9 Schutzleiter ............................................................................ 38
+
+ 21
+
+Beschluss 0..0..2013: 1.10 Schutzleiterquerschnitt ........................................................ 40
+
+ 22
+
+Beschluss 0..0..2013: 1.11 Art der Einspeisung ............................................................. 40
+
+ 23
+
+Beschluss 0..0..2013: 1.12 Anschluss der Steckdosen .................................................. 41
+
+ 24
+
+Beschluss 0..0..2013: 1.13 Gesamtzustand .................................................................... 42
+
+ 25
+
+Beschluss 0..0..2013: 2.
+Mängelbeseitigung, Kostenaufwand ........................................ 42
+
+ 26
+
+Zusammenfassung .......................................................................................................... 46
+
+ 27
+
+Anhang 1 ......................................................................................................................... 48
+
+ 28
+
+Anhang 2 ......................................................................................................................... 50
+
+ 29
+
+Anhang 3 ......................................................................................................................... 51
+
+ 30
+
+Anhang 4 ......................................................................................................................... 52
+
+ 31
+
+Anhang 5 ......................................................................................................................... 68
+
+   GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+3
+
+von
+
+71
+
+1 Auftragsinhalt und Auftragsumfang  Auftrag vom 0..0..2013 mit dem Aktenzeichen LG ..., Aktenzeichen XX - O yyy/zz Auftragsumfang: Beweisbeschluss vom 0..0..2013 I.
+Auf Antrag des Klägers ist Beweis zu erheben [.] Zu folgenden Beweisfragen: 1.
+Bestehen an der auf dem Grundstück des Klägers [.] aus technischer, sachverständiger Sicht die folgenden Mängel: a) Einzelne Stränge der Anlage erreichen nicht die Herstellervorgaben. b) Die Verschaltungen sind nicht fachgerecht und nicht optimal hergestellt. c) Die Kabelwiderstände sind zu hoch. 2.
+Falls die Beweisfrage 1. zumindest zum Teil bejaht wird: Welche Maßnahmen und welcher Aufwand an Kosten ist erforderlich, um die festgestellten Mängel zu beheben? 3.
+Ist die Anlage, insbesondere der Drehmechanismus in einem fachgerechten Instandhaltungs-, Wartungs- und Einstellungszustand? Falls nein, wirkt sich das auf die Leistung der Anlage aus? Der Sachverständige wird gebeten, bei der Beantwortung der Beweisfragen, die Ausführungen im Gutachten des Privatsachverständigen Xxxxx vom 0..0..20xx (Anlage K5) zu berücksichtigen und gegebenenfalls darauf einzugehen.
+II. [.], III. [.]  Auftragsumfang: Beweisbeschluss vom 0..0..2013 Der Beweisbeschluss vom 0..0..2013 wird insofern erweitert, als der Sachverständige auch zu den konkreten Mängelbehauptungen und Ergänzungsfragen im Schriftsatz der Klägervertreterin vom 0..0..2013, Seite 2 f. unter 1. (bis einschließlich 1.13) und 2.
+Stellung nehmen möge. [.] GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+4
+
+von
+
+71
+
+2 Unterlagen, Grundlagen, Zweck des Gutachtens 2.1 Unterlagen - Gerichtsakten - Anhang 1: deutschsprachiges Datenblatt des Moduls HIP-215NKHE5 des Herstellers Sanyo, 2 Seiten - Anhang 2: Rechnung über Photovoltaikanlage, Rechnungsnummer RExxxxx vom 0..0..2013, eingereicht vom Kläger, 1 Seite - Anhang 3: Auszug aus der technischen Information des Wechselrichterherstellers SMA: Kriterien für die Auswahl einer Fehlerstrom-Schutzeinrichtung (RCDDE110430, Version 3.0, eine Seite - Anhang 4: Messung Nummer 1 eines jeden Strangs mit Ergebnissen und grafischer Darstellung der gemessenen Kennlinie, 16 Seiten - Anhang 5: Bewertung der Auslegung durch die Software Sunny Design (HerstellerSoftware des Wechselrichter Herstellers), 4 Seiten 2.2 Grundlagen - Unter 2.1 genannte Unterlagen - DIN VDE 0100-705; VDE 0100-705:2007-10, Errichten von Niederspannungsanlagen - Teil 7-705: Anforderungen für Betriebsstätten, Räume und Anlagen besonderer Art - Elektrische Anlagen von landwirtschaftlichen und gartenbaulichen Betriebsstätten  - DIN EN 60529:2000-09; VDE 0470-1:2000-09, Schutzarten durch Gehäuse (IPCode) - BGV A3, Berufsgenossenschaftlichen Vorschriften (BGV), Elektrische Anlagen und Betriebsmittel, vom 01.04.1979 in der Fassung vom 01.01.1997 - DIN EN 60439-1 Beiblatt 2:2009-05; VDE 0660-500 Beiblatt 2:2009-05, Niederspannungs-Schaltgerätekombinationen - DIN VDE 0100-520; VDE 0100-520:2013-06, Errichten von Niederspannungsanlagen - Teil 5-52: Auswahl und Errichtung elektrischer Betriebsmittel - Kabel- und Leitungsanlagen - Betriebssicherheitsverordnung (BetrSichV), Inkrafttreten am 3.
+Oktober 2002 - DIN VDE 0105-100 VDE 0105-100:2009-10, Betrieb von elektrischen Anlagen, Teil 100: Allgemeine Festlegungen GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+5
+
+von
+
+71
+
+- DIN VDE 0100-410 VDE 0100-410:2007-06 (und ältere), Errichten von Niederspannungsanlagen, Teil 4-41: Schutzmaßnahmen - Schutz gegen elektrischen Schlag - DIN EN 60446 VDE 0198:2011-10, Grund- und Sicherheitsregeln für die MenschMaschine-Schnittstelle, Kennzeichnung von Anschlüssen elektrischer Betriebsmittel, angeschlossenen Leiterenden und Leitern - DIN VDE 0298-4:2013-06; VDE 0298-4:2013-06, Verwendung von Kabeln und isolierten Leitungen für Starkstromanlagen - Teil 4: Empfohlene Werte für die Strombelastbarkeit von Kabeln und Leitungen für feste Verlegung in und an Gebäuden und von flexiblen Leitungen - DIN VDE 0100-540:2012-06; VDE 0100-540:2012-06 (und ältere), Errichten von Niederspannungsanlagen - Teil 5-54: Auswahl und Errichtung elektrischer Betriebsmittel - Erdungsanlagen und Schutzleiter - DIN VDE 0100-600 (VDE 0100-600:2008-06) Errichten von Niederspannungsanlagen, Teil 6: Prüfungen - DIN EN 60904-0 (VDE 0126-4-1) Photovoltaische Einrichtungen - Teil 1: Messen der photovoltaischen Strom-/Spannungskennlinie (Stand Juli 2007) - DIN EN 60891 (VDE 0126-6) Photovoltaische Einrichtungen - Verfahren zur Umrechnung von gemessenen Strom-Spannungs-Kennlinien (Stand Oktober 2010) - DIN EN 62446 (VDE 0126-23):2010-07 Netzgekoppelte Photovoltaik-Systeme - Mindestanforderungen an Systemdokumentation, Inbetriebnahmeprüfung und wiederkehrende Prüfungen - Ortstermin vom 0..0..2013 und Ortstermin vom 0..0..2013 - Messergebnisse entsprechend Anhang 4 dieses Gutachtens - Quellen- und Herstellerangaben zu den jeweiligen Ausführungen 2.3 Zweck des Gutachtens Das Gutachten dient ausschließlich zur Vorlage im Rechtsstreit Landgericht ., Aktenzeichen XX - O yyy/zz, Partei ./.
+Partei.
+Eine Weitergabe an Dritte ist nur nach Rücksprache mit dem Verfasser gestattet.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+6
+
+von
+
+71
+
+3 Ortstermine / Messgeräte 3.1 Ortstermine Die erste örtliche Inaugenscheinnahme wurde am Mittwoch, den 0..0..2013 von 9:00 Uhr bis 11:45 Uhr durchgeführt.
+Die Parteien wurden hierzu mit Schreiben vom 0..0..2013 fristgerecht verständigt.
+Bei der ersten Ortsbesichtigung waren anwesend: Herr  ... .
+Klagepartei  Herr  . .
+Beklagtenpartei  Herr  . .
+Helfer des  Sachverständigen  Solare Dienstleistungen GbR Herr Björn Hemmann  Sachverständiger ö.b.v.
+Solare Dienstleistungen GbR  Die zweite örtliche Inaugenscheinnahme wurde am Mittwoch, den 0..0..2013 von 10:00 Uhr bis 12:30 Uhr durchgeführt.
+Die Parteien wurden hierzu mit Schreiben vom 0..0..2013 fristgerecht verständigt.
+Bei der zweiten Ortsbesichtigung waren anwesend: Herr  . .
+Klagepartei  Herr  . .
+Beklagtenpartei  Herr  . .
+Sachverständige  Herr  . .
+Helfer des Sachverständigen  Solare Dienstleistungen GbR Herr Björn Hemmann  Sachverständiger ö.b.v.
+Solare Dienstleistungen GbR  Alle Beteiligten hatten Gelegenheit, Fragen zu stellen und zur Klärung des Sachverhalts beizutragen.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+7
+
+von
+
+71
+
+3.2 Eingesetztes Messgerät - Kennlinienmessgerät Typ PVE1000C40, Hersteller: PV-Engineering GmbH 4 Kurzbeschreibung 4.1 Photovoltaikanlage: Vereinfachte, allgemeine Darstellung Eine Photovoltaikanlage, auch PV-Anlage, Solaranlage oder Solarstromanlage genannt, ist eine elektrische Anlage, in der mittels Solarzellen ein Teil der solaren Strahlungsenergie in elektrische Energie umgewandelt wird.
+Die Solarzellen sind in Solarmodulen (PV-Module, Module) elektrisch zusammengeschaltet.
+Mehrere Module in Reihe bilden einen Strang (String).
+Die Summe der Stränge bildet den Generator.
+Die Unterkonstruktion (Montagesystem) fixiert die Module am Installationsort und leitet Kräfte aus Wind, Schnee und Eigenlast ins Gebäude ab.
+Leitungen bringen den gewonnenen Strom, der als Gleichstrom (DC) vorliegt, zum Wechselrichter, der ihn in Wechselstrom (AC) umwandelt.
+Die installierte DC-Leistung bzw.
+Nennleistung der Module einer Photovoltaikanlage wird gemessenen in Kilowattpeak [kWp].
+Zur Vergleichbarkeit von Leistungsangaben ist festgelegt, dass die Nennleistung eines Moduls bzw. einer Anlage bei speziellen Randbedingungen gemessen wird.
+Diese Randbedingungen heißen Standard Test Conditions (STC).
+Da STC-Bedingungen Spitzenbedingungen nahe kommen, wird die Nennleistung mit einem kleinen oder tiefgestellten "p" für "peak" indiziert: Angabe der Nennleistung in Kilowattpeak, [kWp].
+Die Begriffe "Nennleistung", "STC-Leistung" und "Peakleistung" werden gleichbedeutend verwendet.
+Die installierte DC-Leistung oder Nennleistung der Module einer PV-Anlage (gemessen in Kilowattpeak [kWp]) ist statisch.
+Sie ändert sich nur, wenn sich technisch etwas an den Modulen verändert.
+Die auf der Ausgangsseite der Wechselrichter aktuell zur Verfügung gestellte AC-Leistung einer Anlage wird gemessen in Kilowatt [kW], sie ist dynamisch.
+Sie ändert sich ständig in Abhängigkeit der Einstrahlung, der Modultemperatur und weiterer Parameter.
+Das Produkt aus aktueller Leistung [kW] und der Zeit (Sekunden [s] bzw.
+Stunden [h]) stellt die elektrische Arbeit dar, sie wird in Kilowattstunden [kWh] durch Stromzähler gemessen und auch häufig mit dem Begriff Ertrag bezeichnet.
+Die aufgrund von Einstrahlung erzeugte elektrische Arbeit steht zum Direktverbrauch zur Verfügung oder wird in das öffentliche Stromnetz eingespeist.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+8
+
+von
+
+71
+
+Das Erneuerbare-Energien-Gesetz (EEG) regelt Abnahme, Übertragung und Vergütung der eingespeisten oder direkt genutzten elektrischen Arbeit.
+Stark vereinfacht dargestellt ergibt sich eine Wirtschaftlichkeit, wenn die Einnahmen aus Vergütung die Ausgaben aus Investitionen und Betrieb übersteigen. 4.2 Photovoltaikanlage am Standort Bei der Photovoltaikanlage am Standort Sonnenstrasse 25, . . handelt es sich um eine Anlage auf einer Feldscheune.
+Bild 1: Photovoltaikanlage am Standort  Sonnenstrasse 25, . .
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+9
+
+von
+
+71
+
+Bild 2: Seitenansicht der Feldscheune Die Feldscheune ist auf einer kreisförmigen Metallschiene gelagert und drehbar.
+Durch einen Antrieb im Inneren der Scheune kann die Ausrichtung der Dachfläche mit den Photovoltaikmodulen dem Sonnenstand einachsig nachgeführt werden.
+Als Positionsgeber werden Endschalter verwendet (Bild 3).
+Die Steuerung der Anlage erfolgt über einen Schaltschrank, der in der Scheune montiert ist und von der Netzbezugsseite mit elektrischer Energie versorgt wird.
+Die Feldscheune dreht sich zu einer auf den Mittelpunkt der kreisförmigen Schiene senkrecht stehenden Achse.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+10
+
+von
+
+71
+
+Bild 3: elektrischer Antrieb mit Positionsgeber Aufgrund der Drehbewegung der Scheune ist es erforderlich, dass die installierten elektrischen Kabel und Leitungen dieser ständigen Bewegung standhalten.
+Entsprechende Hilfskonstruktionen wurden in der Scheune errichtet, um dies zu ermöglichen (Bild 4).
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+11
+
+von
+
+71
+
+Bild 4: Kabelführung mit Galgen Nach Aussage des Prozessbevollmächtigten des Beklagten handelt es sich bei den Photovoltaikmodulen um "HIT photovoltaic module" vom Typ HIP-215NKHE5 des Herstellers Sanyo Component Europe GmbH Solar Division.
+Im Anhang 1 dieses Gutachtens befindet sich das deutschsprachige Datenblatt des Moduls. (Vom Prozessbevollmächtigten des Beklagten wurde ein englischsprachiges Datenblatt dieses Moduls eingereicht.
+Der Sachverständige hat die elektrischen Daten beider Datenblätter verglichen.
+Sie sind identisch.) Die einzelnen Zellen dieser Module bestehen aus monokristallinen Hybrid-Wafern.
+Als Besonderheit gegenüber herkömmlichen monokristallinen Siliziumzellen bestehen die einzelnen Zellen aus einer amorphen p/i -Schicht und den n- dotierten monokristallinen Silizium-Wafern.
+Gegenüber rein kristallinen Zellen zeichnet sich die HIT-Zelle (Heterjunction with Intrinsic Thin-Layer) laut Hersteller durch eine höhere Energieausbeute bei hohen Temperaturen aus (der Temperaturkoeffizient von Pmax beträgt ca. -0,3%/K gegen GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+12
+
+von
+
+71
+
+über ca. 0,5%/K bei klassischen Siliziumzellen).
+Weiterhin wird aufgrund dieser Struktur ein breites Lichtspektrum ausgenutzt.
+Somit ergibt sich laut Hersteller ein verbessertes Schwachlichtverhalten als bei reinen Siliziumzellen.
+Die in Summe 150 Module sind zu je 15 Modulen in einer Zeile bei 10 Zeilen übereinander angeordnet, siehe Bild 1.
+Laut Datenblattangabe und laut Rechnung Nummer RExxxx vom 0..0..20xx (siehe Anhang 2) weist jedes Modul eine Nennleistung von 215 Wp auf.
+Die Leistungstoleranz beträgt laut Hersteller +10 / -5 %.
+Die Nennleistung der gesamten Photovoltaikanlage beträgt demnach 32,25 Kilowatt-Peak. (215 Wp x 150 = 32.250 Wp = 32,25 kWp) Ein Dachbelegungsplan liegt nicht vor.
+Unterkonstruktion und Gleichstromleitungen sind unstrittig und daher nicht dokumentiert.
+Bei den Wechselrichtern (siehe Bild 5) handelt es sich um 5 Geräte des Herstellers SMA Solar Technology AG.
+Die Wechselrichter mit den Nummern 1 bis 3 sind vom Typ SMC 8000 TL.
+Die Wechselrichter mit den Nummern 4 und 5 sind vom Typ SB 3300 TL HC.
+Bild 5: Wechselrichter Nr. 1 Nr. 2 Nr. 3 Nr. 4 Nr. 5 Verteilerschrank GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+13
+
+von
+
+71
+
+Der Verteilerschrank der Photovoltaikanlage mit der installierten Schutztechnik ist links neben Wechselrichter 4 installiert, siehe Bild 5 und Bild 6.
+Bild 6: Verteilerschrank der PV-Anlage mit Schutztechnik Anlagenerrichter ist der Beklagte: Firma Elektro Xxxx.
+Die Photovoltaikanlage speist den Strom in das öffentliche Netz der Stadtwerke . . 5 Beschluss 0..0..2013: Stränge, Herstellervorgaben 1.
+Bestehen [.] folgende Mängel a) Einzelne Stränge der Anlage erreichen nicht die Herstellervorgaben. 5.1 Nennleistung, Bestimmung der Nennleistung, Allgemeines Die aktuell zur Verfügung gestellte Leistung einer Photovoltaikanlage wird gemessen in Kilowatt [kW], sie ist dynamisch.
+Sie ändert sich ständig in Abhängigkeit zur Einstrahlung, der Modultemperatur und weiterer Parameter.
+Zur Vergleichbarkeit von Leistungsangaben bei Photovoltaik-Modulen ist eine statische Leistungsangabe defi GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+14
+
+von
+
+71
+
+niert, auch installierte Leistung oder Nennleistung genannt.
+Hierbei sind einheitlich bestimmte Randbedingungen festgelegt, unter denen die zur Verfügung gestellte Leistung des Moduls definitionsgemäß seiner Nennleistung entspricht.
+Diese Randbedingungen heißen Standard Test Conditions (STC): Zelltemperatur 25 'C, Einstrahlung 1.000 W/m2 und einem Lichtspektrum entsprechend AM = 1,5.
+Da STC-Bedingungen Spitzenbedingungen nahe kommen, wird die Nennleistung üblicherweise mit einem kleinen oder tiefgestellten "p" für "peak" indiziert: Nennleistung in Kilowattpeak, [kWp].
+Die Begriffe "Nennleistung", "STC-Leistung" und "Peakleistung" werden gleichbedeutend verwendet.
+STC-Bedingungen treten unter realen Verhältnissen sehr selten auf.
+Den weitaus größten Teil der Zeit liegt die zur Verfügung gestellte Leistung von PhotovoltaikModulen - entsprechend der aktuellen Einstrahlungssituation - unterhalb ihrer Nennleistung.
+Um Photovoltaik-Module oder Photovoltaikanlagen zu charakterisieren, bezieht man sich auf ihre Nennleistung.
+Auf Datenblättern sind Angaben zur Nennleistung dokumentiert.
+Um die Nennleistung bei einer bereits installierten Photovoltaik-Anlage messtechnisch bestimmen und damit kontrollieren zu können, werden spezielle Messgeräte benutzt.
+Die Messungen an Modulen können direkt am Aufstellungsort durchgeführt werden.
+Das Messgerät ermöglicht die Leistungsmessungen unter aktuellen Bedingungen durchzuführen und auf STC-Bedingungen umzurechnen.
+Um eine Genauigkeit der Leistungsbestimmung in Höhe von +/- 5 % erreichen zu können, müssen gewisse Messvoraussetzungen gegeben sein.
+Hierzu gehört zum Beispiel eine Mindesteinstrahlung von 700 W/m2, die nur an weitestgehend wolkenlosen und sonnigen Tagen erreicht werden.
+Nach einer Messung stehen als Ergebnis die Nennleistung und weitere Parameter zur Verfügung.
+Diese Werte stellen, verglichen mit den Sollwerten aus der Planung oder aus dem Datenblatt für die zu vermessenen Module der Photovoltaikanlage, ein Indiz für unterschiedliche Fehler in der Photovoltaikanlage dar und dienen z.
+B. zur Leistungskontrolle und Fehlerdefinition.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+15
+
+von
+
+71
+
+Die installierte Leistung oder Nennleistung einer Photovoltaikanlage ist eine unter statischen Bedingungen einheitlich definierte Größe.
+Sie ändert sich nur, wenn sich technisch etwas an der Anlage verändert. 5.2 Nennleistungsbestimmung am Objekt Sonnenstrasse 25, . .
+Jeder Strang wurde zweimal vermessen um sicherzustellen, dass stabile Zustände vorliegen.
+Die Messergebnisse sind in Tabelle 1 zusammengefasst.
+Die Spalten geben von Links nach Rechts die Messergebnisse wieder.
+Die Messungen sind für jeden Wechselrichter als Block zusammengefasst.
+Der Buchstabe S steht für Strang, der Buchstabe M steht für Messung. "S4 M2" bedeutet zum Beispiel Messung am jeweiligen Wechselrichter an Strang 4, Messung 2. - Effektive Einstrahlung während der Messung, E eff, in Watt pro Quadratmeter, W/m2 -  Kurzschlussstrom während der Messung, Isc, in Ampere, A - Leerlaufspannung während der Messung, Uoc, in Volt, V - Strom im Punkt maximaler Leistung (MPP) während der Messung, Ipmax, in Ampere, A - Spannung im Punkt maximaler Leistung (MPP) während der Messung, Upmax, in Volt, V - Leistung im Punkt maximaler Leistung (MPP) während der Messung, Ppmax, in Watt, W - Kurzschlussstrom unter STC-Bedingungen (berechnet), Isc 0, in Ampere, A - Leerlaufspannung unter STC-Bedingungen (berechnet), Usc 0, in Volt, V - Strom im Punkt maximaler Leistung (MPP) unter STC-Bedingungen (berechnet), Ipmax0, in Ampere, A - Spannung im Punkt maximaler Leistung (MPP) unter STC-Bedingungen (berechnet), U pmax0, in Volt, V - Nennleistung unter STC-Bedingungen (berechnet), Ppk, in Watt, W.
+Die Werte der berechneten Nennleistung sind in der Tabelle grau hinterlegt. - Füllfaktor während der Messung, FF, in Prozent - Serienwiderstand während der Messung, Rs, in Ohm  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+16
+
+von
+
+71
+
+Wert E eff Isc Uoc Ipmax Upmax Pmax Isc 0 Uoc 0 Ipmax0 Upmax0 Ppk FF Rs Einheit W/m2 A V A V W A V A V W % Ohm Wechselrichter 1 S1 M1 933 5,2 458,1 4,7 355,0 1683,5 5,6 499,6 5,1 387,0 1.967 70,8 9,9 S1 M2 Messung verworfen S2 M1 940 5,2 451,0 4,8 351,5 1673,6 5,6 490,4 5,1 382,2 1.937 71,0 9,6 S2 M2 940 5,2 450,8 4,8 351,2 1675,7 5,6 490,1 5,1 381,8 1.938 71,0 9,5 S3 M1 940 5,2 447,6 4,8 345,1 1659,0 5,6 485,8 5,1 374,6 1.916 70,7 9,7 S3 M2 940 5,3 447,3 4,8 345,5 1654,0 5,6 486,2 5,1 375,7 1.912 70,5 9,8 S4 M1 943 5,2 447,6 4,8 346,1 1658,3 5,6 487,2 5,1 376,9 1.914 70,7 9,7 S4 M2 943 5,3 447,6 4,8 346,7 1662,7 5,6 487,6 5,1 378,0 1.922 70,7 9,7 Wechselrichter 2 S1 M1 943 5,3 447,6 4,8 346,7 1662,7 5,6 487,6 5,1 378,0 1.922 70,7 9,7 S1 M2 942 5,2 449,1 4,8 347,2 1667,8 5,6 489,0 5,1 378,3 1.930 70,8 9,7 S2 M1 944 5,3 446,9 4,8 345,4 1654,8 5,6 486,4 5,1 376,3 1.910 70,4 9,8 S2 M2 944 5,3 446,6 4,8 345,2 1654,8 5,6 486,0 5,1 375,9 1.909 70,4 9,8 S3 M1 945 5,3 447,2 4,8 345,8 1655,0 5,6 486,7 5,1 376,7 1.908 70,3 9,8 S3 M2 946 5,3 447,2 4,8 345,5 1656,5 5,6 486,5 5,1 376,3 1.906 70,4 9,8 S4 M1 948 5,3 446,5 4,8 346,0 1669,3 5,6 486,1 5,1 377,2 1.920 70,8 9,5 S4 M2 948 5,3 446,3 4,8 345,0 1670,8 5,6 485,9 5,1 376,1 1.922 70,8 9,6 Wechselrichter 3 S1 M1 949 5,3 448,9 4,8 348,2 1675,1 5,6 489,8 5,1 380,5 1.929 70,7 9,6 S1 M2 948 5,3 448,8 4,8 348,2 1675,1 5,6 489,9 5,1 380,7 1.931 70,7 9,6 S2 M1 944 5,3 448,8 4,8 348,1 1665,5 5,6 490,6 5,1 380,9 1.930 70,5 9,7 S2 M2 944 5,3 448,7 4,8 346,7 1664,3 5,6 490,2 5,1 379,2 1.929 70,5 9,8 S3 M1 940 5,2 445,2 4,8 343,3 1642,6 5,6 486,7 5,1 375,6 1.912 70,4 9,8 S3 M2 940 5,2 445,0 4,8 344,1 1642,0 5,6 487,2 5,1 377,0 1.913 70,4 9,8 S4 M1 940 5,3 444,3 4,8 342,5 1636,8 5,6 486,6 5,1 375,4 1.909 70,2 9,9 S4 M2 940 5,3 444,0 4,8 343,2 1644,3 5,6 487,0 5,1 376,7 1.920 70,4 9,7 Wechselrichter 4 S1 M1 913 5,1 313,6 4,6 241,9 1119,2 5,6 340,2 5,1 261,5 1.325 69,9 7,2 S1 M2 922 5,1 312,5 4,7 240,7 1120,8 5,6 340,0 5,1 261,4 1.320 69,5 7,4 S2 M1 917 5,1 309,3 4,7 237,9 1108,4 5,6 334,6 5,1 256,5 1.304 69,8 7,1 S2 M2 918 5,1 309,3 4,7 238,1 1109,2 5,6 334,6 5,1 256,8 1.303 69,7 7,1 Wechselrichter 5 S1 M1 925 5,2 361,6 4,7 279,8 1318,6 5,6 392,3 5,1 303,0 1.543 70,6 7,9 S1 M2 926 5,2 361,1 4,7 280,1 1317,2 5,6 392,2 5,1 303,8 1.543 70,5 7,9 S2 M1 926 5,1 360,7 4,7 279,0 1317,1 5,6 391,2 5,1 302,1 1.540 70,8 7,9 S2 M2 926 5,2 360,4 4,7 279,0 1311,7 5,6 391,4 5,1 302,6 1.535 70,6 7,9 Tabelle 1: Kennlinienmessungen und Nennleistungsbestimmung 5.3 Bewertung der Messergebnisse Die vom Hersteller definierten Bedingungen für eine Toleranz in Höhe von +/- 5 % bei der Berechnung der Nennleistung aus den Messwerten wurden bei allen Messungen eingehalten.
+Der Verschmutzungszustand der Gesamtanlage wurde visuell kontrolliert.
+Neben einer geringfügigen Verschmutzung durch Staub und Blütenstaub konnten eine besondere Verschmutzungen durch Vogelkot an den Modulen in den obersten Reihen festgestellt werden.
+Die Kontrollen sind durchzuführen, da die kristalline Zelle des Einstrahlungssensors am Messgerät keine Verschmutzung aufweist.
+Starke Unterschiede im Verschmutzungsgrad zwischen zu messender Photovoltaikanlage und Sensor würden zu ungenauen Ergebnissen führen.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+17
+
+von
+
+71
+
+Der vorliegende Verschmutzungsgrad durch Staub und Blütenstaub ist mit 2 % Leistungsminderung gegenüber gereinigten Modulen zu bewerten.
+Der kombinierte Einstrahlungs- und Temperatursensor des Messgerätes wurde an einem Modul aus der untersten Reihe montiert.
+Bedingt durch diese Montage lag der Temperatursensor frei in der Luft.
+Hierdurch bedingt stellt sich am Temperatursensor eine geringere Temperatur verglichen mit den auf dem Dach montierten Modulen ein.
+Diese werden in geringerem Maße von Luft umströmt und sind somit weniger gekühlt (Bild 7).
+Bild 7: Befestigung Einstrahlungs- und Temperatursensor Die höhere Temperatur der Module im Vergleich zur Temperatur des Sensors führt dazu, dass bei der Hochrechnung von den Messergebnissen auf die Nennleistung ein systematischer Fehler entsteht.
+Aufgrund seiner Erfahrung aus zahlreichen Messungen geht der Sachverständige davon aus, dass dieser systematische Fehler zu einer um 3 % zu niedrig berechneten Nennleistung führt.
+Bei der Bewertung der berechneten Nennleistung ist die Degradation zu berücksichtigen.
+Unter dem Begriff Degradation wird die alterungsbedingte Änderung der Parameter von Halbleiterbauteilen verstanden.
+In diesem Fall beschreibt sie den Rückgang des Wirkungsgrades von Solarzellen im Laufe ihres Lebens.
+Die Photovoltaikanlage wurde nach Aktenlage im Jahr 2xx errichtet und am 0..0..20xx an das öffentliche Versorgungsnetz angeschlossen.
+Der Sachverständige geht von einer Degradation von 5 % innerhalb der wirtschaftlichen Betrachtungsdauer der Solarstromanlage (20 Jah GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+18
+
+von
+
+71
+
+re) aus.
+Zum Zeitpunkt der Messung im Juli 2013 war die Photovoltaikanlage seit 6 Jahren und 9 Monaten in Betrieb.
+Dies entspricht ca. einem Drittel des Degradationszeitraums.
+Es werden 2 % Leistungsminderung durch Degradation angesetzt.
+Da die Messung sich nicht nur über die Module selbst sondern auch über die Steckverbinder und Stringleitungslängen erstreckt sind Verluste in Steckern und Leitungen zu berücksichtigen.
+Die berechneten Nennleistungen sind aufgrund der Erfahrung aus zahlreichen Messungen um 1 % Prozent zu erhöhen.
+Bedingt durch die Effekte aus Verschmutzung der Module, Bestimmung der Temperatur, Degradation und Berücksichtigung von Steckern und Leitungen sind die berechneten Ergebnisse zur Nennleistung vor einem Vergleich mit der Soll-Leistung um 8 % zu erhöhen (2 % + 3 % +2 % + 1 %= 8 %).
+Tabelle 2 zeigt die Ergebnisse des Vergleichs der berechneten Nennleistung aus den Messergebnissen.
+Dabei ist Ppk die aus den Messwerten berechnete Nennleistung, Ppk-korr die korrigierte Nennleistung, Anzahl steht für die Anzahl der Module pro Strang.
+Die Nennleistung eines Moduls beträgt 215 W.
+Psoll stellt die Nennleistung pro Strang da.
+In der Spalte Abweichung ist die prozentuale Abweichung von Ppk-korr zu Psoll angegeben ((Ppk-korr / Psoll) - 1).
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+19
+
+von
+
+71
+
+Wert Ppk Ppk-korr Anzahl Psoll Abweichung Einheit W W Stück W % Wechselrichter 1 Strang 1 Messung 1 1.967 2.125 10 2.150 -1% Strang 1 Messung 2 Strang 2 Messung 1 1.937 2.092 10 2.150 -3% Strang 2 Messung 2 1.938 2.093 10 2.150 -3% Strang 3 Messung 1 1.916 2.069 10 2.150 -4% Strang 3 Messung 2 1.912 2.065 10 2.150 -4% Strang 4 Messung 1 1.914 2.067 10 2.150 -4% Strang 4 Messung 2 1.922 2.076 10 2.150 -3% Wechselrichter 2 Strang 1 Messung 1 1.922 2.076 10 2.150 -3% Strang 1 Messung 2 1.930 2.084 10 2.150 -3% Strang 2 Messung 1 1.910 2.062 10 2.150 -4% Strang 2 Messung 2 1.909 2.061 10 2.150 -4% Strang 3 Messung 1 1.908 2.060 10 2.150 -4% Strang 3 Messung 2 1.906 2.059 10 2.150 -4% Strang 4 Messung 1 1.920 2.073 10 2.150 -4% Strang 4 Messung 2 1.922 2.075 10 2.150 -3% Wechselrichter 3 Strang 1 Messung 1 1.929 2.083 10 2.150 -3% Strang 1 Messung 2 1.931 2.086 10 2.150 -3% Strang 2 Messung 1 1.930 2.084 10 2.150 -3% Strang 2 Messung 2 1.929 2.084 10 2.150 -3% Strang 3 Messung 1 1.912 2.065 10 2.150 -4% Strang 3 Messung 2 1.913 2.066 10 2.150 -4% Strang 4 Messung 1 1.909 2.062 10 2.150 -4% Strang 4 Messung 2 1.920 2.073 10 2.150 -4% Wechselrichter 4 Strang 1 Messung 1 1.325 1.431 7 1.505 -5% Strang 1 Messung 2 1.320 1.426 7 1.505 -5% Strang 2 Messung 1 1.304 1.408 7 1.505 -6% Strang 2 Messung 2 1.303 1.407 7 1.505 -6% Wechselrichter 5 Strang 1 Messung 1 1.543 1.666 8 1.720 -3% Strang 1 Messung 2 1.543 1.667 8 1.720 -3% Strang 2 Messung 1 1.540 1.663 8 1.720 -3% Strang 2 Messung 2 1.535 1.658 8 1.720 -4% Tabelle 2: Bewertung der Nennleistungsbestimmung Zusammenfassung: Im Rahmen der Genauigkeit der Leistungsbestimmung (+/-5 %) stimmt die berechnete Nennleistung mit dem Sollwert überein.
+Die Abweichung liegt GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+20
+
+von
+
+71
+
+im Mittelwert bei -4 %.
+Lediglich Strang 2 von Wechselrichter 4 liegt bei beiden Messungen mit -6 % um ein Prozent außerhalb der Toleranz.
+Im Anhang dieses Gutachtens befindet sich mit der Messung 1 ein exemplarisches Beispiel für die jeweils zwei vorgenommenen Messungen eines jeden Strangs mit den ausführlichen Ergebnissen und der grafischen Darstellung der gemessenen Kennlinie (rote Kennlinie im Diagramm).
+Der Verlauf der Kennlinien zeigt bei allen vorgenommenen Messungen keine außergewöhnlichen Auffälligkeiten. 6 Beschluss 0..0..2013: Verschaltungen fachgerecht 1.
+Bestehen [.] folgende Mängel b) Die Verschaltungen sind nicht fachgerecht und nicht optimal hergestellt.
+Die Verschaltung der Module wurde durch das Softwareinstrument Sunny Design des Wechselrichterherstellers SMA nachgebildet.
+Bei der Verschaltung der Module zu Strings konnten keine Unregelmäßigkeiten festgestellt werden.
+Das Ergebnis der Bewertung ist Anhang 5 dieses Gutachtens zu entnehmen: Grüne Haken bedeuten, dass die Systemkonfiguration (Verschaltung) korrekt geplant wurde.
+Das gelbe Ausrufezeichen bei der Verschaltung des Wechselrichters SB 3300TL HC bezieht sich auf das Nennleistungsverhältnis und stellt keinen Mangel im Sinne der Verschaltung dar.
+Ausführungsfehler bei der Verschaltung konnten durch den Sachverständigen nicht festgestellt werden.
+Zusammenfassung: Die Verschaltungen sind fachgerecht hergestellt.
+Der behauptete Mangel besteht nicht. 7 Beschluss 0..0..2013: Kabelwiderstände 1.
+Bestehen [.] folgende Mängel c) Die Kabelwiderstände sind zu hoch.
+Die Begriffe Kabelwiderstände bzw. der Serien-, Reihen- oder auch Serieninnenwiderstand haben im Sinne der hier angestellten Betrachtung die gleiche Bedeutung.
+Diese Widerstandsgröße wird nach DIN EN 60891 (VDE 0126-6) aus der gemessenen Strom-Spannungskennlinie berechnet.
+Die Bezeichnung wird in den Tabelle 1 und Anhang 4 als Serieninnenwiderstand bzw. als Serienwiderstand angegeben.
+Die Werte dieser Widerstände liegen bei den Strings mit 10 Modulen zwischen 9,5 und 9,9 GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+21
+
+von
+
+71
+
+Ohm.
+Bei den Strängen mit 7 bzw. 8 Modulen pro Strang liegen die Werte zwischen 7,1 und 7,9 Ohm.
+Die Werte weisen keine Unregelmäßigkeiten auf, die Kabelwiderstände sind nicht zu hoch.
+Der behauptete Mangel besteht nicht. 8 Beschluss 0..0..2013: Mängelbeseitigung, Kostenaufwand 2.
+Falls die Beweisfrage 1. zumindest zum Teil bejaht wird: Welche Maßnahmen und welcher Aufwand an Kosten ist erforderlich, um die festgestellten Mängel zu beheben? Behauptung 1: Im Rahmen der Genauigkeit der Leistungsbestimmung (+/-5 %) stimmt die berechnete Nennleistung mit dem Sollwert überein.
+Die Abweichung liegt im Mittelwert bei -4 %.
+Lediglich Strang 2 von Wechselrichter 4 liegt bei beiden Messungen mit -6 % um ein Prozent außerhalb der Toleranz.
+Behauptung 2: Die Verschaltungen sind sowohl fachgerecht als auch optimal hergestellt.
+Der behauptete Mangel besteht nicht.
+Behauptung 3: Die Kabelwiderstände sind nicht zu hoch.
+Die ermittelten Werte weisen keine Unregelmäßigkeiten auf.
+Der behauptete Mangel besteht nicht.
+Keiner der drei behaupteten Mängel aus Beweisfrage 1. konnte bejaht werden: 9 Beschluss 0..0..2013: Drehmechanismus, Zustand 3.
+Ist die Anlage, insbesondere der Drehmechanismus in einem fachgerechten Instandhaltungs-, Wartungs- und Einstellungszustand? Falls nein, wirkt sich das auf die Leistung der Anlage aus? 9.1 Zustand Drehmechanismus  Bei dem Drehmechanismus handelt es sich um eine mechanische Einrichtung, die von Elektromotoren angetrieben wird.
+Um einen ordnungsgemäßen Betrieb auf Dauer zu ermöglichen muss die Anlage über Sensoren den "Nullpunkt" immer wieder neu finden.
+Dies wird mit Hilfe der Regelung und der Sensoren zur Positionsbestimmung ermöglicht.
+Da es sich bei der Anlage um mechanische Antriebe handelt, sind diese einem gewissen Verschleiß und aufgrund von Witterungseinflüssen der Korrosion unterworfen.
+Nach Angabe der Klagepartei ist der Drehmechanismus "wartungsfrei".
+Bei Bedarf werden die Rollen gefettet.
+Ein Wartungshandbuch liegt nicht vor.
+Es ist nicht bekannt, ob bis zum heutigen Tage eine Wartung durchgeführt wurde.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+22
+
+von
+
+71
+
+Augenscheinlich (während der gesamten Dauer der beiden Ortstermine) stimmt die angefahrene Position der der Photovoltaikanlage mit dem Sonnenstand überein.
+Dies ist daran ersichtlich, dass der Schattenverlauf stets parallel zur Gebäudekante verlief.
+In Bild 8 ist dies gut zu erkennen.
+Während der Ortstermine funktioniert die Nachführung einwandfrei.
+Bild 8: Nachführung, Schatten parallel zu Gebäudekante Weitergehende Untersuchungen bzw.
+Langzeitmessungen wurden nicht angestellt.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+23
+
+von
+
+71
+
+Zusammenfassung: Der Zustand des Drehmechanismus ist augenscheinlich einwandfrei, ein Wartungshandbuch liegt nicht vor. 9.2 Zustand Photovoltaikanlage Die Photovoltaikanlage weist Mängel auf, die Gegenstand dieses Gutachtens sind.
+Es wurde nicht untersucht, ob die Photovoltaikanlage weitere Mängel aufweist, als die in den beiden Beweisbeschlüssen behaupteten.
+Der Sachverständige vertritt die Auffassung, dass dies einen Ausforschungsauftrag darstellen würde.
+Gemäß BGV A3 und DIN EN 62446 hat der Unternehmer bzw.
+Anlagenbetreiber dafür zu sorgen, dass die Photovoltaikanlage und alle ihre Bestandteile einen zufriedenstellenden Gebrauchszustand haben.
+Angaben zu Wartungen und Prüfungen liegen dem Sachverständigen nicht vor.
+Vor Ort waren keine entsprechenden Unterlagen vorhanden.
+Von der Klagepartei wurde vorgetragen, dass keine Unterbrechungen seit Inbetriebnahme zu verzeichnen sind. "Die Anlage läuft störungsfrei seit dem ersten Tag".
+Es wurden keine weiterreichenden Unterlagen eingereicht.
+Zusammenfassung: Der Zustand der Photovoltaikanlage ist mangelhaft.
+Die Mängel sind Gegenstand dieses Gutachtens.
+Ein Wartungshandbuch liegt nicht vor. 10 Beschluss 0..0..2013: Gutachten Xxxx Der Sachverständige wird gebeten, bei der Beantwortung der Beweisfragen, die Ausführungen im Gutachten des Privatsachverständigen Xxxx vom 0..0..20xx (Anlage K5) zu berücksichtigen und gegebenenfalls darauf einzugehen.
+Die Prüfergebnisse aus dem Gutachten des Privatsachverständigen Xxxx vom 0..0..20xx mit der Nummer 1.0 bis1.5 und 2.1 bis 2.5 sind Gegenstand dieses Gutachtens.
+Das Prüfergebnis 3.0 DC Strings kann vom Sachverständigen nicht bestätigt werden.
+Siehe Kapitel 5 dieses Gutachtens.
+Anmerkungen zur Analyse einer Kennlinienmessungen, Seite 9 des Gutachtens des Privatsachverständigen Xxxx:  - Das Vergleichsmodul entspricht nicht dem Typ laut Parteienvortrag.
+Eingestellt ist ein Modul vom Typ HIP-215NHE5.
+Nach Aussage des Prozessbevollmächtigten des Beklagten handelt es sich bei den Photovoltaik Modulen um den Typ HIP215NKHE5.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+24
+
+von
+
+71
+
+- Die Modultemperatur wurde mit 30,3 'C bestimmt.
+Der Sachverständige hält eine solche Modultemperatur bei einer Einstrahlung von 778 W/Quadratmeter für deutlich zu niedrig.
+Laut Messgerät liegt die zu erwartende Modultemperatur bei 45'.
+Da die Temperatur in die Berechnung der Nennleistung eingeht ist eine exakte Bestimmung der Modultemperatur notwendig. - Ursachen für den Verlauf der Kennlinie mit deutlich abgesenktem Punkt maximaler Leistung werden nicht vom Gutachter vorgetragen sondern sind als mögliche Ursachen in der Analyse des Messgeräteherstellers gelistet.
+Die Angabe der möglichen Ursachen (ganz unten auf Seite 9 im Gutachten des Herrn Xxxx) muss immer vom Messenden hinterfragt und bewertet werden.
+Dem Sachverständigen war es nicht möglich einen vergleichbaren Verlauf der Kennlinie bei den selbst vorgenommenen Messungen während des Ortstermins zu reproduzieren oder den Verlauf der gemessenen Kennlinie des Sachverständigen Xxxx zu erklären.
+Anmerkungen zur Analyse einer Kennlinienmessungen, Seite 10 des Gutachtens des Privatsachverständigen Xxxx:  - Auch hier entspricht das eingestellte Modul nicht dem Modul laut Parteienvortrag  - Auch hier stimmt die Modultemperatur bei der Messung nicht mit der erwarteten Temperatur überein.
+Die Abweichungen sind noch ausgeprägter.
+Anmerkungen zur Analyse einer Kennlinienmessungen, Seite 11 des Gutachtens des Privatsachverständigen Xxxx:  - Als Vergleichsmodul wurde der Typ ND-215R1J gewählt.
+Der Grund für diese Auswahl ist nicht nachvollziehbar.
+Die Mängelbehauptung aus Punkt 3.1 Fehler String kann vom Sachverständigen nicht nachvollzogen werden.
+Es konnten keine zu hohen Serienwiderstände ermittelt werden.
+Siehe Kapitel 7 dieses Gutachtens.
+Der Abschnitt 4.0 Steckdosen ist Gegenstand dieses Gutachtens.
+Siehe Kapitel 23. 11 Beschluss 0..0..2013: Allgemeines Unter Berücksichtigung der für die Elektroinstallation und den Betrieb elektrischer Anlagen geltenden VDE und DIN Normen, handelt es sich bei der begutachteten Photovoltaikanlage um eine landwirtschaftliche Betriebsstätte.
+Dies wird unter dem Punk 11 der DIN VDE 0100-705 deutlich.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+25
+
+von
+
+71
+
+12 Beschluss 0..0..2013: 1.1 Leitungseinführung in Verteilung Wortlaut aus dem Beweisbeschluss:  1.1 Die Einführung der Leitung in die Verteilung ist fehlerhaft und nicht richtig ausgeführt 12.1 Feststellungen und Bewertungen Die systemgebundenen Leitungseinführungen der Elektroverteiler wurden nicht eingebaut.
+Die Leitungen wurden ohne diese systemgebundenen Kabelverschraubungen oder Kabeltüllen in die Gehäuse eingeführt.
+Hierdurch wird die herstellerseitig angegebene Schutzart vom Gehäuse (IP 65) nicht mehr erfüllt.
+Die Schutzart IP (IP = International Protection) kennzeichnet den Berührungs-, Fremdkörper-, und Wasserschutz nach VDE 0470-1.
+Die erste Ziffer hinter der Bezeichnung IP gibt den Berührungs- und Fremdkörperschutz, die zweite Ziffer den Schutz gegen Eindringen von Wasser an.
+Es wurden zusätzliche Bohrungen in beiden Verteilergehäuse händisch erstellt, um die Leitungen einzuführen.
+Siehe Bild 9 und Bild 10.
+Herstellerseitig vorgesehene Sollbruchstellen zur Befestigung von Kabelverschraubungen bzw.
+Tüllen wurden nicht verwendet.
+Bild 9: Kleinverteilergehäuse für den Überspannungsschutz händisch erstellte Durchführung GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+26
+
+von
+
+71
+
+Bild 10: Wechselspannungsverteilung der Photovoltaikanlage (AC-Verteiler) Die Einführung der Leitungen in die beiden Verteilerkästen ist fehlerhaft. 12.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 13 Beschluss 0..0..2013: 1.2 Berührungsschutz Wortlaut aus dem Beweisbeschluss:  1.2 Der Berührungsschutz ist nicht vorhanden 13.1 Feststellungen und Bewertungen Nach BGV A3 Teil Abs. 4 und VDE 0660 Teil 500 sind aktive Teile elektrischer Anlagen und Betriebsmittel gegen direktes Berühren zu schützen.
+Ein Gerät ist fingersicher, wenn es einem Menschen unmöglich ist, Finger in gefährliche Bereiche des betreffenden Gerätes zu stecken, bzw. aktive, also unter Spannung stehende Teile des Betriebsmittels direkt zu berühren.
+Erzeugerseite Photovoltaikanlage Strombezug Verbraucherseite händisch erstellte Durchführung GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+27
+
+von
+
+71
+
+Bild 11: Klemmstein ohne Berührungsschutz und nicht fingersicher (Erzeugerseite)  Bild 12: Klemmstein mit Berührungsschutz und fingersicher Der Berührungsschutz ist teilweise nicht vorhanden, dies stellt einen Mangel dar. 13.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung An dem Klemmstein ist keine Fingersicherheit gegeben Klemmstein mit Fingersicherheit  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+28
+
+von
+
+71
+
+14 Beschluss 0..0..2013: 1.3 Trennklemmen Wortlaut aus dem Beweisbeschluss:  1.3 Die erforderlichen Trennklemmen sind nicht vorhanden 14.1 Feststellungen und Bewertungen Gemäß der DIN VDE 0100-520 (526.5) ist der Einsatz von Reihenklemmen, auch nach geltenden Normen, nicht zwingend vorgeschrieben.
+Der Vorsachverständige Xxxx bezieht sich in seinem Gutachten auf Seite 2 auf die Norm DIN VDE 0100 Teil 718: Errichten von Niederspannungsanlagen - Anforderungen für Betriebsstätten, Räume und Anlagen besonderer Art - Teil 718: Bauliche Anlagen für Menschenansammlungen.
+Die hier begutachtete Photovoltaikanlage dient zur Erzeugung und Abgabe elektrischer Energie.
+Da es sich bei der Abgabe der Energie um eine gewerbliche Nutzung der Anlage handelt, wird eine Prüfpflicht der Anlage durch die Betriebssicherheitsverordnung (BetrSichV) und des Weiteren durch die berufsgenossenschaftliche Vorschrift BGV A3 vorgegeben.
+Unter VDE 0105-100 "Betrieb von elektrischen Anlagen" Teil 100 "Allgemeine Festlegungen" wird unter dem Pkt. 4.1.101 festgelegt, dass elektrische Anlagen den Errichtungsnormen entsprechend in einem ordnungsgemäßen Zustand zu erhalten sind.
+Um diese Forderung zu erfüllen, ist bei der elektrischen Anlage gemäß dem Pkt. 4.1.107 dieser Norm (Nennspannungen bei Wechselspannung (AC) 1000V oder Gleichspannung (DC) 1500V) u.a. der Isolationszustand sicherzustellen.
+Die Ausführung der hierzu erforderlichen wiederkehrenden Prüfung wird im Pkt. 5.3.101.3 beschrieben.
+Hierzu ist die Verbindung zum Neutralleiter zu trennen (durch so genannte Trennklemmen oder NTrennklemmen).
+Der Einsatz von N-Trennklemmen lässt sich bei dem hier vorgefundenen TT-Netz aus den Normen nicht zwingend ableiten.
+Aufgrund der Anlagengröße und der damit verbundenen Übersichtlichkeit, bei ordnungsgemäßer Installation, ist das Ausklemmen der Neutralleiter durch eine Elektrofachkraft durchaus möglich.
+Somit ist der Einsatz von N-Trennklemmen in dieser Verteilung nicht zwingend erforderlich.
+Es liegt kein Mangel vor, Trennklemmen sind nicht erforderlich. 15 Beschluss 0..0..2013: 1.4 Abdeckstreifen Wortlaut aus dem Beweisbeschluss:  1.4 Abdeckstreifen fehlen GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+29
+
+von
+
+71
+
+15.1 Feststellungen und Bewertungen In der VDE 0100 Teil 410 vom Januar 1997 (gültig vom 01.01.1997 bis 01.06.2007) ist unter dem Punkt 412 der Schutz gegen direktes Berühren (Basisschutz) beschrieben.
+Wie unter Punkt 412.2.1 aufgeführt, müssen aktive Teile von Umhüllungen umgeben oder hinter Abdeckungen angeordnet sein, die mindestens der Schutzart IP2X entsprechen.
+Dies ist bei der hier gegebenen Verteilung bauartbedingt erfüllt.
+Bei ordnungsgemäßer Montage wird die Schutzart IP 65 eingehalten. (Bei der Schutzart IP 2X handelt es sich um den Schutz gegen feste Fremdkörper größer als 12 mm.
+Diese Schutzart verhindert das Eindringen von Fingern oder ähnlichen Fremdkörpern bis zu einer Länge von 80 mm bzw. feste Fremdkörper über 12 mm Durchmesser.
+Fingersicherheit entspricht der Schutzart IP 2X) Weiterhin wird unter Punkt 412.2.4 der oben genannten VDE Norm ausgeführt, dass in Fällen, in denen zur Bedienung Abdeckungen entfernt, Umhüllungen geöffnet oder Teile von Umhüllungen abgenommen werden müssen, eine Zwischenabdeckung mit der Schutzart IP2X ein Berühren aktiver Teile verhindert.
+Diese Zwischenabdeckung darf nur durch Schlüssel oder Werkzeug entfernt werden können.
+Somit ist auch Fingersicherheit beim Öffnen von Abdeckungen gewährleistet.
+Die elektrischen Betriebsgeräte, die in dem streitgegenständlichen Kleinverteiler als Reiheneinbaugeräte eingesetzt wurden, ragen bauartbedingt über die Zwischenabdeckung hinaus.
+Da diese Aussparung zur Anordnung der Reiheneinbaugeräte nicht mit der maximal möglichen Anzahl von Betriebsgeräten ausgefüllt wurde, ist für die sich jeweils ergebende Aussparung durch Einsetzen von Abdeckstreifen die Fingersicherheit herzustellen.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+30
+
+von
+
+71
+
+Bild 13: Kleinverteiler zu Strombezug und Stromerzeugung Der Mangel liegt vor, die Abdecktreifen fehlen. 15.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 16 Beschluss 0..0..2013: 1.5 Querschnittsreduzierung Wortlaut aus dem Beweisbeschluss:  1.5 Die Querschnittsreduzierung ist fehlerhaft und so nicht zulässig, wie im Sachverständigengutachten Anlage K5 näher beschrieben und dargelegt. 16.1 Feststellungen und Bewertungen Als Neutralleiterverbindung der Photovoltaikseite (Erzeugerseite) sowie von der Strombezugsseite wurde vom jeweiligen Klemmstein zur Neutralleiterklemmleiste über den Fehlerstromschutzschalter (RCD) eine Kupferleitung vom Typ H07V-K verwendet.
+Auf der Erzeugerseite wurde ab dem Klemmstein der Querschnitt des Neutralleiters Unterhalb dieser Tür befindet sich die Zwischenabdeckung fehlende Abdeckstreifen GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+31
+
+von
+
+71
+
+verringert.
+Nach VDE 0100-520 Pkt. 524.3 kann der Querschnitt des hier verwendeten Neutralleiters verringert werden, wenn der zu erwartende maximale Strom einschließlich der Strom durch Oberschwingungen im Neutralleiter im ungestörten Betrieb nicht größer als die zulässige Strombelastbarkeit des verringerten Neutralleiterquerschnitts ist.
+Hierbei wird von einer symmetrischen Belastung der Außenleiter im ungestörten Betrieb ausgegangen.
+Aufgrund der verwendeten Wechselrichtertypen und Auslegung ist von einem symmetrischen Betrieb auszugehen.
+Die eingeklemmten Enden der flexiblen Neutralleiter und des Schutzleiters sind mit Aderendhülsen zu versehen.
+Siehe Bild 14.
+Nur so kann gemäß dem Stand der Technik gewährleistet werden, dass alle Litzen des Leiters ordnungsgemäß untergeklemmt sind und es somit zu keiner Querschnittsverringerung durch nicht untergeklemmte Litzen kommt.
+Siehe Kapitel 15: Die Fingersicherheit ist herzustellen.
+Bild 14: Anschluss der Klemmleisten auf der Photovoltaikseite (Erzeugerseite) Die Querschnittsreduzierung ist nicht fehlerhaft.
+Folgende Mängel sind festzustellen: Die Fingersicherheit ist nicht gegeben, bei flexiblen Leitern sind Aderendhüllen einzusetzen. flexible Leiter ohne Aderendhülsen GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+32
+
+von
+
+71
+
+16.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 17 Beschluss 0..0..2013: 1.6 Leitungseinführung in Verteilung Wortlaut aus dem Beweisbeschluss:  1.6 Beim vorhandenen TT-Netz wurde die Trennung vom Neutralleiter (N blau) zum Schutzleiter (PE grün) nicht eingehalten 17.1 Feststellungen und Bewertungen Für die Zuleitung von der elektrischen Zählung zu Elektroverteilung auf der Photovoltaikseite (Erzeugerseite) in dem Gebäude wurde ein Kabel vom Typ  NYY-O 4 x 70 mm2 SM verlegt.
+Für den Energiebezug wurde ein Kabel vom Typ NYCWY-I 4x35/16mm2 verlegt.
+Um die Photovoltaikanlage dem Sonnenstand nachführen zu können, ist das Gebäude drehbar gelagert.
+Damit die elektrische Installation der Drehbewegung des Gebäudes folgen kann, ist ein Übergang von fest verlegten Kabeln auf flexible Kabel an mehreren Stellen notwendig.
+Bei den einzelnen Übergängen vom fest verlegten Kabel auf flexible Kabel und wieder auf die feste Verlegung wurden die Aderfarben für den Neutral- und den Schutzleiter vermischt.
+Für den Schutzleiter ist durchgängig die Farbgebung grün/gelb für den Neutralleiter die Farbe blau zu verwenden.
+Ein Vermischen der Aderfarben ist nach DIN EN 60446 bzw.
+VDE 0198 nicht zulässig.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+33
+
+von
+
+71
+
+ Bild 15: Kabelübergang vom Galgen zum First  Bild 16: Übergang am Galgen, grün/gelbe- und blaue Ader vermischt, Strombezug GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+34
+
+von
+
+71
+
+ Bild 17: Übergang am Galgen, grün/gelbe- und blaue Ader vermischt, Erzeugung  Bild 18: Übergang am First, hier kein Vermischen der Farben, Strombezug GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+35
+
+von
+
+71
+
+Bild 19: Übergang am First, hier kein Vermischen der Farben, Erzeugung Der Mangel liegt vor: Die Trennung vom Neutralleiter zum Schutzleiter ist nicht durchgängig eingehalten. 17.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 18 Beschluss 0..0..2013: 1.7 Leitungsverlegung Wortlaut aus dem Beweisbeschluss:  1.7 Die Leitungsverlegung der Zuleitung/Einspeiseleitung ist fehlerhaft, die Leitung ist bereits beschädigt 18.1 Feststellungen und Bewertungen Die Verlegung der Einspeisungsleitung entspricht nicht den VDE-Normen.
+Beim Übergang vom Erdreich zum Galgen werden die drei Kabel (Photovoltaikeinspeisung, Strombezug, Erdung) aus dem Boden kommend ungeschützt in ein Metallvierkantrohr eingeführt.
+Siehe Bild 20.
+Die hierzu in das Rohr eingeschnittene Ausspa GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+36
+
+von
+
+71
+
+rung ist scharfkantig und ohne Kantenschutz.
+Die zuvor genannten Kabel sind an dieser Stelle bereits beschädigt, Bild 21.
+Es besteht die Gefahr, dass sich diese Beschädigungen noch verstärken.
+Dies kann durch Wärmespannungen, Erschütterungen des Galgens und durch Vibrationen vom Drehkranz, der das Gebäude nach dem Sonnenstand ausrichtet, verursacht werden.
+Bild 20: die Kabel sind bereits beschädigt GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+37
+
+von
+
+71
+
+Bild 21: die Kabel sind bereits beschädigt Die Isolierung am Übergangsstück vom Galgen zum Dachfirst ist infolge von Erwärmung, durch mechanische Spannungen sowie durch das Eigengewicht bereits mehrfach gebrochen (Bild 22).
+Bild 22: Kabeltyp: H07RN-F 4G70, die Isolierung ist mehrfach gebrochen GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+38
+
+von
+
+71
+
+Der Mangel liegt vor: Die Leitungsverlegung ist fehlerhaft.
+Die beschädigten Kabel sind auszutauschen und entsprechend den Regeln der Technik zu befestigen. 18.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 19 Beschluss 0..0..2013: 1.8 Übergang "massiv" zu "flexibel" Wortlaut aus dem Beweisbeschluss:  1.8 Der Übergang zwischen der Zuleitung von "massiv" zu "flexibel" ist fehlerhaft ausgeführt, die Leitung ist bereits aus der Abzweigdose herausgerutscht. [.] 19.1 Feststellungen und Bewertungen Das Kabel für die Zuleitung der einzelnen in dem Gebäude angeordneten Verbraucher wurde ebenfalls über eine flexible Kabelverbindung vom Typ H07RN-F 4G16 hergestellt.
+Nach dem flexiblen Übergang beider Kabel wurden diese über Klemmdosen und starre Kabel vom Typ NYY für feste Verlegung nach VDE 0298 weitergeführt.
+Die benötigten Zugentlastungen an den Klemmdosen für den Kabelübergang entsprechen nicht dem Stand der Technik und erfüllen nicht die Anforderungen nach der Schutzart IP 44.
+Teilweise wurden die Öffnungen in den Klemmdosen vergrößert, sodass die oben genannten Kabel eingeführt werden konnten.
+Vergleiche Bild 16 bis Bild 19.
+Der Mangel liegt vor: Die Kabeleinführungen sind gegen solche mit geeigneter Zugentlastung auszutauschen. 19.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 20 Beschluss 0..0..2013: 1.9 Schutzleiter Wortlaut aus dem Beweisbeschluss:  1.9 Der Schutzleiter ist durch fortlaufende Drehbewegungen bereits beschädigt, der verlegte Schutzleiter ist gegen einen geeigneten Schutzleiter zu tauschen. 20.1 Feststellungen und Bewertungen Der hier verwendete Schutzleiter vom Typ NYM ist nur für feste Verlegung zugelassen.
+Bei dem bereits beschriebenen Übergang vom Galgen zum Dachfirst (Bild 15) wird dieser Schutzleiter ohne flexibles Zwischenstück mitgeführt.
+Auch ist die frei in der Luft verlegte Leitungsführung nicht zulässig.
+Durch die wiederholte Nachführung GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+39
+
+von
+
+71
+
+vom Gebäude besteht die Gefahr, dass es bei dem verwendeten Leiter zu einem Ermüdungsbruch kommt.
+Bild 23: Erdungsleitung vom Typ NYM für feste Verlegung  Bild 24: Erdungsleitung vom Typ NYM für feste Verlegung GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+40
+
+von
+
+71
+
+Der Mangel liegt vor: Der Schutzleiter ist gegen einen flexiblen Leiter zu ersetzen und den Regeln der Technik entsprechend zu befestigen. 20.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 21 Beschluss 0..0..2013: 1.10 Schutzleiterquerschnitt Wortlaut aus dem Beweisbeschluss:  1.10 Der Schutzleiterquerschnitt ist nicht richtig gewählt 21.1 Feststellungen und Bewertungen  Für die Zuleitung von der elektrischen Zählung zur Elektroverteilung auf der Photovoltaikseite (Erzeugerseite) in dem Photovoltaikgebäude wurde ein Kabel vom Typ NYYO 4 x 70 mm2 SM, für den Energiebezug ein Kabel vom Typ NYCWY-I 4x35/16mm2 verlegt.
+Der Querschnitt des Schutzleiters muss dem halben Außenleiterquerschnitt entsprechen (Tab. 54.2 der VDE 0100-540 von 06/2012 bzw. für diese Anlage Tab. 6 unter Punkt 5.1.2 aus der VDE 0100-540 von 06/2007).
+Dies bedeutet für das Stromerzeugungskabel einen Schutzleiterquerschnitt von 35 mm2 und für den Strombezug einen Querschnitt von 16 mm2.
+Der Mangel liegt nach Kapitel 20 vor: Der Schutzleiter ist gegen einen flexiblen Leiter (mit entsprechendem Querschnitt) zu ersetzen. 21.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 22 Beschluss 0..0..2013: 1.11 Art der Einspeisung Wortlaut aus dem Beweisbeschluss:  1.11 Die gewählte Art der Einspeisung ist nicht geeignet.
+Hier gibt es andere, sicherere und wenig störanfälligere Lösungen 22.1 Feststellungen und Bewertungen Aufgrund der im Gutachten festgestellten und dokumentierten Mängel wird die gewählte Art der Einspeisung als nicht geeignet beurteilt. 22.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+41
+
+von
+
+71
+
+23 Beschluss 0..0..2013: 1.12 Anschluss der Steckdosen Wortlaut aus dem Beweisbeschluss:  1.12 Der elektrische Anschluss der Steckdosen ist fehlerhaft.
+Die Anschlussleitung ist fehlerhaft in die Steckdose eingeführt. 23.1 Feststellungen und Bewertungen Bei dem elektrischen Anschluss der Steckdose erfolgte die Leitungsverlegung mit dem Kabeltyp NYM.
+Diese Leitung ist für feste Verlegung oder wie in der streitgegenständlichen Situation zur Verlegung in Leitungsführungskanälen vorgesehen.
+Die Leitung ist so in die Steckdose einzuführen, dass ein Herausreißen sicher verhindert wird und die Schutzart IP erhalten bleibt.
+Durch die Einführung von zwei Leitungen durch eine Einführung ist die Schutzart IP 44 nicht mehr gegeben. (IP44: Schutz gegen Eindringen von Fremdkörpern größer gleich 1,0 mm und Schutz gegen Spritzwasser)  Bild 25: Lichtschalter mit Schuko-Steckdose Der Mangel liegt vor: Die Leitungseinführung ist nachzuarbeiten.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+42
+
+von
+
+71
+
+23.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 24 Beschluss 0..0..2013: 1.13 Gesamtzustand Wortlaut aus dem Beweisbeschluss:  1.13 Der Gesamtzustand der elektrischen Anlage ist nicht ordnungsgemäß. [.] Insbesondere sind im TT-Netz der Neutralleiter (N blau) und der Schutzleiter (PE grün) nicht getrennt. 24.1 Feststellungen und Bewertungen Im Zuge des Kabelverlaufs wurde die Farbkennzeichnung des Schutzleiters mehrfach gewechselt.
+Da diese Leiter in dem durch den Netzbetreiber vorgegebenen TT-Netz die Schutzfunktion erfüllt, hat dieser durchgängig die Farbe grün/gelb zu führen (DIN EN 60446 bzw.
+VDE 0198).
+Der Mangel liegt vor: Die Kabeltypen sind entsprechend der geforderten Netzform zu ändern.
+Es ist zum Beispiel ein Kabel vom Typ NYY-I 4 x 70/35 mm2 einzusetzen. 24.2 Mängelbeseitigung Siehe Kapitel 25, Beschluss 0..0..2013: 2.
+Mängelbeseitigung 25 Beschluss 0..0..2013: 2.
+Mängelbeseitigung, Kostenaufwand Wortlaut aus dem Beweisbeschluss:  2.
+Falls die Beweisfragen zumindest zum Teil bejaht werden: Welche Maßnahmen und welcher Kostenaufwand ist erforderlich, um die festgestellten Mängel zu beheben. 25.1 Feststellungen, Bewertungen, Maßnahmen zur Mängelbeseitigung Die Kabel und Leitungen wurden teilweise durch zu große Kabeleinführungen in die Verteilung geführt.
+Bei einigen Leitungen wurden nur die einzelnen Adern durch die Leitungstüllen in die Verteilung eingeführt.
+Die Schutzart IP 44 ist hier nicht mehr gegeben (Stichworte: Berührungsschutz, Fingersicherheit, Abdeckstreifen.) Um weitere Kabel seitlich in die Verteilung einführen zu können, wurden zusätzliche Öffnungen durch Fräsen von Löchern geschaffen.
+Die Kabel und Leitungen wurden ohne entsprechende Verschraubungen oder Einführungszielen in die Verteilung eingeführt eine Fingersicherheit bzw. die Schutzart IP 44 ist hier nicht gegeben.
+Aufgrund dieser Änderung an der Verteilung ist der Einsatz in einer landwirtschaftlichen Be GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+43
+
+von
+
+71
+
+triebsstätte nicht mehr konform mit den oben genannten Normen.
+Durch die Änderung an der Verteilung ist die Herstellerzulassung nicht mehr gegeben.
+Aufgrund der in den einzelnen Kapiteln genannten Mängel ist die komplette Verteilung zu tauschen.
+Aufgrund der Leitungsanzahl und der zu übertragenen Leistung ist eine neue Verteilung größer auszuführen.
+Sie Position 1 in Tabelle 3.
+Beim Übergang am Galgen wurde vom erdverlegtem Kabeltyp NYCWY 4x35/16 auf das flexible Kabel vom Typ H07RN-F 4G16 eine Querschnittsreduzierung vorgenommen.
+Bei Querschnittsreduzierungen ändert sich die Stromtragfähigkeit der Kabel.
+Hier sind Leitungssicherungen einzusetzen, um das Kabel mit dem geringeren Querschnitt vor Überlast zu schützen: Im streitgegenständlichen Fall sind die gleichen Kabelquerschnitte zu verwenden (siehe Position 5 in Tabelle 3) oder Leitungssicherungen einzusetzen.
+Die Wechselspannungsseite (AC) der insgesamt fünf Wechselrichter werden in der Unterverteilung (Bild 10) zusammengefasst.
+Drei der Wechselrichter sind vom Typ SMC 8000TL die beiden kleineren vom Typ: SB 3300TL HC (Hersteller: SMA).
+Es handelt sich um transformatorlose Wechselrichter, der jeweils einphasig auf das Netz des Verteilnetzbetreibers (VNB) einspeisen.
+Die drei Wechselrichter SMC 8000TL werden jeweils einphasig über je einen Leitungsschutzschalter vom Typ Moeller, PXL B40/1 abgesichert.
+Die beiden Wechselrichter SB 3300TL HC sind mit einem Leitungsschutzschalter vom Typ Moeller, PXL B20/1 versehen.
+Die Anlage verfügt über einen Fehlerstromschutzschalter (RCD) vom Typ Möller PXF 40/4/03A, 4 pol.
+IN 40A/IFN 0,3A.
+Bei dem Fehlerstromschutzschalter handelt es sich um ein Gerät vom Typ A.
+Solche Geräte sind für pulsierenden Gleichstrom geeignet.
+Der laut Herstellerangabe maximale Nennstrom der Wechselrichter beträgt beim Typ SMC 8000TL 35 A und beim SB 3000TL HC 13 A.
+Photovoltaikanlagen sind mit einem Gleichzeitigkeitsfaktor von eins auszulegen, da es bei starker Sonneneinstrahlung über einen längeren Zeitraum zu einer maximalen Einspeiseleistung kommen kann.
+Bei den oben genannten Wechselrichtern kann es somit auf Phase L1 zu einer Strombelastung von 48 A, bei Phase L2 ebenfalls zu 48 A, bei der Phase L3 zu einer Belastung von 35 A kommen (auf Phase L3 ist nur noch ein Wechselrichter angeschlossen).
+Phase L1: 35 A + 13 A = 48 A, Phase L2: 35 A + 13 A = 48 A, Phase L1: 35 A GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+44
+
+von
+
+71
+
+Weiterhin ist zu beachten, dass seitens des Wechselrichterherstellers SMA gemäß Anhang 3 für den Wechselrichter SMC 8000TL nur Fehlerstromschutzschalter bestimmter Hersteller und Typen freigegeben wurden.
+Der verbaute Fehlerstromschutzschalter wurde nicht freigegeben.
+Der Fehlerstromschutzschalter ist zum einen überlastet und zum anderen durch den Wechselrichterhersteller nicht freigegeben.
+Siehe Position 2 in Tabelle 3.
+Der Fehlerstromschutzschalter (RCD) ist auszutauschen.
+Weiterhin sind folgende im Gutachten dokumentierten und beschriebenen Mängel zu beseitigen: - Austausch der Klemmsteine auf der Erzeugerseite, Photovoltaikanlage durch eine Ausführung mit Berührungsschutz. (Position 3 in Tabelle 3.) - Austausch der Verschraubungen mit Zugentlastung an den Klemmenkästen am First (Übergang der festen Verkabelung zur flexiblen Verkabelung).
+Sowohl Erzeugerseite, Photovoltaikanlage als auch Bezugstrom, Verbraucherseite. (Position 4 in Tabelle 3) - Austausch des Kabelübergangs vom First zum Galgen. (Position 5 in Tabelle 3) - Austausch des Galgens oder Änderung der Leitungsführung da die Profile nicht geeignet sind die Kabel und Leitungen mit dem entsprechen Nennquerschnitt aufzunehmen. (Position 6 in Tabelle 3) - Um den Mangel des Vermischens der Aderfarben für den Neutral- und den Schutzleiter zu beheben sind entsprechende Kabel auszuwählen und zu installieren. (Position 7 und 8 in Tabelle 3) - Reparatur der AC-Kabel (Position 9 in Tabelle 3).
+Es sind bereits Beschädigungen an der Isolierung festzustellen.
+Aufgrund der Beschädigung sind beide Kabel im Bereich vom Galgen zu schneiden und zu muffen (noch im Erdreich).
+Am Galgen sind dann die angemufften neuen Kabel zu verwenden.
+Im Anschluss an die Mängelbeseitigung ist eine Inbetriebnahmemessung mit Dokumentation nach DIN VDE 0100-600 durchzuführen. (Position 10 in Tabelle 3) 25.2 Kostenaufwand zur Mängelbeseitigung Der Sachverständige schätzt den Kostenaufwand zur Mängelbeseitigung auf 7.500 ?, netto.
+Siehe Tabelle 3 (auf 100 ? gerundet).
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+45
+
+von
+
+71
+
+Pos.
+Bezeichnung Kosten 1 Austausch der Unterverteilung 1.100
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Tausch des Fehlerstromschutzschalters 1.200
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 3 Austausch der Klemmsteine 80
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 4 Austausch der Verschraubungen 300
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 5 Austausch des Kabelübergangs 500
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 Austausch des Galgens 2.000
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 7 Kabel und Kabelmuffe (Einspeisung) 700
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 8 Kabel und Kabelmuffe (Verbraucherseite) 500
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 9 Reparatur der AC-Kabel 650
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 10 Inbetriebnahmemessungen, Dokumentation 500
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kostenaufwand zur Mängelbeseitigung 7.530
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tabelle 3: Kostenaufwand zur Mängelbeseitigung   GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+46
+
+von
+
+71
+
+26 Zusammenfassung 26.1 Beweisbeschluss vom 0..0..2013 Keiner der drei behaupteten Mängel aus Beweisfrage 1. des Beweisbeschlusses vom 0..0..2013 konnte bejaht werden: - Im Rahmen der Genauigkeit der Leistungsbestimmung (+/-5 %) stimmt die berechnete Nennleistung mit dem Sollwert überein.
+Die Abweichung liegt im Mittelwert bei -4 %.
+Lediglich Strang 2 von Wechselrichter 4 liegt bei beiden Messungen mit -6 % um ein Prozent außerhalb der Toleranz. - Die Verschaltungen sind sowohl fachgerecht als auch optimal hergestellt.
+Der behauptete Mangel besteht nicht. - Die Kabelwiderstände sind nicht zu hoch.
+Die ermittelten Werte weisen keine Unregelmäßigkeiten auf.
+Der behauptete Mangel besteht nicht.
+Der Zustand des Drehmechanismus ist augenscheinlich einwandfrei, ein Wartungshandbuch liegt nicht vor.
+Der Zustand der Photovoltaikanlage ist mangelhaft.
+Die Mängel sind Gegenstand dieses Gutachtens.
+Ein Wartungshandbuch liegt nicht vor. 26.2 Beweisbeschluss vom 0..0..2013 Es wurden 13 Mängelbehauptungen vorgetragen von denen der Sachverständige 11 bestätigt: - Nummer 1.1: Die Einführung der Leitungen in die beiden Verteilerkästen ist fehlerhaft. - Nummer 1.2: Der Berührungsschutz ist teilweise nicht vorhanden. - Nummer 1.3: Es liegt kein Mangel vor, Trennklemmen sind nicht erforderlich. - Nummer 1.4: Der Mangel liegt vor, die Abdecktreifen fehlen. - Nummer 1.5: Die Querschnittsreduzierung ist nicht fehlerhaft. - Nummer 1.6: Der Mangel liegt vor: Die Trennung vom Neutralleiter zum Schutzleiter ist nicht durchgängig eingehalten. - Nummer 1.7: Der Mangel liegt vor: Die Leitungsverlegung ist fehlerhaft. - Nummer 1.8: Der Mangel liegt vor: Die Kabeleinführungen sind gegen solche mit geeigneter Zugentlastung auszutauschen.
+GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+47
+
+von
+
+71
+
+- Nummer 1.9: Der Mangel liegt vor: Der Schutzleiter ist gegen einen flexiblen Leiter zu ersetzen und den Regeln der Technik entsprechend zu befestigen. - Nummer 1.10: Der Mangel liegt nach Nummer 1.9 vor: Der Schutzleiter ist gegen einen flexiblen Leiter (mit entsprechendem Querschnitt) zu ersetzen. - Nummer 1.11: Aufgrund der im Gutachten festgestellten und dokumentierten Mängel wird die gewählte Art der Einspeisung als nicht geeignet beurteilt. - Nummer 1.12: Der Mangel liegt vor: Die Leitungseinführung in die Steckdose ist nachzuarbeiten. - Nummer 1.13: Der Mangel liegt vor: Die Kabeltypen sind entsprechend der geforderten Netzform zu ändern.
+Der Sachverständige schätzt den Kostenaufwand zur Mängelbeseitigung auf rund 7.500 ? netto.
+Björn Hemmann ö.b.v.
+Sachverständiger für  Photovoltaische Anlagentechnik   GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+48
+
+von
+
+71
+
+ 27 Anhang 1 deutschsprachiges Datenblatt des Moduls HIP-215NKHE5 des Herstellers Sanyo, 2 Seiten  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+49
+
+von
+
+71
+
+   GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+50
+
+von
+
+71
+
+28 Anhang 2 Rechnung über Photovoltaikanlage, Rechnungsnummer RE070195 vom 11.10.2007, eingereicht vom Kläger, 1 Seite  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+51
+
+von
+
+71
+
+29 Anhang 3 Auszug aus der technischen Information des Wechselrichterherstellers SMA: Kriterien für die Auswahl einer Fehlerstrom-Schutzeinrichtung (RCD-DE110430, Version 3.0, 1 Seite  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+52
+
+von
+
+71
+
+ 30 Anhang 4 Messung Nummer 1 eines jeden Strangs mit Ergebnissen und grafischer Darstellung der gemessenen Kennlinie (rote Kennlinie im Diagramm), 16 Seiten  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+53
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+54
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+55
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+56
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+57
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+58
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+59
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+60
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+61
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+62
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+63
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+64
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+65
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+66
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+67
+
+von
+
+71
+
+   GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+68
+
+von
+
+71
+
+ 31 Anhang 5 Bewertung der Auslegung durch die Software Sunny Design (Hersteller-Software des Wechselrichter Herstellers), 4 Seiten  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+69
+
+von
+
+71
+
+  GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+70
+
+von
+
+71
+
+ GUTACHTEN
+
+ xxx---2013---G---He
+
+vom
+
+0..0..2014
+
+ SACHVERSTÄNDIGER
+
+ Björn
+
+Hemmann,
+
+ö.b.v.
+
+Sachverständiger
+
+für
+
+Photovoltaische
+
+Anlagentechnik
+
+ AUFTRAGGEBER
+
+ Landgericht
+
+..,
+
+Aktenzeichen
+
+XX
+
+---
+
+O
+
+yyy/zz
+
+ PARTEIEN
+
+ Partei
+
+./.
+
+Partei
+
+ OBJEKT
+
+ PV---Anlage
+
+am
+
+Objekt
+
+Sonnenstrasse
+
+25,
+
+...
+
+...
+
+
+
+
+
+
+
+ SEITE
+
+71
+
+von
+
+71
+
+
+

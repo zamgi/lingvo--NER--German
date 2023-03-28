@@ -1,0 +1,5 @@
+/bin/*
+/obj/*
+*.csproj.user
+OUTPUT_HTML_FILENAME_1.html
+OUTPUT_HTML_FILENAME_2.html

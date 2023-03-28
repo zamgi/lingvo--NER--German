@@ -1,0 +1,60 @@
+﻿/*span.O[ner], span.Other[ner] { margin-left: inherit; border: inherit; font-weight: inherit; }
+span[ner] { margin-left: 2px; border: 1px dotted silver; font-weight: bold; }*/
+span[ner] { margin-right: 2px; }
+
+div.--UnitedEntity-- { /*border: 1px dotted transparent;*/ display: inline/*-block*/; }
+span.UnitedEntity, div.UnitedEntity { /*border: 1px dotted black;*/ background-color: silver; display: inline/*-block*/; padding: 2px; }
+
+span.ACTIVE_NER_ENTITY {
+    /*background: repeating-linear-gradient( 135deg, transparent, transparent 5px, #e2e2ff 5px, #d2d2ff 10px );*/
+    /*background: repeating-linear-gradient( 135deg, transparent, transparent 5px, lavender 5px, lavender 10px );*/
+    border: 1px solid black !important;
+}
+
+span.B-PER, span.I-PER, span.PER, span.PERSON, span.PERSON__NNER,
+span.B-LOC, span.I-LOC, span.LOC, span.LOCATION, span.LOCATION__NNER,
+span.B-ORG, span.I-ORG, span.ORG, span.ORGANIZATION, span.ORGANIZATION__NNER,
+span.B-MISC, span.I-MISC, span.MISC, span.MISCELLANEOUS, span.MISCELLANEOUS__NNER,
+span.Name,
+span.PhoneNumber,
+span.Url, span.Email,
+span.CustomerNumber,
+span.Birthday,
+span.Birthplace,
+span.MaritalStatus,
+span.Nationality,
+span.CreditCard,
+span.PassportIdCardNumber,
+span.CarNumber,
+span.HealthInsurance,
+span.DriverLicense,
+span.SocialSecurity,
+span.TaxIdentification,
+span.Address,
+span.AccountNumber,
+span.Company
+    { border: 1px dotted silver; border-radius: 2px; font-weight: bold;  }
+
+span.B-PER, span.I-PER, span.PER, span.PERSON, span.PERSON__NNER { color: rgb(167, 40, 40); }
+span.B-LOC, span.I-LOC, span.LOC, span.LOCATION, span.LOCATION__NNER { color: rgb(15, 138, 36); }
+span.B-ORG, span.I-ORG, span.ORG, span.ORGANIZATION, span.ORGANIZATION__NNER { color: rgb(0, 0, 192); }
+span.B-MISC, span.I-MISC, span.MISC, span.MISCELLANEOUS, span.MISCELLANEOUS__NNER { color: rgb(185, 69, 181); }
+
+span.Name                 { color: rgb(167, 40, 40); }
+span.PhoneNumber          { color: #c1c100; }
+span.Url, span.Email      { color: lightseagreen; }
+span.CustomerNumber       { color: darkorange; }
+span.Birthday             { color: darkorchid; }
+span.Birthplace           { color: orchid; }
+span.MaritalStatus        { color: darkred; }
+span.Nationality          { color: darkblue; }
+span.CreditCard           { color: cyan; }
+span.PassportIdCardNumber { color: mediumvioletred; }
+span.CarNumber            { color: crimson; }
+span.HealthInsurance      { color: seagreen; }
+span.DriverLicense        { color: cadetblue; }
+span.SocialSecurity       { color: darkorchid; }
+span.TaxIdentification    { color: magenta; }
+span.Address              { color: orangered; }
+span.AccountNumber        { color: blueviolet; }
+span.Company              { color: rgb(0, 0, 192); }

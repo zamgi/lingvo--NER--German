@@ -1,0 +1,176 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>German / Rule-Based + Neural Network-Based NER</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/style.css?v-3" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/turn_button.css?v-3" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/ner_v1.css?v-3" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/ner_v2.css?v-3" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/texts.js?v-3"></script>
+    <script type="text/javascript" src="js/main.js?v-3"></script>
+</head>
+<body class="default">
+    <noscript>
+        <div style="background-color: #F00; color: #FFF; text-align: center; padding: 10px;">This site requires JavaScript to be enabled in your browser.</div>
+    </noscript>    
+    <div id="wrapper">
+        <div id="nerTypes4Show">
+            <div style="border-bottom: 1px dotted silver;">
+                <span>NER types shown</span>
+                <span> </span>
+                <input id="checkUncheckAllCheckbox" type="checkbox" checked="checked" title="check/uncheck all" />
+            </div>
+            <!--=============================================================================================-->
+            <div>
+                <input id="namesNerCheckbox" type="checkbox" checked="checked" /><label for="namesNerCheckbox">Names</label><span id="names-count" class="ner-count" title="count"></span>
+                <a id="names-next" ner="Name" ner_2="PERSON" class="ner-entities" title="next">&gt;</a>
+                <a id="names-prev" ner="Name" ner_2="PERSON" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="orgsNerCheckbox" type="checkbox" checked="checked" /><label for="orgsNerCheckbox">Organizations</label><span id="orgs-count" class="ner-count" title="count"></span>
+                <a id="orgs-next" ner="ORGANIZATION" class="ner-entities" title="next">&gt;</a>
+                <a id="orgs-prev" ner="ORGANIZATION" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="geosNerCheckbox" type="checkbox" checked="checked" /><label for="geosNerCheckbox">Geo/Locations</label><span id="geos-count" class="ner-count" title="count"></span>
+                <a id="geos-next" ner="LOCATION" class="ner-entities" title="next">&gt;</a>
+                <a id="geos-prev" ner="LOCATION" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <hr style="margin: 2px 0;" />
+            <!--=============================================================================================-->
+            <div>
+                <input id="addressNerCheckbox" type="checkbox" checked="checked" /><label for="addressNerCheckbox">Address</label><span id="address-count" class="ner-count" title="count"></span>
+                <a id="address-next" ner="Address" class="ner-entities" title="next">&gt;</a>
+                <a id="address-prev" ner="Address" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="banksNerCheckbox" type="checkbox" checked="checked" /><label for="banksNerCheckbox">Bank accounts</label><span id="banks-count" class="ner-count" title="count"></span>
+                <a id="banks-next" ner="AccountNumber" class="ner-entities" title="next">&gt;</a>
+                <a id="banks-prev" ner="AccountNumber" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="birthdaysNerCheckbox" type="checkbox" checked="checked" /><label for="birthdaysNerCheckbox">Birthdays</label><span id="birthdays-count" class="ner-count" title="count"></span>
+                <a id="birthdays-next" ner="Birthday" class="ner-entities" title="next">&gt;</a>
+                <a id="birthdays-prev" ner="Birthday" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="birthplacesNerCheckbox" type="checkbox" checked="checked" /><label for="birthplacesNerCheckbox">Birthplaces</label><span id="birthplaces-count" class="ner-count" title="count"></span>
+                <a id="birthplaces-next" ner="Birthplace" class="ner-entities" title="next">&gt;</a>
+                <a id="birthplaces-prev" ner="Birthplace" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="carNumbersNerCheckbox" type="checkbox" checked="checked" /><label for="carNumbersNerCheckbox">Car numbers</label><span id="carNumbers-count" class="ner-count" title="count"></span>
+                <a id="carNumbers-next" ner="CarNumber" class="ner-entities" title="next">&gt;</a>
+                <a id="carNumbers-prev" ner="CarNumber" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="companiesNerCheckbox" type="checkbox" checked="checked" /><label for="companiesNerCheckbox">Companies</label><span id="companies-count" class="ner-count" title="count"></span>
+                <a id="companies-next" ner="Company" class="ner-entities" title="next">&gt;</a>
+                <a id="companies-prev" ner="Company" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="creditCardsNerCheckbox" type="checkbox" checked="checked" /><label for="creditCardsNerCheckbox">Credit cards</label><span id="creditCards-count" class="ner-count" title="count"></span>
+                <a id="creditCards-next" ner="CreditCard" class="ner-entities" title="next">&gt;</a>
+                <a id="creditCards-prev" ner="CreditCard" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="customerNumbersNerCheckbox" type="checkbox" checked="checked" /><label for="customerNumbersNerCheckbox">Customer Numbers</label><span id="customerNumbers-count" class="ner-count" title="count"></span>
+                <a id="customerNumbers-next" ner="CustomerNumber" class="ner-entities" title="next">&gt;</a>
+                <a id="customerNumbers-prev" ner="CustomerNumber" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="driverLicensesNerCheckbox" type="checkbox" checked="checked" /><label for="driverLicensesNerCheckbox">Driver licenses</label><span id="driverLicenses-count" class="ner-count" title="count"></span>
+                <a id="driverLicenses-next" ner="DriverLicense" class="ner-entities" title="next">&gt;</a>
+                <a id="driverLicenses-prev" ner="DriverLicense" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="urlsNerCheckbox" type="checkbox" checked="checked" /><label for="urlsNerCheckbox">Emails<!--Urls--></label><span id="urls-count" class="ner-count" title="count"></span>
+                <a id="urls-next" ner="Email" class="ner-entities" title="next">&gt;</a>
+                <a id="urls-prev" ner="Email" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="healthInsurancesNerCheckbox" type="checkbox" checked="checked" /><label for="healthInsurancesNerCheckbox">Health insurance</label><span id="healthInsurances-count" class="ner-count" title="count"></span>
+                <a id="healthInsurances-next" ner="HealthInsurance" class="ner-entities" title="next">&gt;</a>
+                <a id="healthInsurances-prev" ner="HealthInsurance" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="maritalStatusesNerCheckbox" type="checkbox" checked="checked" /><label for="maritalStatusesNerCheckbox">Marital Statuses</label><span id="maritalStatuses-count" class="ner-count" title="count"></span>
+                <a id="maritalStatuses-next" ner="MaritalStatus" class="ner-entities" title="next">&gt;</a>
+                <a id="maritalStatuses-prev" ner="MaritalStatus" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="nationalitiesNerCheckbox" type="checkbox" checked="checked" /><label for="nationalitiesNerCheckbox">Nationalities</label><span id="nationalities-count" class="ner-count" title="count"></span>
+                <a id="nationalities-next" ner="Nationality" class="ner-entities" title="next">&gt;</a>
+                <a id="nationalities-prev" ner="Nationality" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="passportIdCardNumbersNerCheckbox" type="checkbox" checked="checked" /><label for="passportIdCardNumbersNerCheckbox">Passport, Id-Card numbers</label><span id="passportIdCardNumbers-count" class="ner-count" title="count"></span>
+                <a id="passportIdCardNumbers-next" ner="PassportIdCardNumber" class="ner-entities" title="next">&gt;</a>
+                <a id="passportIdCardNumbers-prev" ner="PassportIdCardNumber" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="phonesNerCheckbox" type="checkbox" checked="checked" /><label for="phonesNerCheckbox">Phone numbers</label><span id="phones-count" class="ner-count" title="count"></span>
+                <a id="phones-next" ner="PhoneNumber" class="ner-entities" title="next">&gt;</a>
+                <a id="phones-prev" ner="PhoneNumber" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="socialSecuritiesNerCheckbox" type="checkbox" checked="checked" /><label for="socialSecuritiesNerCheckbox">Social securities</label><span id="socialSecurities-count" class="ner-count" title="count"></span>
+                <a id="socialSecurities-next" ner="SocialSecurity" class="ner-entities" title="next">&gt;</a>
+                <a id="socialSecurities-prev" ner="SocialSecurity" class="ner-entities" title="prev">&lt;</a>
+            </div>
+            <div>
+                <input id="taxIdentificationsNerCheckbox" type="checkbox" checked="checked" /><label for="taxIdentificationsNerCheckbox">Tax identifications</label><span id="taxIdentifications-count" class="ner-count" title="count"></span>
+                <a id="taxIdentifications-next" ner="TaxIdentification" class="ner-entities" title="next">&gt;</a>
+                <a id="taxIdentifications-prev" ner="TaxIdentification" class="ner-entities" title="prev">&lt;</a>
+            </div>
+        </div>
+
+        <div id="superMainWrapper">
+            <div id="mainWrapper" class="clearfix">
+                <div id="main" class="clearfix">
+                    <div id="mainPageContent">
+                        <h2 id="periodsHeader" class="h-head">
+                            <span id="textLength"></span>
+                            <span>German / Rule-Based + Neural Network-Based NER</span>
+                            <div id="nerStyleRootDiv" title="ner style" style="display: none; position: absolute; right: 70px; top: 7px;">
+                                <div class="turn-button" data-radius="true" data-text="true" data-color="ner">
+                                    <input id="nerStyleCheckbox" type="checkbox" />
+                                    <label for="nerStyleCheckbox"><i></i></label>
+                                </div>
+                            </div>
+                            <span id="resetText2Default" title="reset text to default">x</span>
+                        </h2>
+
+                        <center>
+                            <textarea id="text" cols="100" rows="20"></textarea>
+                        </center>
+                        <div class="page-box-button">
+                            <div id="bookmarkDiv">
+                                <a id="bookmarkFirst" title="first entity" style="display: none"> &lt; </a>
+                                <a id="bookmarkLast" title="last entity" style="display: none"> &gt; </a>
+                                <span id="totalEntitiesCount" style="display: none">total entities count: </span>
+                            </div>
+                            <input id="processButton" class="form-button" value="Run" type="submit" />
+                            <div style="position: absolute; right: 0; margin: -25px 20px 0 0;">
+                                <label for="modelType">model type: </label>
+                                <select id="modelType" style="cursor: pointer">
+                                    <option value="ner_de">ner_de</option>
+                                </select>
+                            </div>
+                        </div>
+                        <h3 class="result-info" style="display: none"></h3>
+
+                        <div id="processResult">
+                            <table></table>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "ModelFilePath"         : "..\\..\\[resources]\\models\\ner_de__em256__e6xm8_(upper).s2s", //"..\\..\\[resources]\\models\\ner_de__em256__e6xm8_(upper).s2s.latest",
+  "ValidCorpusPath"       : "..\\..\\[resources]\\valid\\valid_ner_de__3e__(num_replaced)_(upper).txt",
+  "ShuffleType"           : "NoPadding",
+  "BatchSize"             : 4,
+  "MaxPredictSentLength"  : 110, //512,
+  "TryRunValidateParallel": true,
+  "ProcessorType"         : "CPU", //"GPU", //
+  "CompilerOptions"       : "--use_fast_math --gpu-architecture=compute_60"
+}

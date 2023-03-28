@@ -1,0 +1,106 @@
+﻿<!--
+<Name                 firstname="Agnes" surname="Wuckelt"  [nameType="Professor, Doctor, Engineer, Frau, Herr, Chairman" maritalStatus="..."]>Wuckelt, Agnes</Name>
+<Email                urltype="Email">info@test-zahnzusatzversicherung.de</Email>
+<Url                  urltype="Url">____</Url>
+<PhoneNumber          phoneNumberType="Telephone, Mobile, Fax" cityAreaName="...">089/40287399</PhoneNumber>
+<Address              street="..." houseNum="..." indexNum="..." city="...">____</Address>
+<AccountNumber        bankAccountType="IBAN, BankCode_AccountNumber" IBAN="..." accountNumber="..." accountOwner="..." bankCode="..." bankName="...">   </AccountNumber>
+<MaritalStatus        maritalStatus="...">____</MaritalStatus>
+<Nationality          nationality="...">____</Nationality>
+<CreditCard           creditCardNumber="...">____</CreditCard>
+<PassportIdCardNumber passportIdCardNumber="...">____</PassportIdCardNumber>
+<CarNumber            carNumber="...">____</CarNumber>
+<HealthInsurance      healthInsuranceNumber="...">____</HealthInsurance>
+<DriverLicense        driverLicense="...">____</DriverLicense>
+<SocialSecurity       socialSecurity="...">____</SocialSecurity>
+<TaxIdentification    taxIdentification="..." taxIdentificationType="New=Default, Old">____</TaxIdentification>
+-->
+
+<tests>
+  <test description="Names #1">
+Verwendete Literatur:
+<Name firstname="Petra" surname="Freudenberger-Lötz">Freudenberger-Lötz, Petra</Name> und <Name firstname="Anita" surname="Müller-Friese">Müller-Friese, Anita</Name>: Schatztruhe Religion. Materialien für den fächerverbindenden Unterricht in der Grundschule. Teil 1. Calwer. Stuttgart. 2005
+<Name firstname="Agnes" surname="Wuckelt">Wuckelt, Agnes</Name> und <Name firstname="Viola" surname="Seifert">Seifert, Viola</Name>: Ich bin Naomi und wer bist du? Interreligiöses Lernen in der Grundschule
+      <Name>Max Goldt</Name> aber auch. Goldt ist dazu noch ein guter Autor. <Name>Sten Laurel</Name> und <Name>Oliver Hardy</Name> waren Ikonen
+  </test>
+
+  <test description="Names #2">
+    xcjvnba;ldfnbadf s;d'mb paoe [eojr [qer<name>XXXXXXX-ZZZZZZZZZ</name> a; sjprgn nain lf k'lwnb pqejrg peqrjg p
+  </test>
+
+  <test>
+    aaa
+    bbb
+    ccc
+    ddd
+    eee
+    fff
+  </test>
+
+  <test>
+    Vertretungsberechtigter Geschäftsführer ist <Name firstname="Konrad" surname="Dießl">Konrad Dießl</Name> - Tel <PhoneNumber>089/40287399</PhoneNumber> - Fax <PhoneNumber>089/40287430</PhoneNumber> - <Email>info@test-zahnzusatzversicherung.de</Email> – www.test-zahnzusatzversicherung.de.
+    <Email>thorsten.wiese@rocketta.de</Email>
+    <Email>thorsten.wiese[at]rocketta.de</Email>
+    <Email>thorsten.wiese(at)rocketta.de</Email>
+  </test>
+
+  <test>
+    Ein Fließtext zum Verstecken von persönlichen Informationen. 
+    <span class="Name" firstname="Thorsten" surname="Wiese" title="Individuals/Human names,&#xA;first-name: 'Thorsten',&#xA;sur-name: 'Wiese'">Thorsten Wiese</span>. 
+    Da kann einfach mal was versteckt sein, ohne, dass man es merkt. Hier vielleicht oder hier <span class="Address" street="Teststraße" housenum="12" indexnum="99998" city="Mülheim an Ruhr" title="Address,&#xA;street: 'Teststraße',&#xA;house: '12',&#xA;index: '99998',&#xA;city: 'Mülheim an Ruhr'">Teststraße 12, 99998 Mülheim an Ruhr</span>. 
+  </test>
+
+  <test>
+Vorstand: Dr. <span class="Name" firstname="Christian" surname="Böing" nametype="Doctor" title="Individuals/Human names,
+first-name: 'Christian',
+sur-name: 'Böing',
+type: 'Doctor'">Christian Böing</span>, <span class="Name" firstname="Hüseyin" surname="Dogan" title="Individuals/Human names,
+first-name: 'Hüseyin',
+sur-name: 'Dogan'">Hüseyin Dogan</span>, Dr. <span class="Name" firstname="Martin" surname="Endreß" nametype="Doctor" title="Individuals/Human names,
+first-name: 'Martin',
+sur-name: 'Endreß',
+type: 'Doctor'">Martin Endreß</span>, <span class="Name" firstname="Hans-Henning" surname="Kettler" title="Individuals/Human names,
+first-name: 'Hans-Henning',
+sur-name: 'Kettler'">Hans-Henning Kettler</span>, <span class="Name" firstname="Arthur" surname="Mai" title="Individuals/Human names,
+first-name: 'Arthur',
+sur-name: 'Mai'">Arthur Mai</span>, <span class="Name" firstname="Matthias" surname="Steinberg" title="Individuals/Human names,
+first-name: 'Matthias',
+sur-name: 'Steinberg'">Matthias Steinberg</span>, <span class="Name" firstname="Achim" surname="Weiss" title="Individuals/Human names,
+first-name: 'Achim',
+sur-name: 'Weiss'">Achim Weiss</span> 
+  Hauptsitz Montabaur, Amtsgericht Montabaur, HRB 24498 · USt-IdNr.: DE815563912 
+    Commerzbank AG, <span class="AccountNumber" accountnumber="630148502" bankcode="20040000" bankaccounttype="BankCode_AccountNumber" title="BankAccount: 'BankCode_AccountNumber',
+bankCode: '20040000',
+accountNumber: '630148502'">BLZ 200 400 00, Konto 630 148 502</span>, IBAN <span class="AccountNumber" accountnumber="0630148502" bankcode="20040000" bankaccounttype="IBAN" title="BankAccount: 'IBAN',
+bankCode: '20040000',
+accountNumber: '0630148502'">DE83 2004 0000 0630 1485 02</span>, BIC COBADEHHXXX 
+  Rechnungsdatum: 14.07.2020 
+    Rechnungsnummer: 100073902461 
+      <span class="CustomerNumber" customernumber="V69747615" title="customer-number: 'V69747615'">Vertragsnummer: V69747615</span> 
+        <span class="CustomerNumber" customernumber="K6398314" title="customer-number: 'K6398314'">Kundennummer: K6398314</span> 
+          Brauchen Sie Hilfe: www.ionos.de/hilfe 
+            Mein IONOS: mein.ionos.de/invoices 
+              E-Mail: <span class="Email" urltype="Email" title="Email:  rechnungsstelle@ionos.de">rechnungsstelle@ionos.de</span> 
+                Telefon: <span class="PhoneNumber" title="Phone number">0721 170 555</span> 
+                  Herr 
+                    <span class="Name" firstname="Maxim" surname="Tarassenko" nametype="Herr" title="Individuals/Human names,
+first-name: 'Maxim',
+sur-name: 'Tarassenko',
+type: 'Herr'">Maxim Tarassenko</span> 
+  <span class="Address" street="Schultenberg" housenum="54" indexnum="45470" city="Mülheim an der Ruhr" title="Address,
+street: 'Schultenberg',
+house: '54',
+index: '45470',
+city: 'Mülheim an der Ruhr'">Schultenberg 54 
+  45470 Mülheim an der Ruhr</span> 
+    Rechnung 
+      1&amp;1 IONOS SE 
+        <span class="Address" street="Elgendorfer Str." housenum="57" indexnum="56410" city="Montabaur" title="Address,
+street: 'Elgendorfer Str.',
+house: '57',
+index: '56410',
+city: 'Montabaur'">Elgendorfer Str. 57 
+  56410 Montabaur</span> 
+    Kopie vom 16.08.2020
+  </test>
+</tests>

@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>German / Neural Network-Based NER</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/style.css?v-5" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/turn_button.css?v-5" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/ner_v1.css?v-5" />
+    <link type="text/css" rel="stylesheet" media="all" href="css/ner_v2.css?v-5" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/texts.js?v-5"></script>
+    <script type="text/javascript" src="js/main.js?v-5"></script>
+</head>
+<body class="default">
+    <noscript>
+        <div style="background-color: #F00; color: #FFF; text-align: center; padding: 10px;">This site requires JavaScript to be enabled in your browser.</div>
+    </noscript>    
+    <div id="wrapper">
+        <div id="nerTypes4Show">
+            <div style="border-bottom: 1px dotted silver;">
+                <span>NER types shown</span>
+            </div>
+            <div><input id="namesNerCheckbox" type="checkbox" checked="checked" /><label for="namesNerCheckbox">Names</label><span id="names-count" class="ner-count" title="count"></span>
+                                                                                                                             <a id="names-next" ner="PER" nerMerged="PERSON" class="ner-entities" title="next">&gt;</a>
+                                                                                                                             <a id="names-prev" ner="PER" nerMerged="PERSON" class="ner-entities" title="prev">&lt;</a></div>
+            <div><input id="orgsNerCheckbox"  type="checkbox" checked="checked" /><label for="orgsNerCheckbox">Organizations</label><span id="orgs-count" class="ner-count" title="count"></span>
+                                                                                                                                    <a id="orgs-next" ner="ORG" nerMerged="ORGANIZATION" class="ner-entities" title="next">&gt;</a>
+                                                                                                                                    <a id="orgs-prev" ner="ORG" nerMerged="ORGANIZATION" class="ner-entities" title="prev">&lt;</a></div>
+            <div><input id="geosNerCheckbox"  type="checkbox" checked="checked" /><label for="geosNerCheckbox">Geo/Locations</label><span id="geos-count" class="ner-count" title="count"></span>
+                                                                                                                                    <a id="geos-next" ner="LOC" nerMerged="LOCATION" class="ner-entities" title="next">&gt;</a>
+                                                                                                                                    <a id="geos-prev" ner="LOC" nerMerged="LOCATION" class="ner-entities" title="prev">&lt;</a></div>
+            <!--
+            <div><input id="miscNerCheckbox"  type="checkbox" checked="checked" disabled="disabled" /><label disabled="disabled" for="miscNerCheckbox">Miscellaneous</label><span id="misc-count" class="ner-count" title="count"></span>
+                                                                                                                                    <a id="misc-next" ner="MISC" nerMerged="MISCELLANEOUS" class="ner-entities" title="next">&gt;</a>
+                                                                                                                                    <a id="misc-prev" ner="MISC" nerMerged="MISCELLANEOUS" class="ner-entities" title="prev">&lt;</a></div>
+            -->
+        </div>
+
+        <div id="superMainWrapper">
+            <div id="mainWrapper" class="clearfix">
+                <div id="main" class="clearfix">
+                    <div id="mainPageContent">
+                        <h2 id="periodsHeader" class="h-head">
+                            <span id="textLength"></span>
+                            <span>German / Neural Network-Based NER</span>
+                            <div id="nerStyleRootDiv" title="ner style" style="display: none; position: absolute; right: 70px; top: 7px;">
+                                <div class="turn-button" data-radius="true" data-text="true" data-color="ner">
+                                    <input id="nerStyleCheckbox" type="checkbox" />
+                                    <label for="nerStyleCheckbox"><i></i></label>
+                                </div>
+                            </div>
+                            <span id="resetText2Default" title="reset text to default">x</span>
+                        </h2>
+                        <center>
+                            <textarea id="text" cols="100" rows="20"></textarea>
+                        </center>
+                        <div class="page-box-button">
+                            <div id="bookmarkDiv">
+                                <a id="bookmarkFirst" title="first entity" style="display: none"> &lt; </a>
+                                <a id="bookmarkLast"  title="last entity" style="display: none"> &gt; </a>
+                                <span id="totalEntitiesCount" style="display: none">total entities count: </span>
+                            </div>
+                            <input id="processButton" class="form-button" value="Run" type="submit" />
+                            <div style="position: absolute; right: 0; margin: -25px 20px 0 0;">
+                                <label for="modelType">model type: </label>
+                                <select id="modelType" style="cursor: pointer">
+                                    <option value="ner_de">ner_de</option>
+                                </select>
+                            </div>
+                        </div>
+                        <h3 class="result-info" style="display: none"></h3>
+
+                        <div id="processResult">
+                            <table></table>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

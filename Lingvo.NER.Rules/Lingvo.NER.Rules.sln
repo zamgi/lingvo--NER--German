@@ -1,0 +1,215 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingvo.NER.Rules.WebDemo", "Lingvo.NER.Rules.WebDemo\Lingvo.NER.Rules.WebDemo.csproj", "{CCBDCD3D-78BE-4F9B-81FE-2A208499F597}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[lib]", "[lib]", "{3CB88523-7F8A-4DE8-8020-7C2B0F54F269}"
+	ProjectSection(SolutionItems) = preProject
+		[lib]\crfsuite_x64.dll = [lib]\crfsuite_x64.dll
+		[lib]\crfsuite_x86.dll = [lib]\crfsuite_x86.dll
+		[lib]\libcrfsuite.so = [lib]\libcrfsuite.so
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.core", "NER\Lingvo.NER.Rules.core\Lingvo.NER.Rules.core.csproj", "{A64092D5-B7CC-4AAB-8CC2-571882DA64D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules-crf", "NER\Lingvo.NER.Rules-crf\Lingvo.NER.Rules-crf.csproj", "{97B9B41C-DABF-4D93-B111-85B8D86ACBA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.ConsoleDemo", "Lingvo.NER.Rules.ConsoleDemo\Lingvo.NER.Rules.ConsoleDemo.csproj", "{565D8931-19DD-4AC3-8B11-22ED3FBC5BD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.UnitTests", "tests\Lingvo.NER.Rules.UnitTests\Lingvo.NER.Rules.UnitTests.csproj", "{FC861759-B441-4B11-B120-F373D9DCF69B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[resources]", "[resources]", "{248212B6-FDE4-466B-A308-06EC3869EA3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_CommonResources", "_CommonResources", "{D7ECCB16-A316-45BF-863C-0AA06679F40A}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\_CommonResources\sent-splitter-resources.xml = [resources]\_CommonResources\sent-splitter-resources.xml
+		[resources]\_CommonResources\url-detector-resources.xml = [resources]\_CommonResources\url-detector-resources.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_CRFModel", "_CRFModel", "{31EC3438-800C-4D0E-8F9E-45ADF904E798}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\_CRFModel\model_pa_3e_(minfreq-1)_en.crf = [resources]\_CRFModel\model_pa_3e_(minfreq-1)_en.crf
+		[resources]\_CRFModel\template_ner.txt = [resources]\_CRFModel\template_ner.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhoneNumbers", "PhoneNumbers", "{F504187A-95D5-4611-9A01-02BDCE00F5E5}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\PhoneNumbers\phoneNumbers.txt = [resources]\PhoneNumbers\phoneNumbers.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Address", "Address", "{B012CFFE-033B-476C-A6E2-2440E490770D}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\Address\cities.txt = [resources]\Address\cities.txt
+		[resources]\Address\streets.txt = [resources]\Address\streets.txt
+		[resources]\Address\zipcodes.txt = [resources]\Address\zipcodes.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BankAccounts", "BankAccounts", "{FA52CFDC-CC2D-4612-A31A-A5A4FB3EC4BD}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\BankAccounts\bankCodes.txt = [resources]\BankAccounts\bankCodes.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Names", "Names", "{BBBEEE43-F699-4B98-B1D4-C246C8EA6AA7}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\Names\excluded-names.xml = [resources]\Names\excluded-names.xml
+		[resources]\Names\firstnames.txt = [resources]\Names\firstnames.txt
+		[resources]\Names\surnames.txt = [resources]\Names\surnames.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules-rules", "NER\Lingvo.NER.Rules-rules\Lingvo.NER.Rules-rules.csproj", "{A1B9B41C-DABF-3B93-B111-85B8D86ACBA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CarNumbers", "CarNumbers", "{93A72463-7039-4EE3-B54E-433FA5D78568}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\CarNumbers\carNumbers.txt = [resources]\CarNumbers\carNumbers.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PassportIdCardNumbers", "PassportIdCardNumbers", "{A5375CEB-00D0-4B65-8CC4-F1C8E402CC2D}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\PassportIdCardNumbers\old_PassportIdCardNumbers.txt = [resources]\PassportIdCardNumbers\old_PassportIdCardNumbers.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DriverLicenses", "DriverLicenses", "{FAC2C0A5-3B7B-44A3-A04B-D9D592D2EFEE}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\DriverLicenses\driverLicenses.txt = [resources]\DriverLicenses\driverLicenses.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaxIdentifications", "TaxIdentifications", "{36B602D8-A1A0-4C79-A4E9-9A396E3A0419}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\TaxIdentifications\old_TaxIdentifications.txt = [resources]\TaxIdentifications\old_TaxIdentifications.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nationalities", "Nationalities", "{C49D0BD8-317B-4C8C-BBD6-8B5EB1268A2C}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\Nationalities\nationalities.txt = [resources]\Nationalities\nationalities.txt
+		[resources]\Nationalities\nationalityPreambles.txt = [resources]\Nationalities\nationalityPreambles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Birthplaces", "Birthplaces", "{0C4E1841-A55E-48FC-BF9D-B22CBEDAE97E}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\Birthplaces\birthplacePreambles.txt = [resources]\Birthplaces\birthplacePreambles.txt
+		[resources]\Birthplaces\birthplaces.txt = [resources]\Birthplaces\birthplaces.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaritalStatuses", "MaritalStatuses", "{1128AB5A-C1BD-469D-AD0C-2548F70E83C9}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\MaritalStatuses\maritalStatuses.txt = [resources]\MaritalStatuses\maritalStatuses.txt
+		[resources]\MaritalStatuses\maritalStatusPreambles.txt = [resources]\MaritalStatuses\maritalStatusPreambles.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{36771E6E-6133-42EA-8655-73C41764300B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.TestApp", "tests\Lingvo.NER.Rules.TestApp\Lingvo.NER.Rules.TestApp.csproj", "{FB81A423-F119-4289-A468-B88D1E11DA60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NER", "NER", "{CF018F26-B6AB-4890-B6DC-86B1CEB0CC3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebService", "WebService", "{2A4C3EE0-90CB-4CFB-A2DE-AF17B5BF0862}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.WebService", "Lingvo.NER.Rules.WebService\Lingvo.NER.Rules.WebService\Lingvo.NER.Rules.WebService.csproj", "{4D002132-EBB3-415C-9797-4B9B76C57220}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.WebServiceTestApp", "Lingvo.NER.Rules.WebService\Lingvo.NER.Rules.WebServiceTestApp\Lingvo.NER.Rules.WebServiceTestApp.csproj", "{B819CAA4-2DED-4B4E-8EDF-3183E15D0001}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ResourceConverting", "ResourceConverting", "{D9337818-874F-498E-846A-11CDC21EF778}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.Resources", "ResourceConverting\Lingvo.NER.Rules.Resources\Lingvo.NER.Rules.Resources.csproj", "{4F6C0282-AE40-4385-9DA0-3BE0CF9802C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.ResourceConverter", "ResourceConverting\Lingvo.NER.Rules.ResourceConverter\Lingvo.NER.Rules.ResourceConverter.csproj", "{E3CAF321-D386-498E-AF3A-1C2AAF02E441}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lingvo.NER.Rules.config", "NER\Lingvo.NER.Rules.config\Lingvo.NER.Rules.config.csproj", "{8104C633-3B79-4C82-BA8C-FC0B4EB79920}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Companies", "Companies", "{00FC2C18-ED92-4343-BBDE-A9F733345771}"
+	ProjectSection(SolutionItems) = preProject
+		[resources]\Companies\companies.txt = [resources]\Companies\companies.txt
+		[resources]\Companies\companyExpandPreambles.txt = [resources]\Companies\companyExpandPreambles.txt
+		[resources]\Companies\companyPrefixes.txt = [resources]\Companies\companyPrefixes.txt
+		[resources]\Companies\companyPrefixesPrevSuffixes.txt = [resources]\Companies\companyPrefixesPrevSuffixes.txt
+		[resources]\Companies\companySuffixes.txt = [resources]\Companies\companySuffixes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBDCD3D-78BE-4F9B-81FE-2A208499F597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBDCD3D-78BE-4F9B-81FE-2A208499F597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBDCD3D-78BE-4F9B-81FE-2A208499F597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBDCD3D-78BE-4F9B-81FE-2A208499F597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64092D5-B7CC-4AAB-8CC2-571882DA64D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64092D5-B7CC-4AAB-8CC2-571882DA64D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64092D5-B7CC-4AAB-8CC2-571882DA64D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64092D5-B7CC-4AAB-8CC2-571882DA64D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B9B41C-DABF-4D93-B111-85B8D86ACBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B9B41C-DABF-4D93-B111-85B8D86ACBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B9B41C-DABF-4D93-B111-85B8D86ACBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B9B41C-DABF-4D93-B111-85B8D86ACBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565D8931-19DD-4AC3-8B11-22ED3FBC5BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565D8931-19DD-4AC3-8B11-22ED3FBC5BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565D8931-19DD-4AC3-8B11-22ED3FBC5BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565D8931-19DD-4AC3-8B11-22ED3FBC5BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC861759-B441-4B11-B120-F373D9DCF69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC861759-B441-4B11-B120-F373D9DCF69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC861759-B441-4B11-B120-F373D9DCF69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC861759-B441-4B11-B120-F373D9DCF69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B9B41C-DABF-3B93-B111-85B8D86ACBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B9B41C-DABF-3B93-B111-85B8D86ACBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B9B41C-DABF-3B93-B111-85B8D86ACBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B9B41C-DABF-3B93-B111-85B8D86ACBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB81A423-F119-4289-A468-B88D1E11DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB81A423-F119-4289-A468-B88D1E11DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB81A423-F119-4289-A468-B88D1E11DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB81A423-F119-4289-A468-B88D1E11DA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D002132-EBB3-415C-9797-4B9B76C57220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D002132-EBB3-415C-9797-4B9B76C57220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D002132-EBB3-415C-9797-4B9B76C57220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D002132-EBB3-415C-9797-4B9B76C57220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B819CAA4-2DED-4B4E-8EDF-3183E15D0001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B819CAA4-2DED-4B4E-8EDF-3183E15D0001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B819CAA4-2DED-4B4E-8EDF-3183E15D0001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B819CAA4-2DED-4B4E-8EDF-3183E15D0001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6C0282-AE40-4385-9DA0-3BE0CF9802C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6C0282-AE40-4385-9DA0-3BE0CF9802C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CAF321-D386-498E-AF3A-1C2AAF02E441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CAF321-D386-498E-AF3A-1C2AAF02E441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CAF321-D386-498E-AF3A-1C2AAF02E441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CAF321-D386-498E-AF3A-1C2AAF02E441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8104C633-3B79-4C82-BA8C-FC0B4EB79920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8104C633-3B79-4C82-BA8C-FC0B4EB79920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8104C633-3B79-4C82-BA8C-FC0B4EB79920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8104C633-3B79-4C82-BA8C-FC0B4EB79920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A64092D5-B7CC-4AAB-8CC2-571882DA64D8} = {CF018F26-B6AB-4890-B6DC-86B1CEB0CC3F}
+		{97B9B41C-DABF-4D93-B111-85B8D86ACBA6} = {CF018F26-B6AB-4890-B6DC-86B1CEB0CC3F}
+		{FC861759-B441-4B11-B120-F373D9DCF69B} = {36771E6E-6133-42EA-8655-73C41764300B}
+		{D7ECCB16-A316-45BF-863C-0AA06679F40A} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{31EC3438-800C-4D0E-8F9E-45ADF904E798} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{F504187A-95D5-4611-9A01-02BDCE00F5E5} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{B012CFFE-033B-476C-A6E2-2440E490770D} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{FA52CFDC-CC2D-4612-A31A-A5A4FB3EC4BD} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{BBBEEE43-F699-4B98-B1D4-C246C8EA6AA7} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{A1B9B41C-DABF-3B93-B111-85B8D86ACBA6} = {CF018F26-B6AB-4890-B6DC-86B1CEB0CC3F}
+		{93A72463-7039-4EE3-B54E-433FA5D78568} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{A5375CEB-00D0-4B65-8CC4-F1C8E402CC2D} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{FAC2C0A5-3B7B-44A3-A04B-D9D592D2EFEE} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{36B602D8-A1A0-4C79-A4E9-9A396E3A0419} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{C49D0BD8-317B-4C8C-BBD6-8B5EB1268A2C} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{0C4E1841-A55E-48FC-BF9D-B22CBEDAE97E} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{1128AB5A-C1BD-469D-AD0C-2548F70E83C9} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+		{FB81A423-F119-4289-A468-B88D1E11DA60} = {36771E6E-6133-42EA-8655-73C41764300B}
+		{4D002132-EBB3-415C-9797-4B9B76C57220} = {2A4C3EE0-90CB-4CFB-A2DE-AF17B5BF0862}
+		{B819CAA4-2DED-4B4E-8EDF-3183E15D0001} = {2A4C3EE0-90CB-4CFB-A2DE-AF17B5BF0862}
+		{4F6C0282-AE40-4385-9DA0-3BE0CF9802C6} = {D9337818-874F-498E-846A-11CDC21EF778}
+		{E3CAF321-D386-498E-AF3A-1C2AAF02E441} = {D9337818-874F-498E-846A-11CDC21EF778}
+		{8104C633-3B79-4C82-BA8C-FC0B4EB79920} = {CF018F26-B6AB-4890-B6DC-86B1CEB0CC3F}
+		{00FC2C18-ED92-4343-BBDE-A9F733345771} = {248212B6-FDE4-466B-A308-06EC3869EA3F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565BCFF2-142E-4DF2-9298-0DA108B616B5}
+	EndGlobalSection
+EndGlobal

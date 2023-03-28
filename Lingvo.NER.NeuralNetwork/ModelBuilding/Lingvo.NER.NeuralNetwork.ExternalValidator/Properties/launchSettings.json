@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Lingvo.NER.NeuralNetwork.ExternalValidator__em128": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath valid__em128.json",
+      "workingDirectory": ".\\"
+    },
+    "Lingvo.NER.NeuralNetwork.ExternalValidator__em256": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath valid__em256.json",
+      "workingDirectory": ".\\"
+    },
+    "Lingvo.NER.NeuralNetwork.ExternalValidator": {
+      "commandName": "Project",
+      "commandLineArgs": "-ConfigFilePath valid.json",
+      "workingDirectory": ".\\"
+    }
+  }
+}

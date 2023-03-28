@@ -1,0 +1,18 @@
+Familienstand
+Beziehung
+Beziehungsstatus
+Beziehungsstand
+Beziehungsverhältnis
+Verhältnis
+Partnerbeziehung
+Lebensverhältnis
+Lebensverhältnisse
+Personenstand
+Status
+Marital status
+Relationship
+Relationship status
+Partner relationship
+Life relationship
+Living relationship
+Civil status

@@ -1,0 +1,37 @@
+{
+  "EmbeddingDim"       : 128, //256, //512, /*NOT_ENOUGH_MEMORY*/
+  "HiddenSize"         : 128, //256, //512, /*NOT_ENOUGH_MEMORY*/
+  "EncoderType"        : "Transformer",
+  "EncoderLayerDepth"  : 6,  
+  "MultiHeadNum"       : 8,
+  "ModelFilePath"      : "..\\..\\[resources]\\models\\ner_de__em128__e6xm8_(upper).s2s",
+  "SrcVocabSize"       : 500000,
+  "TgtVocabSize"       : 500000,
+  "SharedEmbeddings"   : false,
+  "TrainCorpusPath"    : "..\\..\\[resources]\\train\\train_ner_de__3e__(num_replaced)_(upper).txt",
+  //"ValidCorpusPath"   : "..\\..\\[resources]\\valid\\valid_ner_de__3e__(num_replaced)_(upper).txt", /*NOT_ENOUGH_MEMORY*/
+  "ExternalValidator": {
+    "FileName"        : "..\\Lingvo.NER.NeuralNetwork.ExternalValidator\\bin\\Lingvo.NER.NeuralNetwork.ExternalValidator.exe",
+    "Arguments"       : "-ConfigFilePath \"..\\Lingvo.NER.NeuralNetwork.ExternalValidator\\valid__em128.json\"",
+    "WorkingDirectory": "..\\Lingvo.NER.NeuralNetwork.ExternalValidator"
+  },
+  "ShuffleType"        : "NoPadding",
+  "ShuffleBlockSize"   : -1,
+  "StartLearningRate"  : 0.0006,
+  "WeightsUpdateCount" : 0,
+  "GradClip"           : 5.0,
+  "BatchSize"          : 100, //256, /*NOT_ENOUGH_MEMORY*/
+  "DropoutRatio"       : 0,
+  "DeviceIds"          : "0",
+  "BeamSearchSize"     : 1,
+  "MaxEpochNum"        : 100,
+  "MaxTrainSentLength" : 110, //512, //    /*NOT_ENOUGH_MEMORY*/
+  "WarmUpSteps"        : 8000,
+  "Beta1"              : 0.9,
+  "Beta2"              : 0.98,
+  "ValidIntervalHours" : 1.0,
+  "EnableCoverageModel": false,
+  "Optimizer"          : "Adam",
+  "ProcessorType"      : "CPU", //"GPU", //
+  "CompilerOptions"    : "--use_fast_math --gpu-architecture=compute_60"
+}

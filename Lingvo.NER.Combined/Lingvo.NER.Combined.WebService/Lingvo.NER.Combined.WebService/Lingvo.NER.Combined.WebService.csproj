@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Lingvo.NER.Combined.WebService</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <LangVersion>latest</LangVersion>
+    <Configurations>Debug;Release</Configurations>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+    <!--<RetainVMGarbageCollection>true</RetainVMGarbageCollection>-->
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <OutputPath>bin\</OutputPath>
+    <AssemblyName>Lingvo.NER.Combined.WebService</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\Extensions.cs" Link="Infrastructure\Extensions.cs" />
+    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\ReadInputOptions.cs" Link="Startup\ReadInputOptions.cs" />
+    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs" Link="Infrastructure\Sync_primitives.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ner_de_settings.json" />
+    <None Include="wwwroot\js\jquery.js" />
+    <None Include="wwwroot\js\jquery.min.js" />
+    <None Include="wwwroot\js\jquery.min.map" />
+    <None Include="wwwroot\js\jquery.slim.js" />
+    <None Include="wwwroot\js\jquery.slim.min.js" />
+    <None Include="wwwroot\js\jquery.slim.min.map" />
+    <None Include="wwwroot\js\texts.js" />
+    <None Include="wwwroot\js\main.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+    <PackageReference Include="System.IO.MemoryMappedFiles" Version="4.3.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" /> 
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Lingvo.NER.Rules\NER\Lingvo.NER.Rules.config\Lingvo.NER.Rules.config.csproj" />
+    <ProjectReference Include="..\..\Lingvo.NER.Combined\Lingvo.NER.Combined.csproj" />
+  </ItemGroup>
+</Project>

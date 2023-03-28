@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<excluded-names>
+  <!-- n1 => "First-name" n2 => "Sur-name" (or vice versa) -->  
+  <_ n1="Lage"  n2="Links" />
+  <_ n1="Lage"  n2="Stock" />
+  <_ n1="Ja"    n2="Nein" />
+  <_ n1="Hat"   n2="Gott" />
+  <_ n1="Im"    n2="Islam" />
+  <_ n1="Bang"  n2="Love" />
+  <_ n1="Red"   n2="Nose" />
+  <_ n1="Bang"  n2="Kiss" /> 
+</excluded-names>

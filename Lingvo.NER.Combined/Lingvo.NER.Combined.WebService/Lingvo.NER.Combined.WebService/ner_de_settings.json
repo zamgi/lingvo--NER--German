@@ -1,0 +1,37 @@
+{
+  "CurrentDirectory": "..\\..\\..\\Lingvo.NER.NeuralNetwork\\[resources]",
+
+  "SentSplitterResourcesXmlFilename": "tokenizing\\sent-splitter-resources.xml",
+  "UrlDetectorResourcesXmlFilename" : "tokenizing\\url-detector-resources.xml",
+  "Log": {
+    "Enable"     : false,
+    "LogFileName": "log.txt"
+  },
+  "ModelInfos": {
+    "em128__e6xm8_(upper)": {
+      "ModelFilePath": "models\\ner_de__em128__e6xm8_(upper).s2s",
+      "UpperCase"    : true
+    }
+    ,
+    "em256__e6xm8_(upper)": {
+      "ModelFilePath": "models\\ner_de__em256__e6xm8_(upper).s2s",
+      "UpperCase"    : true
+    }  
+    //---------------------------------------------------------------------//
+    ,
+    "em128__e6xm8_[union]": {
+      "ModelFilePath": "models\\ner_de__em128__e6xm8_[union].s2s"
+      //, "UpperCase"    : true
+    } 
+    ,
+    "em128__e6xm8_[union]_(upper)": {
+      "ModelFilePath": "models\\ner_de__em128__e6xm8_[union]_(upper).s2s",
+      "UpperCase"    : true
+    }
+  },
+
+  "MaxTestSentLength": 110, //512, //
+  "ProcessorType"    : "CPU", //"GPU", //
+
+  "CONCURRENT_FACTORY_INSTANCE_COUNT": null
+}

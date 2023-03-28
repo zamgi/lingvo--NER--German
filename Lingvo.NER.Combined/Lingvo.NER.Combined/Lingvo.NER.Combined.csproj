@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>    
+    <LangVersion>latest</LangVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DefineConstants>TRACE</DefineConstants>
+    <PlatformTarget>x64</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\..\Lingvo.NER.Rules\NER\Lingvo.NER.Rules-rules\Lingvo.NER.Rules-rules.csproj" />
+    <ProjectReference Include="..\..\Lingvo.NER.Rules\NER\Lingvo.NER.Rules.core\Lingvo.NER.Rules.core.csproj" />
+    
+    <ProjectReference Include="..\..\Lingvo.NER.NeuralNetwork\NNER\Lingvo.NER.NeuralNetwork.Tokenizing\Lingvo.NER.NeuralNetwork.Tokenizing.csproj" />
+    <ProjectReference Include="..\..\Lingvo.NER.NeuralNetwork\NNER\Lingvo.NER.NeuralNetwork.Utils\Lingvo.NER.NeuralNetwork.Utils.csproj" />
+    <ProjectReference Include="..\..\Lingvo.NER.NeuralNetwork\NNER\Lingvo.NER.NeuralNetwork\Lingvo.NER.NeuralNetwork.csproj" />
+  </ItemGroup>
+</Project>
