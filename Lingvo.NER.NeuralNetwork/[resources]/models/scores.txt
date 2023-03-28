@@ -1,0 +1,56 @@
+------------------------------------------------------------
+ner_de__em256__e6xm8_(upper).s2s
+------------------------------------------------------------
+Common-Score: '82.99'
+B-PER: F-score = '91.39' Precision = '94.68' Recall = '88.33'
+I-PER: F-score = '93.87' Precision = '95.82' Recall = '92.00'
+B-LOC: F-score = '84.06' Precision = '85.25' Recall = '82.91'
+I-LOC: F-score = '74.88' Precision = '75.14' Recall = '74.63'
+B-ORG: F-score = '76.67' Precision = '85.33' Recall = '69.60'
+I-ORG: F-score = '77.07' Precision = '86.79' Recall = '69.31'
+
+The number of categories = '6' of '6'
+------------------------------------------------------------
+
+------------------------------------------------------------
+ner_de__em128__e6xm8_(upper).s2s
+------------------------------------------------------------
+Common-Score: '82.80'
+B-PER: F-score = '90.66' Precision = '92.46' Recall = '88.93'
+I-PER: F-score = '93.23' Precision = '94.21' Recall = '92.26'
+B-LOC: F-score = '83.51' Precision = '82.08' Recall = '84.98'
+I-LOC: F-score = '75.20' Precision = '74.06' Recall = '76.38'
+B-ORG: F-score = '76.38' Precision = '81.27' Recall = '72.04'
+I-ORG: F-score = '77.84' Precision = '82.32' Recall = '73.82'
+
+The number of categories = '6' of '6'
+------------------------------------------------------------
+
+------------------------------------------------------------
+ner_de__em128__e6xm8_[union]_(upper).s2s
+------------------------------------------------------------
+Common-Score: '95.47'
+B-PER: F-score = '98.04' Precision = '98.54' Recall = '97.54'
+I-PER: F-score = '98.34' Precision = '98.74' Recall = '97.95'
+B-LOC: F-score = '95.58' Precision = '95.79' Recall = '95.38'
+I-LOC: F-score = '94.99' Precision = '94.96' Recall = '95.01'
+B-ORG: F-score = '92.35' Precision = '92.62' Recall = '92.08'
+I-ORG: F-score = '93.55' Precision = '94.46' Recall = '92.64'
+
+The number of categories = '6' of '6'
+------------------------------------------------------------
+
+------------------------------------------------------------
+ner_de__em128__e6xm8_[union].s2s
+------------------------------------------------------------
+Common-Score: '95.42'
+B-PER: F-score = '97.98' Precision = '98.34' Recall = '97.62'
+I-PER: F-score = '98.39' Precision = '98.70' Recall = '98.09'
+B-LOC: F-score = '95.70' Precision = '95.81' Recall = '95.58'
+I-LOC: F-score = '94.55' Precision = '93.61' Recall = '95.50'
+B-ORG: F-score = '92.62' Precision = '92.84' Recall = '92.41'
+I-ORG: F-score = '93.29' Precision = '93.73' Recall = '92.86'
+
+The number of categories = '6' of '6'
+------------------------------------------------------------
+
