@@ -27,9 +27,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\Extensions.cs" Link="Infrastructure\Extensions.cs" />
-    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\ReadInputOptions.cs" Link="Startup\ReadInputOptions.cs" />
-    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs" Link="Infrastructure\Sync_primitives.cs" />
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\ReadInputOptions.cs" Link="Startup\ReadInputOptions.cs" />
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Extensions.cs"       Link="Infrastructure\Extensions.cs" />    
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs"  Link="Infrastructure\Sync_primitives.cs" />
   </ItemGroup>
 
   <ItemGroup>
