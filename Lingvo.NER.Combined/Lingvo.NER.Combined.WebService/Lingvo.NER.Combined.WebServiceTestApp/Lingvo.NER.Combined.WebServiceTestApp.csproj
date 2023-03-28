@@ -26,8 +26,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs" Link="Infrastructure\Sync_primitives.cs" />
-    <Compile Include="..\..\..\..\Lingvo.NER.German\Lingvo.NER.NeuralNetwork\Common\Extensions.cs" Link="Infrastructure\Extensions.cs" />
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Extensions.cs" Link="Infrastructure\Extensions.cs" />
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs" Link="Infrastructure\Sync_primitives.cs" />
     <Compile Include="..\Lingvo.NER.Combined.WebService\Infrastructure\WebApiConsts.cs" Link="Models\WebApiConsts.cs" />
     <Compile Include="..\Lingvo.NER.Combined.WebService\Models\VM.cs" Link="Models\VM.cs" />
   </ItemGroup>
