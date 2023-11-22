@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
+    <TargetFramework>net8.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>    
     <OutputType>Library</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>    
@@ -26,8 +26,8 @@
 
   <ItemGroup>
     <PackageReference Include="ManagedCuda-11" Version="11.4.47" />
-    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="7.0.0" />
-    <PackageReference Include="protobuf-net" Version="3.2.16" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="8.0.0" />
+    <PackageReference Include="protobuf-net" Version="3.2.26" />
   </ItemGroup>
   
   <ItemGroup>

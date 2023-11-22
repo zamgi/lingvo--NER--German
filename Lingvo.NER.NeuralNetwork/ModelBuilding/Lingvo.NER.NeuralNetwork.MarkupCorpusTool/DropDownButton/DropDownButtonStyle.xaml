@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:ctrl="clr-namespace:Lingvo.NER.NeuralNetwork.MarkupCorpusTool.DropDownButton"
+                    xmlns:ctrl="clr-namespace:System.Windows.Controls"
                     xmlns:themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Luna">
 
   <!-- Used for Checkmark, Radio button, TreeViewItem, Expander ToggleButton glyphs -->

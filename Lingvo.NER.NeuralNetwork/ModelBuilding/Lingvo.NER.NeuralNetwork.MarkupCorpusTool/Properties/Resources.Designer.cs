@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool.Properties {
+namespace Lingvo.NNER.MarkupCorpusTool.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lingvo.NER.NeuralNetwork.MarkupCorpusTool.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lingvo.NNER.MarkupCorpusTool.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

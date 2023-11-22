@@ -15,9 +15,9 @@ using System.Windows.Threading;
 
 using Microsoft.Win32;
 
-using Lingvo.NER.NeuralNetwork.MarkupCorpusTool.Properties;
+using Lingvo.NNER.MarkupCorpusTool.Properties;
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
+namespace Lingvo.NNER.MarkupCorpusTool
 {
     /// <summary>
     /// 

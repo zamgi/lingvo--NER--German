@@ -11,7 +11,7 @@ using System.Windows.Media;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
+namespace Lingvo.NNER.MarkupCorpusTool
 {
     /// <summary>
     /// 

@@ -3,7 +3,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media.Animation;
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
+namespace Lingvo.NNER.MarkupCorpusTool
 {
     /// <summary>
     /// 

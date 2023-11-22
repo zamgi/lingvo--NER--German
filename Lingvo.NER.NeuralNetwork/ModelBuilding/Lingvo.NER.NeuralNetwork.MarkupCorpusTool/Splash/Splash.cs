@@ -3,7 +3,7 @@ using System.Windows;
 using System.Windows.Controls.Primitives;
 using System.Windows.Threading;
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
+namespace Lingvo.NNER.MarkupCorpusTool
 {
     /// <summary>
     /// Provides a popup window to display a splash logo for a specific duration.
@@ -21,22 +21,21 @@ namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
         public Splash()
         {
             this.AllowsTransparency = true;
-            this.Placement = PlacementMode.Center;
-
+            this.Placement          = PlacementMode.Center;
             this.PlacementRectangle = new Rect( 0, 0, SystemParameters.PrimaryScreenWidth, SystemParameters.PrimaryScreenHeight );
 
             var splashAnimateImage = new SplashAnimateImage();
             splashAnimateImage.InitializeComponent();
             this.Child = splashAnimateImage;
 
-            this._CloseTimer = new DispatcherTimer();
-            this._CloseTimer.Interval = TimeSpan.FromSeconds( 3 );
-            this._CloseTimer.Tick += (sender, eventArgs) =>
+            _CloseTimer          = new DispatcherTimer();
+            _CloseTimer.Interval = TimeSpan.FromSeconds( 3 );
+            _CloseTimer.Tick    += (sender, eventArgs) =>
             {
-                this._CloseTimer.Stop();
+                _CloseTimer.Stop();
                 this.IsOpen = false;
             };
-            this._CloseTimer.Start();
+            _CloseTimer.Start();
         }
     }
 }

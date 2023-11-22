@@ -7,9 +7,9 @@ using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Xsl;
 
-using Lingvo.NER.NeuralNetwork.MarkupCorpusTool.Properties;
+using Lingvo.NNER.MarkupCorpusTool.Properties;
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
+namespace Lingvo.NNER.MarkupCorpusTool
 {
     /// <summary>
     /// 
@@ -71,7 +71,7 @@ namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
             var id = new ImageDrawing()
             {
                 Rect = new System.Windows.Rect(0, 0, 1, 1),
-                ImageSource = new BitmapImage( new Uri( "pack://application:,,,/Lingvo.NER.NeuralNetwork.MarkupCorpusTool.app;Component/Images/border.png" ) )
+                ImageSource = new BitmapImage( new Uri( "pack://application:,,,/Lingvo.NNER.MarkupCorpusTool.app;Component/Images/border.png" ) )
             };
             drawing.Children.Add( id );
 

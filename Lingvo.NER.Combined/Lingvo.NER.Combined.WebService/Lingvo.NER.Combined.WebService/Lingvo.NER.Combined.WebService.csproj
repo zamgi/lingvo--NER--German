@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>Lingvo.NER.Combined.WebService</RootNamespace>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
@@ -28,8 +28,8 @@
 
   <ItemGroup>
     <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\ReadInputOptions.cs" Link="Startup\ReadInputOptions.cs" />
-    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Extensions.cs"       Link="Infrastructure\Extensions.cs" />
-    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs"  Link="Infrastructure\Sync_primitives.cs" />
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Extensions.cs" Link="Infrastructure\Extensions.cs" />
+    <Compile Include="..\..\..\Lingvo.NER.NeuralNetwork\Common\Sync_primitives.cs" Link="Infrastructure\Sync_primitives.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -46,9 +46,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
     <PackageReference Include="System.IO.MemoryMappedFiles" Version="4.3.0" />
-    <PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" /> 
   </ItemGroup>
 

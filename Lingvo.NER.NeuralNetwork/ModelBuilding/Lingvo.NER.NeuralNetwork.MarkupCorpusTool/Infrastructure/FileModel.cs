@@ -14,9 +14,9 @@ using System.Xml;
 using System.Xml.Linq;
 using System.Xml.XPath;
 
-using Lingvo.NER.NeuralNetwork.MarkupCorpusTool.Properties;
+using Lingvo.NNER.MarkupCorpusTool.Properties;
 
-namespace Lingvo.NER.NeuralNetwork.MarkupCorpusTool
+namespace Lingvo.NNER.MarkupCorpusTool
 {
     /// <summary>
     /// 

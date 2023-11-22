@@ -5,11 +5,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Lingvo.NER.NeuralNetwork.MarkupCorpusTool")]
+[assembly: AssemblyTitle("Lingvo.NNER.MarkupCorpusTool")]
 [assembly: AssemblyDescription("Name Entity Recognition (NER) markup-corpus-tool")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("zamgi")]
-[assembly: AssemblyProduct("Lingvo.NER.NeuralNetwork.MarkupCorpusTool")]
+[assembly: AssemblyProduct("Lingvo.NNER.MarkupCorpusTool")]
 [assembly: AssemblyCopyright("Copyright © zamgi 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingvo.NER.markup-corpus-tool.app", "Lingvo.NER.markup-corpus-tool.app.csproj", "{85D0F29B-3CFF-4650-ADAE-1CB0DC521CD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingvo.NER.NeuralNetwork.MarkupCorpusTool", "Lingvo.NER.NeuralNetwork.MarkupCorpusTool.csproj", "{85D0F29B-3CFF-4650-ADAE-1CB0DC521CD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

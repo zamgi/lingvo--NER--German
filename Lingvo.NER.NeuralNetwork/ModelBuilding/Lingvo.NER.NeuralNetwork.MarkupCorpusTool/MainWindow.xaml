@@ -1,14 +1,14 @@
-﻿<Window x:Class="Lingvo.NER.NeuralNetwork.MarkupCorpusTool.MainWindow"
+﻿<Window x:Class="Lingvo.NNER.MarkupCorpusTool.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:uc="clr-namespace:Lingvo.NER.NeuralNetwork.MarkupCorpusTool.DropDownButton"
+        xmlns:uc="clr-namespace:System.Windows.Controls"
         mc:Ignorable="d" 
         Title="NER markup-corpus-tool"
         WindowStartupLocation="CenterScreen"
         Height="750" Width="1100" 
-        Icon="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Resources/main-icon.gif"
+        Icon="/Lingvo.NNER.MarkupCorpusTool;component/Resources/main-icon.gif"
         Loaded="Window_Loaded" 
         >
     
@@ -22,12 +22,12 @@
                 <Separator/>
                 <MenuItem Header="(replace)" Click="replaceMenuItem_Click">
                     <MenuItem.Icon>
-                        <Image Source="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/replace.ico" />
+                        <Image Source="/Lingvo.NNER.MarkupCorpusTool;component/Images/replace.ico" />
                     </MenuItem.Icon>
                 </MenuItem>
                 <MenuItem Header="(delete)" Click="deleteMenuItem_Click">
                     <MenuItem.Icon>
-                        <Image Source="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/delete.gif" />
+                        <Image Source="/Lingvo.NNER.MarkupCorpusTool;component/Images/delete.gif" />
                     </MenuItem.Icon>
                 </MenuItem>
             </ContextMenu>
@@ -59,7 +59,7 @@
                                 <ColumnDefinition />
                             </Grid.ColumnDefinitions>
                             <TextBlock Grid.Column="0" Text=" Open file " />
-                            <Image Grid.Column="1" Source="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/open.ico" />
+                            <Image Grid.Column="1" Source="/Lingvo.NNER.MarkupCorpusTool;component/Images/open.ico" />
                         </Grid>
                     </Button>
                     <Separator />
@@ -85,11 +85,11 @@
                             <Image Grid.Column="1">
                                 <Image.Style>
                                     <Style TargetType="Image">
-                                        <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/save_disabled.gif"/>
+                                        <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/save_disabled.gif"/>
                                         <Style.Triggers>
                                             <DataTrigger Binding="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=Button, AncestorLevel=1}, Path=IsEnabled}" 
                                                          Value="True">
-                                                <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/save.gif"/>
+                                                <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/save.gif"/>
                                             </DataTrigger>
                                         </Style.Triggers>
                                     </Style>
@@ -121,11 +121,11 @@
                             <Image Grid.Column="1">
                                 <Image.Style>
                                     <Style TargetType="Image">
-                                        <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/replace_disabled.ico"/>
+                                        <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/replace_disabled.ico"/>
                                         <Style.Triggers>
                                             <DataTrigger Binding="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=Button, AncestorLevel=1}, Path=IsEnabled}" 
                                                          Value="True">
-                                                <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/replace.ico"/>
+                                                <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/replace.ico"/>
                                             </DataTrigger>
                                         </Style.Triggers>
                                     </Style>
@@ -154,11 +154,11 @@
                             <Image Grid.Column="1">
                                 <Image.Style>
                                     <Style TargetType="Image">
-                                        <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/find_disabled.ico"/>
+                                        <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/find_disabled.ico"/>
                                         <Style.Triggers>
                                             <DataTrigger Binding="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=Button, AncestorLevel=1}, Path=IsEnabled}" 
                                                          Value="True">
-                                                <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/find.ico"/>
+                                                <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/find.ico"/>
                                             </DataTrigger>
                                         </Style.Triggers>
                                     </Style>
@@ -171,7 +171,7 @@
                     <Separator Visibility="Collapsed" />
                     <uc:DropDownButton Style="{StaticResource ToolBarDropDownButtonStyle}"
                                        Text="View"
-                                       Image="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/view.ico">
+                                       Image="/Lingvo.NNER.MarkupCorpusTool;component/Images/view.ico">
                         <uc:DropDownButton.DropDownContextMenu>
                             <ContextMenu>
                                 <MenuItem Header="multi-page (no scrolling)" Name="ViewAsPageViewerMenuItem"   IsCheckable="True" IsChecked="False" Click="ViewAsPageViewer_MenuItemClick" />
@@ -203,11 +203,11 @@
                             <Image Grid.Column="1">
                                 <Image.Style>
                                     <Style TargetType="Image">
-                                        <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/save_disabled.gif"/>
+                                        <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/save_disabled.gif"/>
                                         <Style.Triggers>
                                             <DataTrigger Binding="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=Button, AncestorLevel=1}, Path=IsEnabled}" 
                                                          Value="True">
-                                                <Setter Property="Source" Value="/Lingvo.NER.NeuralNetwork.MarkupCorpusTool;component/Images/save.gif"/>
+                                                <Setter Property="Source" Value="/Lingvo.NNER.MarkupCorpusTool;component/Images/save.gif"/>
                                             </DataTrigger>
                                         </Style.Triggers>
                                     </Style>

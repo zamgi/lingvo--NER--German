@@ -8,8 +8,8 @@
     <ProjectGuid>{85D0F29B-3CFF-4650-ADAE-1CB0DC521CD0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lingvo.NER.NeuralNetwork.MarkupCorpusTool</RootNamespace>
-    <AssemblyName>Lingvo.NER.NeuralNetwork.MarkupCorpusTool</AssemblyName>
+    <RootNamespace>Lingvo.NNER.MarkupCorpusTool</RootNamespace>
+    <AssemblyName>Lingvo.NNER.MarkupCorpusTool</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>

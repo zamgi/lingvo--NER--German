@@ -1,4 +1,4 @@
-﻿<Window x:Class="Lingvo.NER.NeuralNetwork.MarkupCorpusTool.PromptDialog"
+﻿<Window x:Class="Lingvo.NNER.MarkupCorpusTool.PromptDialog"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Text for replacement:" 
