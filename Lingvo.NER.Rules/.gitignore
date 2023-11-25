@@ -48,7 +48,6 @@ Temporary Items
 
 *.suo
 git__pull.cmd
-/.vs/*
-/Lingvo.NER.Rules.WebService/.vs/*
+.vs
 /\[resources-bin\]/*
 /packages/*

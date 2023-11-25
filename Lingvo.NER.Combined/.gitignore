@@ -48,8 +48,7 @@ Temporary Items
 
 git__pull.cmd
 *.suo
-/.vs/*
-/Lingvo.NER.NeuralNetwork.WebService/.vs/*
+.vs
 /\[resources-bin\]/*
 
 
