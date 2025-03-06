@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
+    <TargetFramework>net9.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>    
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>   
     <LangVersion>latest</LangVersion>

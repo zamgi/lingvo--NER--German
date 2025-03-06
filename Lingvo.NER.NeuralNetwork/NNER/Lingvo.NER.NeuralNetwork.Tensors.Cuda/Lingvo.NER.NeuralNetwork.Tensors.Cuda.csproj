@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
+    <TargetFramework>net9.0</TargetFramework><!--<TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>-->
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>    
     <OutputType>Library</OutputType>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
@@ -20,9 +20,9 @@
   
   <ItemGroup>
     <PackageReference Include="ManagedCuda-11" Version="11.4.47" />
-    <PackageReference Include="ManagedCuda-CUBLAS" Version="12.4.57" />
-    <PackageReference Include="ManagedCuda-CURAND" Version="12.4.57" />
-    <PackageReference Include="ManagedCuda-NVRTC" Version="12.4.57" />
+    <PackageReference Include="ManagedCuda-CUBLAS" Version="12.8.60" />
+    <PackageReference Include="ManagedCuda-CURAND" Version="12.8.60" />
+    <PackageReference Include="ManagedCuda-NVRTC" Version="12.8.60" />
   </ItemGroup>
   
   <ItemGroup>
