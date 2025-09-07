@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net7.0;net4.8.1</TargetFrameworks>
+    <TargetFrameworks>net9.0;net4.8.1</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
   </PropertyGroup>
@@ -43,6 +43,12 @@
   <ItemGroup>
     <ProjectReference Include="..\Lingvo.NER.Rules-rules\Lingvo.NER.Rules-rules.csproj" />
     <ProjectReference Include="..\Lingvo.NER.Rules.core\Lingvo.NER.Rules.core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net9.0'">
+    <PackageReference Include="System.Configuration.ConfigurationManager">
+      <Version>9.0.5</Version>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
