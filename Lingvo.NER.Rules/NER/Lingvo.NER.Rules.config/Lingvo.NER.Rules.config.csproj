@@ -27,7 +27,7 @@
     <None Remove=".gitignore" />
   </ItemGroup>
 
-  <ItemGroup Condition="'$(TargetFramework)'=='net7.0'">
+  <ItemGroup Condition="'$(TargetFramework)' == 'net9.0'">
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.8" />
   </ItemGroup>
 
@@ -44,11 +44,4 @@
     <ProjectReference Include="..\Lingvo.NER.Rules-rules\Lingvo.NER.Rules-rules.csproj" />
     <ProjectReference Include="..\Lingvo.NER.Rules.core\Lingvo.NER.Rules.core.csproj" />
   </ItemGroup>
-
-  <ItemGroup Condition="'$(TargetFramework)' == 'net9.0'">
-    <PackageReference Include="System.Configuration.ConfigurationManager">
-      <Version>9.0.5</Version>
-    </PackageReference>
-  </ItemGroup>
-
 </Project>
